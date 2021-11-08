@@ -1,0 +1,672 @@
+,name,address,city,postal_code,phone,fax,grades,program
+0,Aboriginal Community Campus #2158,403-181 Higgins Avenue,Winnipeg,R3B 3G1,(204) 989-6244,(204) 989-8870,10 to 12,English
+1,Assiniboine Comm. College Adult Coll. #2156,725 Rosser Avenue,Brandon,R7A 0K8,(204) 725-8735,(204) 725-8740,9 to 12,English
+2,Assiniboine Community College - Parkland #2155,Box 4000 520 Whitmore Avenue East,Dauphin,R7N 2V5,(204) 622-2222,(800) 482-2933,9 to 12,English
+3,Brandon Literacy Council Inc. #2241,129 - 12th Street,Brandon,R7A 4L8,(204) 729-9964,(204) 729-9964,9 to 12,English
+4,Brokenhead Ojibway Adult Learning Centre #2271,Box 179,Scanterbury,R0E 1W0,(204) 766-2850,(204) 766-2753,9 to 12,English
+5,Faith Learning Centre #2204,220 Pritchard Avenue,Winnipeg,R2W 2J1,(204) 586-1416,(888) 449-6820,9 to 12,English
+6,Jobworks Adult Learning Centre #2165,1175 Pembina Hwy,Winnipeg,R3T 2A5,(204) 453-8351,(204) 453-0277,11 to 12,English
+7,Louis Riel Institute Adult Learning Ctr. #2224,103 - 150 Henry Avenue,Winnipeg,R3B 0J7,(204) 984-9480,(204) 984-9484,9 to 12,English
+8,Peguis Adult Education Learning Centre #2225,Box 190,Peguis,R0C 3J0,(204) 645-2452,(204) 645-2810,9 to 12,English
+9,Red River College Adult Learning Centre #2226,F115 - 2055 Notre Dame Avenue,Winnipeg,R3H 0J9,(204) 632-3791,(204) 697-4968,9 to 12,English
+10,Ucn Adult Learning Centre #2166,55 Ucn Drive,Thompson,R8N 1L7,(204) 677-6474,() -,9 to 12,English
+11,Yellowquill College Inc. #2196,480 Madison Street,Winnipeg,R3J 1J1,(204) 953-2800,(204) 953-2810,11 to 12,English
+12,Gonzaga Middle School #2311,174 Maple Street North,Winnipeg,R2W 3L4,(204) 949-7101,(204) 000-0000,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+13,Holy Ghost School #1653,319 Selkirk Avenue,Winnipeg,R2W 2L8,(204) 582-1053,(204) 582-4870,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+14,Our Lady Of Victory School #1241,249 Arnold Avenue,Winnipeg,R3L 0W4,(204) 452-7632,(204) 453-3081,K to 8,"English, French: Communication and Culture - Grades 4-12"
+15,St. Charles Interparochial School #1244,331 St. Charles Street,Winnipeg,R3K 1T6,(204) 837-1520,(204) 837-2326,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+16,St. Edward's School #1430,836 Arlington Street,Winnipeg,R3E 2E4,(204) 774-8773,(204) 775-0011,K to 6,"English, French: Communication and Culture - Grades 4-12"
+17,St. Ignatius School #1829,239 Harrow Street,Winnipeg,R3M 2Y3,(204) 475-1386,(204) 475-3961,N to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+18,St. John Brebeuf School #1729,605 Renfrew Street,Winnipeg,R3N 1J8,(204) 489-2115,(204) 928-7455,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+19,St. Mary's Academy #1478,550 Wellington Crescent,Winnipeg,R3M 0C1,(204) 477-0244,(204) 453-2417,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+20,St. Maurice School #1232,1639 Pembina Highway,Winnipeg,R3T 2G6,(204) 453-4020,(204) 452-4050,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+21,St. Paul's High School #1832,2200 Grant Avenue,Winnipeg,R3P 0P8,(204) 831-2300,(204) 831-2340,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+22,Acadia Colony School #2202,Box 358,Carberry,R0K 0H0,(204) 834-3524,() -,K to 12,English
+23,Brookdale School #1117,General Delivery,Brookdale,R0K 0G0,(204) 354-2166,(204) 354-2346,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+24,Carberry Collegiate #1434,Box 518,Carberry,R0K 0H0,(204) 834-2172,(204) 834-3440,5 to 12,"English, French: Communication and Culture - Grades 4-12"
+25,Fairway Colony School #2098,P.O.Box 330,Douglas,R0K 0R0,(204) 763-4103,() -,K to 12,English
+26,Hazel M. Kellington School #1292,Box 696,Neepawa,R0J 1H0,(204) 476-2323,(204) 476-3449,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+27,J. M. Young School #1184,General Delivery,Eden,R0J 0M0,(204) 966-3487,(204) 966-3508,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+28,Neepawa Area Collegiate #1573,Box 430,Neepawa,R0J 1H0,(204) 476-3305,(204) 476-2765,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+29,Neepawa Middle School #2320,Box 1510,Neepawa,R0J 1H0,(204) 704-3000,(204) 000-0000,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+30,R. J. Waugh Elementary #1645,Box 639,Carberry,R0K 0H0,(204) 834-2828,(204) 834-3749,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+31,Riverbend Colony School #1574,Riverbend Colony Box 344,Carberry,R0K 0H0,(204) 834-2266,(204) 834-3590,K to 12,English
+32,Riverside Colony School #1734,Riverside Colony Box 1360,Neepawa,R0J 1H0,(204) 368-2263,(204) 368-2221,K to 12,English
+33,Rolling Acres School #2236,Box 38,Birnie,R0J 0J0,(204) 966-3496,() -,K to 12,English
+34,Spruce Wood School #1221,Spruce Wood Colony,Brookdale,R0K 0G0,(204) 354-2259,(204) 354-2008,K to 12,English
+35,Twilight Colony School #2127,Box 2380,Neepawa,R0J 1H0,(204) 476-8837,(204) 476-3101,K to 12,English
+36,Willerton School #1311,Springhill Colony Box 1930,Neepawa,R0J 1H0,(204) 476-2740,(204) 476-5713,K to 12,English
+37,Blue Clay Colony School #2086,Box 220,Dominion City,R0A 0H0,(204) 427-2315,(204) 427-3398,K to 12,English
+38,Emerson Elementary #1177,Box 422,Emerson,R0A 0L0,(204) 373-2624,(204) 373-2234,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+39,Glenway Colony School #1380,Glenway Colony Box 291,Dominion City,R0A 0H0,(204) 427-2223,(204) 427-2205,K to 12,English
+40,Green Ridge School #2290,Box 156,Dominion City,R0A 0H0,(204) 427-3827,(204) 427-3879,K to 12,English
+41,Gretna Elementary #1786,Box 90,Gretna,R0G 0V0,(204) 327-5344,(204) 327-5266,K to 8,"English, French: Communication and Culture - Grades 4-12"
+42,Horizon Colony School #2286,120 - 9th Street Nw,Altona,R0G 0B1,(204) 829-3226,(204) 829-3241,K to 12,English
+43,Pineland Colony School #2122,Box 39,Piney,R0A 1K0,(204) 423-2069,(204) 423-2022,K to 12,English
+44,Regional Alternative Education Centre #2181,120 9th Street N.W.,Altona,R0G 0B1,(204) 324-6543,() -,9 to 12,English
+45,Ridgeville Colony School #2123,Box 10,Dominion City,R0A 0H0,(204) 373-2645,(204) 373-2652,K to 12,English
+46,Roseau Valley School #1658,Box 176,Dominion City,R0A 0H0,(204) 427-2143,(204) 427-2615,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+47,Rosenfeld Elementary #1344,Box 33,Rosenfeld,R0G 1X0,(204) 324-8438,(204) 324-6394,K to 6,"English, French: Communication and Culture - Grades 4-12"
+48,Ross L. Gray School #1059,General Delivery,Sprague,R0A 1Z0,(204) 437-2175,(204) 437-2893,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+49,Shevchenko School #1551,Box 1000,Vita,R0A 2K0,(204) 425-3535,(204) 425-3064,K to 12,"English, French: Communication and Culture - Grades 4-12, Intensive French (English Program)"
+50,W. C. Miller Collegiate #1778,181 - 6th Street S.E.,Altona,R0G 0B3,(204) 324-6416,(204) 324-8525,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+51,cole Elmwood School #1730,27 - 4th Street S.W.,Altona,R0G 0B2,(204) 324-8611,(204) 324-8167,K to 3,"Early Immersion, English"
+52,cole Parkside School #1721,155 - 5th Street N.W.,Altona,R0G 0B1,(204) 324-8206,(204) 324-8172,7 to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+53,cole West Park School #1533,83 - 3rd Street N.W.,Altona,R0G 0B1,(204) 324-5319,(204) 324-5229,4 to 6,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+54,Alexander School #1901,Box 21,Alexander,R0K 0A0,(204) 752-2251,(204) 752-2395,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+55,Betty Gibson School #1325,701 - 12th Street,Brandon,R7A 6H7,(204) 729-3965,(204) 729-3969,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+56,Crocus Plains Regional Secondary #1302,1930 - 1st Street,Brandon,R7A 6Y6,(204) 729-3900,(204) 727-2162,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+57,Earl Oxford School #1371,540 - 18th Street,Brandon,R7A 5B2,(204) 729-3270,(204) 729-3278,K to 8,"English, French: Communication and Culture - Grades 4-12"
+58,George Fitton School #1007,1129 - 3rd Street,Brandon,R7A 3E7,(204) 729-3220,(204) 727-7674,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+59,Green Acres School #1112,335 Queens Avenue East,Brandon,R7A 2B9,(204) 729-3265,(204) 729-0345,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+60,J. R. Reid School #1270,813 - 26th Street,Brandon,R7B 2B6,(204) 729-3955,(204) 729-3958,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+61,King George School #1660,535 Park Street,Brandon,R7A 6M6,(204) 729-3990,(204) 729-3996,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+62,Kirkcaldy Heights School #1987,10 Knowlton Drive,Brandon,R7A 6N7,(204) 729-3290,(204) 729-3295,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+63,Linden Lanes School #1631,49 Silver Birch Drive,Brandon,R7B 1A8,(204) 729-3260,(204) 729-3264,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+64,Maryland Park School #2327,700 Maryland Avenue,Brandon,R7A 7X9,(204) 725-7770,(204) 000-0000,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+65,Meadows School #1706,1220 - 22nd Street,Brandon,R7B 1T4,(204) 729-3988,(204) 729-3970,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+66,Neelin High #1758,1020 Brandon Avenue,Brandon,R7A 1K6,(204) 729-3180,(204) 726-5813,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+67,New Era School #1215,527 Louise Avenue,Brandon,R7A 0X1,(204) 729-3161,() -,K to 8,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+68,O'Kelly School #1845,Box 70 C.F.B.Shilo,Shilo,R0K 2A0,(204) 729-0399,(204) 765-2589,K to 8,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+69,Prairie Hope High School #2321,Unit A 638 Princess Avenue,Brandon,R7A 0PE,(204) 725-2630,(204) 725-3920,9 to 12,English
+70,Riverheights School #1604,32 E Fotheringham Drive,Brandon,R7B 3G3,(204) 729-3210,(204) 729-3213,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+71,Riverview School #1603,1105 Louise Avenue East,Brandon,R7A 1Y2,(204) 729-0330,(204) 729-0334,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+72,Spring Valley Colony School #1037,Spring Valley Colony C/O 1031-6th Street,Brandon,R7A 4K5,(204) 729-0320,(204) 727-2217,K to 12,English
+73,St. Augustine School #1593,330 3rd St,Brandon,R7A 3C3,(204) 729-3285,(204) 729-3286,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+84,Christ The King School #1482,12 Lennox Avenue,Winnipeg,R2M 1A6,(204) 257-0027,(204) 257-2129,N to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+85,Holy Cross School #1549,300 Dubuc Street,Winnipeg,R2H 1E4,(204) 237-4936,(204) 237-7433,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+86,Immaculate Heart Of Mary School #1523,650 Flora Avenue,Winnipeg,R2W 2S5,(204) 582-5698,(204) 586-6698,N to 8,"English, French: Communication and Culture - Grades 4-12, Ukrainian"
+87,St. Alphonsus School #1087,343 Munroe Avenue,Winnipeg,R2K 1H2,(204) 667-6271,(204) 663-4187,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+88,St. Boniface Diocesan High School #1257,282 Dubuc Street,Winnipeg,R2H 1E4,(204) 987-1560,(204) 237-9891,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+89,St. Emile School #1791,552 St. Anne'S Road,Winnipeg,R2M 3G4,(204) 989-5020,(204) 989-5026,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+90,St. Gerard School #1562,40 Foster Street,Winnipeg,R2L 1V7,(204) 667-4862,(204) 668-7932,N to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+91,St. Joseph The Worker School #1756,505 Brewster Street,Winnipeg,R2C 2W6,(204) 222-1841,(204) 222-1769,N to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+92,Centre Scolaire Lo-Rmillard #2255,1095 Chemin Sainte-Anne,Winnipeg,R2N 4G5,(204) 256-2831,(204) 256-3848,9 to 12,Francais
+93,Cntr D'Apprentissage Franco-Manitobain #2262,585 Rue St. Jean-Baptiste,Winnipeg,R2H 2Y2,(204) 237-8927,(204) 235-0139,9 to 12,Francais
+94,Collge Louis-Riel #1287,585 Rue St-Jean-Baptiste,Saint-Boniface,R2H 2Y2,(204) 237-8927,(204) 235-0139,7 to 12,Francais
+95,cole Christine-Lesprance #1332,425 Chemin John Forsyth,Winnipeg,R2N 4J3,(204) 255-2081,(204) 257-2545,M to 8,Francais
+96,cole Communautaire Aurle-Lemoine #2078,"Case Postale 900 81, Chem.Des Anc. Combattants",Saint-Laurent,R0C 2S0,(204) 646-2392,(204) 646-2235,M to 12,Francais
+97,cole Communautaire Gilbert-Rosset #2147,Case Postale 147 108 Avenue Bériault,Saint-Claude,R0G 1Z0,(204) 379-2177,(204) 379-2166,N to 12,Francais
+98,cole Communautaire La Voie Du Nord #2267,Case Postale 1223 Station Main 271 Chemin Weir,Thompson,R8N 1P1,(204) 778-8699,(204) 778-5465,M to 12,Francais
+99,cole Communautaire Ral-Brard #1870,Case Postale 490 377 Rue Sabourin,Saint-Pierre-Jolys,R0A 1V0,(204) 433-7706,(204) 433-3086,M to 12,Francais
+100,cole Communautaire Saint-Georges #2091,Case Postale 159 14 Baie Caron,Saint-Georges,R0E 1V0,(204) 367-4224,(204) 367-4680,N to 12,Francais
+101,cole Jours De Plaine #2104,Case Postale 135 283 - Route Prov. 480,Laurier,R0J 1A0,(204) 447-3364,(204) 447-2954,N to 12,Francais
+102,cole La Source #2231,Case Postale 240 T-102 Avenue St. Barbara,Shilo,R0K 2A0,(204) 765-5050,(204) 765-2187,M to 12,Francais
+103,cole Lacerte #1180,1101 Promenade Autumnwood,Saint-Boniface,R2J 1C8,(204) 256-4384,(204) 254-7855,M to 8,Francais
+104,cole Lagimodire #1770,Case Postale 130 361 Rue Senez,Lorette,R0A 0Y0,(204) 878-3621,(204) 878-2866,M to 8,Francais
+105,cole Nord-Est #2329,"851, Chemin Panet",Winnipeg,R2K 4C,(204) 878-4424,(204) 000-0000,M to 1,Francais
+106,cole Nol-Ritchot #1204,45 Avenue De La Digue,Saint-Norbert,R3V 1M7,(204) 261-0380,(204) 269-1704,M to 8,Francais
+107,cole Pointe-Des-Chnes #1648,90 Chemin Arena,Sainte-Anne,R5H 1G6,(204) 422-5505,(204) 422-9934,M to 12,Francais
+108,cole Prcieux-Sang #1887,209 Rue Kenny,Saint-Boniface,R2H 2E5,(204) 233-4327,(204) 233-9109,M to 8,Francais
+109,cole Romo-Dallaire #2211,81 Chemin Quail Ridge,Winnipeg,R2Y 2A9,(204) 885-8000,(204) 885-8005,M to 8,Francais
+110,cole Rgionale Notre-Dame #1671,Case Postale 250 45 Avenue Notre-Dame Ouest,N.-D.-De-Lourdes,R0G 1M0,(204) 248-2147,(204) 248-2371,M to 12,Francais
+111,cole Rgionale Saint-Jean-Baptiste #1152,"Case Postale 130 113, 2e Avenue",Saint-Jean-Baptiste,R0G 2B0,(204) 758-3501,(204) 758-3243,M to 12,Francais
+122,Brandon School Division Summer School #2233,C/O Crocus Plains High School 1930 - 1st Street,Brandon,R7A 6Y6,(204) 729-3900,(204) 727-2162,9 to 12,English
+123,Distance Learning Unit #2112,Main Plaza 555 Main Street,Winkler,R6W 1C4,(204) 325-9652,(0) -,9 to 12,English
+124,Inform Net #2305,181 Henlow Bay,Winnipeg,R3Y 1M7,(204) 888-7957,(204) 831-0859,9 to 12,English
+125,Nelson Mcintyre Coll. Summer School #2013,188 St. Mary'S Road,Winnipeg,R2H 1H9,(204) 237-0219,(204) 237-1615,9 to 12,English
+126,Red River College #2016,C 116-2055 Notre Dame Avenue,Winnipeg,R3H 0J9,(204) 694-1789,(204) 633-6489,00 to 00,English
+127,Seven Oaks S.D. Summer School #2099,C/O Maples Coll. I.T. Centre 2nd Floor-1330 Jefferson Ave.,Winnipeg,R2P 1L3,(204) 927-3700,(204) 927-3705,9 to 12,English
+128,St. James-Assiniboia Summer School #2008,St. James Collegiate 1900 Portage Avenue,Winnipeg,R3J 0J1,(204) 888-4867,(204) 889-0830,9 to 12,English
+129,Turtle Mountain Sch. Div. Summer School #2140,Box 280,Killarney,R0K 1G0,(204) 523-4492,(204) 523-4054,9 to 12,English
+130,Univ. Of Winnipeg Coll. Summer School #2011,2w04-515 Portage Avenue,Winnipeg,R3B 2E9,(204) 786-9221,(204) 775-1942,10 to 12,English
+131,Wapaskwa Virtual Collegiate #2289,C/O Mfnerc 2 - 1100 Waverley Street,Winnipeg,R3T 3X9,(204) 594-1290,(204) 942-2490,7 to 12,English
+132,Winnipeg S.D. Summer School #2009,401 Church Avenue,Winnipeg,R2W 1C4,(204) 586-5015,(0) -,10 to 12,English
+133,Arborg Collegiate #1587,Box 220 461 St. Peter Street,Arborg,R0C 0A0,(204) 376-2605,(204) 376-5160,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+134,Arborg Early/Middle Years School #1423,Box 670,Arborg,R0C 0A0,(204) 376-5054,(204) 376-2958,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+135,Dr. George Johnson Middle School #1300,Box 1170,Gimli,R0C 1B0,(204) 642-8581,(204) 642-8281,5 to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+136,Gimli High School #1368,Box 1260,Gimli,R0C 1B0,(204) 642-8546,(204) 642-5063,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+137,Riverton Collegiate #1857,Box 749,Riverton,R0C 2R0,(204) 378-5135,(204) 378-5201,8 to 12,"English, French: Communication and Culture - Grades 4-12"
+138,Riverton Early Middle Years School #2133,Box 280,Riverton,R0C 2R0,(204) 378-5145,(204) 378-2964,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+139,Sigurbjorg Stefansson Early School #2212,Box 7500,Gimli,R0C 1B0,(204) 642-1500,(204) 642-1468,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+140,Winnipeg Beach School #1601,Box 130,Winnipeg Beach,R0C 3G0,(204) 389-2176,(204) 389-3864,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+141,'72 Memorial High School #2135,General Delivery,Oxford House,R0B 1C0,(204) 538-2020,(204) 538-2075,7 to 12,English
+142,Abbalak Thunderswift Memorial School #1387,Box 160,Little Grand Rapids,R0B 0V0,(204) 397-2199,(204) 397-2102,N to 9,"Bilingual, English"
+143,Amos Okemow Memorial School #1668,Box 103,God'S River,R0B 0N0,(204) 366-2070,(204) 366-2105,N to 11,English
+144,Anicinabe Community School #1329,Box 219,Pine Falls,R0E 1M0,(204) 367-2285,(204) 367-9231,N to 3,English
+145,Charles Sinclair School #1969,Box 109,Koostatak,R0C 1S0,(204) 645-2206,(204) 645-2614,N to 6,English
+146,Chemawawin School #1058,Box 10,Easterville,R0C 0V0,(204) 329-2115,(204) 329-2214,N to 12,English
+147,Chief Charles Thomas Audy Memorial Sch. #2090,Box 307,Birch River,R0L 0E0,(204) 236-4783,(204) 236-4779,N to 8,English
+148,Chief Clifford Lynxleg Anishinabe School #1937,Valley River Reserve,Shortdale,R0L 1W0,(204) 546-2641,(204) 546-3120,N to 7,English
+149,Chief Sam Cook Mahmuwee Education Centre #2038,General Delivery,Split Lake,R0B 1P0,(204) 342-2295,(204) 342-2139,N to 12,English
+150,Donald Ahmo School #2060,General Delivery,Crane River,R0L 0M0,(204) 732-2548,(204) 732-2753,N to 8,English
+151,Ebb And Flow School #1240,General Delivery,Ebb And Flow,R0L 0R0,(204) 448-2012,(204) 448-2393,N to 12,English
+152,Fisher River High School #2315,"P.O. Box 360, Lot 78",Fisher River,R0C 1S0,(204) 645-3313,(204) 645-3364,7 to 12,English
+153,Fox Lake School #2082,P.O. Box 279,Gillam,R0B 0L0,(204) 486-2307,(204) 486-2606,N to 8,English
+154,Garden Hill First Nations High School #2092,General Delivery,Island Lake,R0B 0T0,(204) 456-2886,(204) 456-2894,7 to 12,English
+155,George Knott School #2067,General Delivery,Waasagomach,R0B 1Z0,(204) 457-2485,(204) 457-2273,N to 12,English
+156,George Saunders Memorial School #1314,General Delivery P.O. Box 255,York Landing,R0B 2B0,(204) 341-2118,(204) 341-2235,N to 8,English
+157,Ginew School #1912,Box 10,Ginew,R0A 2R0,(204) 427-2490,(204) 427-2398,N to 8,English
+158,God's Lake Narrows First Nation School #2080,General Delivery,God'S Lake Narrows,R0B 0M0,(204) 335-2003,(204) 335-2440,N to 9,English
+159,Indian Springs School #1068,Box 145,Swan Lake,R0G 2S0,(204) 836-2332,(204) 836-2317,N to 8,English
+160,Isaac Beaulieu Memorial #1402,Marius Post Office,Marius,R0H 0T0,(204) 843-2407,(204) 843-2269,N to 12,English
+201,Hapnot Collegiate #1865,115 Green Street,Flin Flon,R8A 0P7,(204) 687-7506,(204) 687-8667,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+202,Many Faces Education Centre #2085,115 Green Street,Flin Flon,R8A 0P7,(204) 687-6354,(204) 687-5116,9 to 12,English
+203,Many Faces Education Centre Alc #2249,115 Green Street,Flin Flon,R8A 0P7,(204) 687-6354,(204) 687-5116,9 to 12,English
+204,Ruth Betts Community School #1736,9 Terrace Avenue,Flin Flon,R8A 1S2,(204) 687-7538,(204) 687-5131,K to 8,"English, French: Communication and Culture - Grades 4-12"
+205,cole Mcisaac School #1178,336 Princess Boulevard,Flin Flon,R8A 0K8,(204) 687-7578,(204) 687-5145,K to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+206,Boundary Lane Colony School #2121,Box 164,Elkhorn,R0M 0N0,(204) 845-2662,(204) 845-2576,K to 12,English
+207,Elkhorn School #1476,Box 310,Elkhorn,R0M 0N0,(204) 845-2118,(204) 845-2476,K to 12,"Early Start French, English"
+208,Goulter School #1224,Box 1090,Virden,R0M 2C0,(204) 748-2294,(204) 748-1803,K to 4,"English, French: Communication and Culture - Grades 4-12"
+209,Kola School #1672,Box 312,Kola,R0M 1B0,(204) 556-2347,(204) 556-2425,1 to 8,English
+210,Mary Montgomery School #1902,Box 700,Virden,R0M 2C0,(204) 748-2575,() -,K to 4,"English, French: Communication and Culture - Grades 4-12"
+211,Oak Lake Community School #1711,Box 7,Oak Lake,R0M 1P0,(204) 855-2242,(204) 855-2906,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+212,Plainview Colony School #1313,Plainview Colony Box 59,Elkhorn,R0M 0N0,(204) 845-2273,(204) 845-2127,K to 12,English
+213,Reston School #1427,Box 160,Reston,R0M 1X0,(204) 877-3994,(204) 877-3101,K to 12,English
+214,Virden Collegiate #1043,Box 1418,Virden,R0M 2C0,(204) 748-2205,(204) 748-3555,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+215,Virden Junior High #1567,Box 1510,Virden,R0M 2C0,(204) 748-1932,(204) 748-1944,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+216,Barrows Junction School #1820,General Delivery,Barrows Junction,R0L 0B0,(204) 545-6246,(204) 545-6228,N to 9,English
+217,Berens River School #1680,Box 344,Berens River,R0B 0A0,(204) 382-2153,(204) 382-2422,N to 9,English
+218,Black River Anishinabe School #1408,General Delivery,O'Hanley,R0E 1K0,(204) 367-8298,(204) 367-2266,N to 10,English
+219,Brochet School #1522,Box 70,Brochet,R0B 0B0,(204) 323-2051,(204) 323-2053,N to 9,English
+220,Chan Kagha Otina Dakota Wayawa Tipi Sch. #1934,Box 40,Beulah,R0M 0B0,(204) 568-4757,(204) 568-4762,N to 12,English
+221,Cold Lake School #1031,General Delivery,Sherridon,R0B 1L0,(204) 468-2021,(204) 468-2039,K to 8,English
+222,Cormorant Lake School #1839,General Delivery,Cormorant,R0B 0G0,(204) 357-2225,(204) 357-2178,N to 10,English
+223,Cranberry Portage Elementary #1595,General Delivery,Cranberry Portage,R0B 0H0,(204) 472-3250,(204) 472-3622,N to 8,English
+224,D. R. Hamilton School #1008,Box 70,Cross Lake,R0B 0J0,(204) 676-2278,(204) 676-2045,N to 9,English
+225,Dauphin River School #1968,Box 140,Gypsumville P.O.,R0C 1J0,(204) 659-5268,(204) 659-5790,N to 8,English
+226,Duck Bay School #1788,Box 123,Duck Bay,R0L 0N0,(204) 524-2394,(204) 524-2267,N to 9,English
+227,Duke Of Marlborough School #1904,Box 338,Churchill,R0B 0E0,(204) 675-2737,(204) 675-2617,N to 12,English
+228,Falcon Beach School #1984,Box 70,Falcon Lake,R0E 0N0,(204) 349-2295,(204) 349-2274,N to 10,English
+229,Frontier Collegiate #1852,General Delivery,Cranberry Portage,R0B 0H0,(204) 472-3431,(204) 472-3191,9 to 12,English
+230,Frontier Mosakahiken School #1528,General Delivery,Moose Lake,R0B 0Y0,(204) 678-2353,(204) 678-2312,N to 12,English
+231,Frontier S.D. Adult Education Program #2206,30 Speers Road,Winnipeg,R2J 1L9,(204) 258-2722,(204) 258-2063,9 to 12,English
+232,Gillam School #1024,Box 370,Gillam,R0B 0L0,(204) 652-2193,(204) 652-2150,N to 12,English
+233,Grand Rapids School #1278,General Delivery,Grand Rapids,R0C 1E0,(204) 639-2451,(204) 639-2605,N to 12,English
+234,Gypsumville School #2021,General Delivery,Gypsumville,R0C 1J0,(204) 659-4475,(204) 659-5708,K to 8,English
+235,Helen Betty Osborne Ininiw Edu. Res. Ctr #2232,Box 790,Norway House,R0B 1B0,(204) 359-4100,(204) 359-4803,N to 12,English
+266,Blumenfeld School #1334,Border Valley Unit Box 1510,Winkler,R6W 4B4,(204) 325-7208,(204) 325-0050,1 to 8,English
+267,Border Valley Elementary #1444,Border Valley Unit Box 1510,Winkler,R6W 4B4,(204) 325-8674,(204) 325-5559,K to 8,English
+268,Edelweiss School #1107,Plum Coulee Unit Box 108,Plum Coulee,R0G 1R0,(204) 829-3973,(204) 829-3632,K to 12,English
+269,Emerado Centennial #2248,675 Prairieview Drive,Winkler,R6W 1M5,(204) 331-4533,(204) 331-3656,4 to 8,"English, French: Communication and Culture - Grades 4-12"
+270,Garden Valley Collegiate #1565,736 Main Street,Winkler,R6W 4C8,(204) 325-8008,(204) 325-5894,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+271,Hochfeld School #1339,C/O Southwood Unit 224 Hespeler Avenue E.,Schanzenfeld,R6W 1K3,(204) 325-8592,(204) 325-1095,1 to 8,English
+272,J. R. Walkof Elementary #1544,800 Southview Drive,Winkler,R6W 4E1,(204) 325-7765,(204) 325-5903,K to 3,English
+273,Northlands Parkway Collegiate #2285,139 Northlands Parkway East,Winkler,R6W 0E9,(204) 325-8200,(204) 325-8600,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+274,Parkland Elementary School #2053,1100 Roblin Blvd,Winkler,R6W 1G2,(204) 325-6373,(204) 325-4066,K to 8,"English, French: Communication and Culture - Grades 4-12"
+275,Pine Ridge Elementary School #2316,Box 1330 750 Triple E. Blvd,Winkler,R6W 4B3,(204) 000-0000,(204) 000-0000,K to 8,"English, French: Communication and Culture - Grades 4-12"
+276,Plum Coulee School #1717,Plum Coulee Unit Box 108,Plum Coulee,R0G 1R0,(204) 325-9852,(204) 829-3632,K to 8,"English, French: Communication and Culture - Grades 4-12"
+277,Prairie Dale School #2275,39 Church Street South,Schanzenfeld,R6W 0E4,(204) 325-8203,(204) 325-8256,4 to 8,"English, French: Communication and Culture - Grades 4-12"
+278,Southwood Elementary #1091,224 Hespeler Avenue E.,Schanzenfeld,R6W 1K3,(204) 325-8592,(204) 325-5989,K to 3,English
+279,Winkler Elementary #1124,284 8th Street,Winkler,R6W 4C9,(204) 325-9501,(204) 325-5902,K to 8,"English, French: Communication and Culture - Grades 4-12"
+280,Blumenort School #1122,10 Park Street,Blumenort,R0A 0C1,(204) 326-1757,(204) 326-8125,K to 8,"English, French: Communication and Culture - Grades 4-12"
+281,Bothwell School #1882,Box 220 25 Crown Valley Rd. E.,New Bothwell,R0A 1C0,(204) 388-4422,(204) 388-4686,K to 8,"English, French: Communication and Culture - Grades 4-12"
+282,Clearspring Middle School #2282,1 Brighton Lane,Steinbach,R5G 0Y2,(204) 346-9644,(204) 346-9714,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+283,Crystal Springs School #1469,Box 10,Ste. Agathe,R0G 1Y0,(204) 433-2545,(204) 433-2546,K to 12,English
+284,Elmdale School #1198,160 Elmdale Street,Steinbach,R5G 0P3,(204) 326-3325,(204) 326-3358,K to 4,English
+285,Green Valley School #1693,Box 29,Grunthal,R0A 0R0,(204) 434-6415,(204) 434-9010,5 to 12,"English, French: Communication and Culture - Grades 4-12"
+286,Kleefeld School #1234,Box 80,Kleefeld,R0A 0V0,(204) 377-4751,(204) 377-4545,K to 8,"English, French: Communication and Culture - Grades 4-12"
+287,Landmark Collegiate #1129,Box 40,Landmark,R0A 0X0,(204) 355-4020,(204) 355-4171,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+288,Landmark Elementary School #2051,Po Box 260,Landmark,R0A 0X0,(204) 355-4663,(204) 355-4360,K to 6,"English, French: Communication and Culture - Grades 4-12"
+289,Mitchell Elementary School #1959,99 Stanway Bay,Mitchell,R5G 1J4,(204) 326-6622,(204) 346-0500,K to 4,English
+290,Mitchell Middle School #2229,203 Third Street,Mitchell,R5G 1H7,(204) 320-9488,(204) 326-5332,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+291,Niverville Elementary #1777,Box 239,Niverville,R0A 1E0,(204) 388-4861,(204) 388-4511,K to 5,English
+292,Niverville High School #2319,401 Center Street,Niverville,R0A 1E0,(204) 388-9761,(204) 388-9998,9 to 12,English
+293,Niverville Middle School #1309,Box 188,Niverville,R0A 1E0,(204) 388-4731,(204) 388-6900,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+294,South Oaks Elementary #1590,Box 550,Grunthal,R0A 0R0,(204) 434-6165,(204) 434-6159,K to 4,English
+295,Southwood School #1513,155 Barkman Avenue,Steinbach,R5G 0P2,(204) 326-3518,(204) 326-7535,K to 4,English
+296,Steinbach Regional Secondary #1353,190 Mckenzie Avenue,Steinbach,R5G 0P1,(204) 326-6426,(204) 326-1113,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+297,Stonybrook Middle School #1437,77 Lumber Avenue,Steinbach,R5G 0R3,(204) 326-6481,(204) 326-3014,5 to 9,"English, French: Communication and Culture - Grades 4-12"
+298,Woodlawn School #1182,411 Henry St. East,Steinbach,R5G 0R1,(204) 326-6110,(204) 346-0605,K to 4,English
+299,Home Schools #1950,507-1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 945-8138,(204) 948-3870,00 to 00,English
+300,Acadmie Islamique Du Manitoba #2221,208 Provencher Blvd. P.O. Box 153,Winnipeg,R2H 3B4,(204) 231-4441,(204) 254-8144,K to 8,"Arabic, Early Start French, English, French: Communication and Culture - Grades 4-12, Partial Francais"
+301,Alhijra Islamic School #2114,410 Desalaberry Avenue,Winnipeg,R2L 0Y7,(204) 489-1300,(204) 489-1323,K to 9,English
+302,Austin Christian Academy #1733,Box 460,Austin,R0H 0C0,(204) 637-2303,(204) 637-3127,K to 12,"English, French: Communication and Culture - Grades 4-12"
+303,Balmoral Hall School #1536,630 Westminster Avenue,Winnipeg,R3C 3S1,(204) 784-1600,(204) 774-5534,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+304,Beautiful Savior Lutheran School #2102,52 Birchdale Ave.,Winnipeg,R2H 1R9,(204) 984-9600,(204) 984-9607,N to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+305,Calvin Christian School #1077,245 Sutton Avenue,Winnipeg,R2G 0T1,(204) 338-7981,(204) 339-3280,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+306,Cartwright Community Independent Sch. #2055,Box 419 810 Broadway Street,Cartwright,R0K 0L0,(204) 529-2357,(204) 529-2455,12 to 12,English
+307,Children's House #1861,150 Pacific Avenue,Winnipeg,R3B 3K8,(204) 956-1622,(204) 956-7088,N to K,English
+308,Christian Heritage School #1148,2025 26th Street,Brandon,R7B 3Y2,(204) 725-3209,(204) 728-9641,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+309,Community Bible Fellowship Christian #1239,Box 1630,Swan River,R0L 1Z0,(204) 734-2174,(204) 734-5706,N to 8,English
+310,Dasmesh School #2284,3707 Roblin Blvd,Winnipeg,R3R 0E2,(204) 633-6670,(205) 614-6514,N to 10,English
+311,Dufferin Christian School #1157,Box 1450,Carman,R0G 0J0,(204) 745-2278,(204) 745-3441,K to 12,"English, French: Communication and Culture - Grades 4-12"
+312,Faith Academy #1315,437 Matheson Ave.,Winnipeg,R2W 0E1,(204) 582-3400,(204) 582-2616,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+313,Green Acres Colony High School #2151,Box 190,Wawanesa,R0K 2G0,(204) 824-2112,(204) 824-2112,9 to 12,English
+314,H. B. Community School #2117,Box 40,Macgregor,R0H 0R0,(204) 252-2178,(204) 252-2381,K to 12,English
+315,Immanuel Christian School #1274,215 Rougeau Avenue,Winnipeg,R2C 3Z9,(204) 661-8937,(204) 669-7013,K to 12,"English, French: Communication and Culture - Grades 4-12"
+316,Inspired Explorations Learning Community #2308,Unit A - 5905 Roblin Blvd,Winnipeg,R3R 0G8,(204) 396-1787,(204) 000-0000,N to 4,English
+317,Iqra Islamic School #2291,404 Webb Place,Winnipeg,R3B 3J4,(204) 615-1119,(204) 615-1116,N to 8,"Arabic, English"
+318,Kola Community School #2197,Box 553,Kola,R0M 1B0,(204) 556-2488,(204) 556-2425,N to K,English
+319,Lakeside Christian School #1998,Box 894 237 Hammond Street,Killarney,R0K 1G0,(204) 523-8240,(204) 523-8351,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+350,Behavioural Health Foundation #2235,35 Ave De La Digue,St. Norbert,R3V 1L6,(204) 269-3430,(204) 269-8049,K to 6,English
+351,Child & Adolescent Treatment Centre #1948,1240 - 10th Street,Brandon,R7A 7L6,(204) 578-2700,(204) 578-2850,1 to 12,English
+352,Gladys Cook Education Centre #1219,#2 River Road Box 1342,Portage La Prairie,R1N 3A9,(204) 239-3029,(204) 239-3025,1 to 12,English
+353,Jobworks Alternative High School #2254,1175 Pembina Highway,Winnipeg,R3T 2A5,(204) 453-8351,(204) 453-0277,9 to 12,English
+354,Manitoba School For The Deaf #1570,242 Stradford Street,Winnipeg,R2Y 2C9,(204) 945-8934,(204) 945-1767,K to 12,"American Sign Language, English"
+355,Manitoba Youth Centre #1049,170 Doncaster Street,Winnipeg,R3N 1X9,(204) 239-3029,(204) 239-3025,K to 12,English
+356,Marymound School #1798,442 Scotia Street,Winnipeg,R2V 1X4,(204) 336-5285,(204) 338-4690,1 to 12,English
+357,New Directions Inc. School #2301,500 - 717 Portage Avenue,Winnipeg,R3G 0M8,(204) 786-7051,(204) 774-6468,9 to 11,English
+358,St. Amant School #1620,440 River Road,Winnipeg,R2M 3Z9,(204) 258-7059,(204) 258-7066,K to 12,English
+359,Balmoral School #1028,General Delivery,Balmoral,R0C 0H0,(204) 467-2501,() -,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+360,Brant-Argyle School #1752,Box 70,Argyle,R0C 0B0,(204) 467-2683,() -,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+361,Concord School #1967,Concord Colony Box 940,Stony Mountain,R0C 3A0,(204) 344-5840,() -,K to 12,English
+362,Grosse Isle School #1282,Box 1,Grosse Isle,R0C 1G0,(204) 467-2560,() -,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+363,Kelsey School #1610,Box 82,Rosser,R0H 1E0,(204) 633-3485,() -,K to 12,English
+364,Lightly School #1283,Clearwater Colony Box 103,Balmoral,R0C 0H0,(204) 272-8081,() -,K to 12,English
+365,Mallard School #2143,"Box 7, Group 40",Warren,R0C 3E0,(204) 322-5424,() -,K to 12,English
+366,Meadow Lane School #2299,C/O Meadow Lane Colony Box 68,Rosser,R0H 1E0,(204) 322-5661,() -,K to 12,English
+367,New Haven School #1205,New Haven Colony Box 100,Argyle,R0C 0B0,(204) 467-8700,() -,K to 12,English
+368,Omega School #1433,Interlake Colony Box 138,Teulon,R0C 3B0,(204) 886-2574,() -,K to 12,English
+369,Prairie Blossom School #2113,General Delivery,Balmoral,R0C 0H0,(204) 467-8012,() -,K to 12,English
+370,Rock Lake School #1572,Rock Lake Colony Box 158,Grosse Isle,R0C 1G0,(204) 322-5345,() -,K to 12,English
+371,Rosser School #1346,Box 130,Rosser,R0H 1E0,(204) 467-2717,() -,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+372,Stonewall Centennial School #1879,573 - 2nd Avenue N,Stonewall,R0C 2Z0,(204) 467-5502,() -,5 to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+373,Stonewall Collegiate #1145,297 - 5th St West,Stonewall,R0C 2Z0,(204) 467-5539,() -,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+374,Stony Mountain Elementary #1381,General Delivery,Stony Mountain,R0C 3A0,(204) 344-5459,() -,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+375,Teulon Collegiate #1650,Box 189,Teulon,R0C 3B0,(204) 886-2593,() -,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+376,Teulon Elementary #1494,Box 143,Teulon,R0C 3B0,(204) 886-2620,() -,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+377,Warren Collegiate #1908,Box 580,Warren,R0C 3E0,(204) 322-5586,() -,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+378,Warren Elementary #1710,Box 610,Warren,R0C 3E0,(204) 322-5576,() -,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+389,Kelsey Community School #1386,Box 4700,The Pas,R9A 1R4,(204) 623-7421,(204) 623-2713,K to 5,"English, French: Communication and Culture - Grades 4-12"
+390,Kelsey Learning Centre #2207,Box 4700,The Pas,R9A 1RA,(204) 627-8562,(204) 623-1309,9 to 12,English
+391,Margaret Barbour Collegiate Institute #1724,Box 4700 429 Smith Avenue,The Pas,R9A 1R4,(204) 623-3485,(204) 623-3139,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+392,Mary Duncan School #1616,Box 4700,The Pas,R9A 1R4,(204) 623-1420,(204) 623-1309,7 to 12,English
+393,Scott Bateman Middle School #1260,Box 4700,The Pas,R9A 1R4,(204) 623-3411,(204) 623-6276,6 to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+394,cole Opasquia School #1021,Box 4700,The Pas,R9A 1R4,(204) 623-3459,(204) 623-6599,K to 5,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+395,Alf Cuthbert School #1816,Box 220,Moosehorn,R0C 2E0,(204) 768-2396,(204) 768-3234,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+396,Ashern Central School #1090,Box 1200,Ashern,R0C 0E0,(204) 768-2571,(204) 768-2879,5 to 12,"English, French: Communication and Culture - Grades 4-12"
+397,Ashern Early Years School #2116,Box 1400,Ashern,R0C 0E0,(204) 768-2625,(204) 768-3656,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+398,Broad Valley Colony School #1123,Broad Valley Colony Box 8,Poplarfield,R0C 2N0,(204) 372-8573,(204) 372-8573,K to 12,English
+399,Eriksdale School #1116,Box 179,Eriksdale,R0C 0W0,(204) 739-2635,(204) 739-2735,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+400,Fieldstone Ventures Edu. & Training Ctr. #2205,Box 1600,Ashern,R0C 0E0,(204) 768-3797,(204) 768-9082,9 to 12,English
+401,Fisher Branch Collegiate #1765,Box 250,Fisher Branch,R0C 0Z0,(204) 372-6459,(204) 372-6363,5 to 12,"English, French: Communication and Culture - Grades 4-12"
+402,Fisher Branch Early Years School #1424,Box 355,Fisher Branch,R0C 0Z0,(204) 372-6615,(204) 372-6100,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+403,Inwood School #1612,Box 220,Inwood,R0C 1P0,(204) 278-3347,(204) 278-3208,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+404,Lundar School #1130,Box 602,Lundar,R0C 1Y0,(204) 762-5610,(204) 762-5942,K to 12,English
+405,Marble Ridge Colony School #1168,Marble Ridge Colony Box 310,Hodgson,R0C 1N0,(204) 372-8830,(204) 372-8830,K to 12,English
+406,Centennial School #1483,19 Centennial Avenue,Selkirk,R1A 0C8,(204) 482-3265,(204) 785-2209,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+407,Daerwood School #1040,211 Main Street,Selkirk,R1A 1R7,(204) 482-4326,(204) 482-3033,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+408,East Selkirk Middle School #2256,Box 310 1140 Strathcona Road,East Selkirk,R0E 0M0,(204) 785-2036,(204) 785-2465,5 to 9,"English, French: Communication and Culture - Grades 4-12, Ukrainian"
+409,Happy Thought School #1181,Box 6 Group 35 Rr1,East Selkirk,R0E 0M0,(204) 482-4521,(204) 785-2872,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12, Ukrainian"
+410,Lockport School #1657,129 Lockport Road,Lockport,R1A 3H6,(204) 757-9881,(204) 757-2624,7 to 9,"English, French: Communication and Culture - Grades 4-12"
+411,Lord Selkirk Adult Learning Program #2168,205 Mercy Street,Selkirk,R1A 2C8,(204) 482-2121,(204) 482-2124,9 to 12,English
+412,Lord Selkirk Regional Secondary #1641,221 Mercy Street,Selkirk,R1A 2C8,(204) 482-6926,(204) 785-2571,10 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+413,Mapleton School #1598,112 Calder Road,Selkirk,R1A 4B5,(204) 482-4409,(204) 482-6771,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+414,Netley School #2111,Box 100,Petersfield,R0C 2L0,(204) 738-4630,(204) 738-4697,K to 12,English
+415,Robert Smith Elementary #1897,300 Sophia Street,Selkirk,R1A 2E2,(204) 482-3677,(204) 482-8240,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+416,Ruth Hooker School #1799,430 Morris Avenue,Selkirk,R1A 1B4,(204) 482-3614,(204) 482-3078,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+417,Selkirk Junior High #1835,516 Stanley Avenue,Selkirk,R1A 0S1,(204) 785-8514,(204) 482-1248,7 to 9,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+418,St. Andrews School #1640,8 St. Andrews Road,St. Andrews,R1A 2Y1,(204) 334-6083,(204) 334-3148,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+419,Walter Whyte School #1343,Box 189,Grand Marais,R0E 0T0,(204) 754-2240,(204) 754-2194,K to 9,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+420,William S. Patterson School #1288,Box 100,Clandeboye,R0C 0P0,(204) 738-4700,(204) 738-2574,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+421,cole Bonaventure #2083,516a Avenue Stanley,Selkirk,R1A 0S1,(204) 785-8284,(204) 482-8370,M to 6,Early Immersion
+422,Archwood School #1136,800 Archibald Street,Winnipeg,R2J 0Y4,(204) 233-7983,(204) 233-7989,K to 8,"English, French: Communication and Culture - Grades 4-12"
+423,Collge Bliveau #1878,296 Chemin Speers,Winnipeg,R2J 1M7,(204) 255-3205,(204) 255-0692,7 to 12,Early Immersion
+424,Collge Jeanne-Sauv #2027,1128 Rue Dakota,Winnipeg,R2N 3T8,(204) 257-0124,(204) 256-0867,9 to 12,Early Immersion
+425,Dakota Collegiate #1823,661 Dakota Street,Winnipeg,R2M 3K3,(204) 256-4366,(204) 257-4347,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+426,Darwin School #1441,175 Darwin Street,Winnipeg,R2M 4A9,(204) 257-2904,(204) 257-1605,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+427,Dr. D. W. Penner School #1589,121 Hazelwood Crescent,Winnipeg,R2M 4E4,(204) 256-1135,(204) 255-3969,K to 6,"English, French: Communication and Culture - Grades 4-12"
+428,Frontenac School #1128,866 Autumnwood Drive,Winnipeg,R2J 1C1,(204) 257-0609,(204) 257-7390,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+429,General Vanier School #1039,18 Lomond Boulevard,Winnipeg,R2J 1Y2,(204) 255-1400,(204) 255-1442,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+430,Glenlawn Collegiate #1530,770 St. Mary'S Road,Winnipeg,R2M 3N7,(204) 233-3986,(204) 233-9212,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+431,Glenwood School #1336,51 Blenheim Avenue,Winnipeg,R2M 0H9,(204) 233-3619,(204) 235-0616,K to 8,"English, French: Communication and Culture - Grades 4-12"
+432,H. S. Paul School #2020,160 Southglen Boulevard,Winnipeg,R2N 3J3,(204) 254-7477,(204) 255-9093,K to 8,"English, French: Communication and Culture - Grades 4-12"
+433,Hastings School #1017,50 Hastings Boulevard,Winnipeg,R2M 3X5,(204) 253-1371,(204) 256-7954,K to 8,"English, French: Communication and Culture - Grades 4-12"
+434,Highbury School #2062,99 Highbury Road,Winnipeg,R2N 2N5,(204) 254-5078,(204) 253-5333,K to 8,"English, French: Communication and Culture - Grades 4-12"
+435,Island Lakes Community School #2152,445 Island Shore Blvd.,Winnipeg,R3X 2B4,(204) 254-6247,(204) 254-6388,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+436,J. H. Bruns Collegiate #1246,250 Lakewood Boulevard,Winnipeg,R2J 3A2,(204) 257-2928,(204) 253-2149,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+437,Lavallee School #1571,505 St. Anne'S Road,Winnipeg,R2M 3E5,(204) 253-1388,(204) 254-6716,K to 8,"English, French: Communication and Culture - Grades 4-12"
+438,Louis Riel S.D. Arts And Technology Ctr. #1171,5 Debourmont Avenue,Winnipeg,R2J 1J9,(204) 237-8951,(204) 231-0038,11 to 12,English
+439,Marion School #1542,619 Desmeurons Street,Winnipeg,R2H 2R1,(204) 233-2893,(204) 233-2894,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+440,Minnetonka School #1156,200 Minnetonka Street,Winnipeg,R2M 3Y6,(204) 257-8114,(204) 257-2614,K to 8,"English, French: Communication and Culture - Grades 4-12"
+441,Nelson Mcintyre Collegiate #1833,188 St. Mary'S Road,Winnipeg,R2H 1H9,(204) 237-0219,(204) 237-1615,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+462,Crossroads Learning Centre Inc. #2157,Unit H- 2211 Mcphillips Street,Winnipeg,R2V 3M5,(204) 953-2030,(204) 694-0779,9 to 12,English
+463,Horizons Learning Centres #2164,Unit G - 431 Thames Avenue,Winnipeg,R2L 0V4,(204) 772-1234,(204) 786-1102,11 to 12,English
+464,Manitoba Institute Of Trades And Tech. #1956,130 Henlow Bay,Winnipeg,R3Y 1G4,(204) 989-6500,(204) 488-4152,11 to 12,English
+465,Mitt Adult Learning Centres #2332,"Newport Centre, 2f Unit 510 330 Portage Avenue",Winnipeg,R3C 0C4,(204) 786-1115,() -,11 to 12,English
+466,Portage Adult Learning Centre #2179,110 Saskatchewan Avenue W.,Portage La Prairie,R1N 0M1,(204) 857-6304,(204) 857-6358,9 to 12,English
+467,St. Norbert Adult Education Centre #2187,Box 250 35th Ave. De La Digue,St. Norbert,R3V 1L6,(204) 261-3312,(204) 275-8847,9 to 12,English
+468,St. Vital Adult Education Centre #2210,533a St. Anne'S Road,Winnipeg,R2M 3E8,(204) 254-1618,(204) 255-2129,11 to 12,English
+469,Ufcw Training Centre #2193,2nd Floor-880 Portage Avenue,Winnipeg,R3G 0P1,(204) 775-8329,(204) 772-7601,9 to 12,English
+470,Dauphin Regional Comp Secondary #1072,330 Mountain Road North,Dauphin,R7N 2V6,(204) 638-4629,(204) 638-4671,9 to 12,"Early Immersion, English"
+471,Ethelbert School #1161,Box 241,Ethelbert,R0L 0T0,(204) 742-3265,(204) 742-3460,K to 12,"English, French: Communication and Culture - Grades 4-12"
+472,Gilbert Plains Collegiate Institute #1889,Box 70,Gilbert Plains,R0L 0X0,(204) 548-2551,(204) 548-2773,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+473,Gilbert Plains Elementary #1667,Box 397,Gilbert Plains,R0L 0X0,(204) 548-2822,(204) 548-2029,K to 8,English
+474,Goose Lake High #1582,Box 759,Roblin,R0L 1P0,(204) 937-2138,(204) 937-2267,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+475,Grandview School #1735,Box 279,Grandview,R0L 0Y0,(204) 546-2882,(204) 546-3026,K to 12,"English, French: Communication and Culture - Grades 4-12"
+476,Henderson Elementary #1223,911 Bond Street,Dauphin,R7N 3J7,(204) 638-4653,(204) 638-3912,K to 6,English
+477,Lt. Col. Barker V.C. School #1457,1516 Bond Street,Dauphin,R7N 0K4,(204) 638-4588,(204) 638-3808,K to 5,English
+478,Mackenzie Middle School #1323,212 - 1st Street N.E.,Dauphin,R7N 1B7,(204) 638-3323,(204) 638-4810,6 to 8,"Early Immersion, English, Ukrainian"
+479,Ochre River School #1118,General Delivery,Ochre River,R0L 1K0,(204) 733-2559,(204) 733-2380,K to 8,English
+490,Burntwood Elementary #1707,103 Arctic Drive,Thompson,R8N 1G8,(204) 677-6100,(204) 677-1380,K to 8,"English, French: Communication and Culture - Grades 4-12"
+491,Deerwood School #1417,101 Beaver Crescent,Thompson,R8N 1C5,(204) 677-6125,(204) 677-6132,K to 8,"English, French: Communication and Culture - Grades 4-12"
+492,Juniper School #1684,306 Juniper Drive,Thompson,R8N 0S9,(204) 677-6242,(204) 677-6249,K to 8,"English, French: Communication and Culture - Grades 4-12"
+493,R. D. Parker Collegiate #1341,272 Thompson Drive North,Thompson,R8N 0C4,(204) 677-6200,(204) 778-5050,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+494,Riverside School #1033,119 Riverside Drive,Thompson,R8N 0X1,(204) 677-6115,(204) 677-4823,K to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+495,Wapanohk Community School #1403,453 Princeton Drive,Thompson,R8N 1W8,(204) 677-6140,(204) 677-6176,K to 8,"Cree, English"
+496,Westwood Elementary #1495,46 Mallard Crescent,Thompson,R8N 0X9,(204) 677-6190,(204) 677-3660,K to 8,"English, French: Communication and Culture - Grades 4-12"
+497,Day Treatment Center #1780,685 William Avenue,Winnipeg,R3E 0Z2,(204) 000-0000,(204) 000-0000,00 to 00,English
+498,Kindale Occupational Centre #1954,Pioneer Industrial Park,Steinbach,R0A 2A0,(204) 326-9856,(0) -,00 to 00,English
+499,Kinsmen Day Nursery #1955,462 Reimer Avenue,Steinbach,R0A 2A0,(204) 326-1866,(0) -,00 to 00,English
+500,M.A.C.L.D. #1047,210-720 Broadway Avenue,Winnipeg,R3G 0X1,(204) 000-0000,(204) 000-0000,00 to 00,English
+501,Not Enrolled In A Mb School #2269,1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 000-0000,(204) 000-0000,N to 12,English
+502,Rehabilitation Center #1831,633 Wellington Crescent,Winnipeg,R3M 0A8,(204) 000-0000,(204) 000-0000,00 to 00,English
+503,Airport Colony School #1580,P.O. Box 967,Portage La Prairie,R1N 3C4,(204) 274-2412,(204) 274-2316,K to 12,"English, German"
+504,Assiniboine Valley Christian School #2307,"Site 170, Box 37, R.R. #1",Brandon,R7A 5Y1,(204) 728-3229,(204) 728-3229,1 to 9,English
+505,Borderview Christian Day School #2069,Box 103,Stuartburn,R0A 2B0,(204) 427-2932,() -,1 to 10,English
+506,Casa Montessori And Orff School #2268,80 Fennell Street,Winnipeg,R3T 3M4,(204) 487-0167,(204) 487-2944,K to 6,"English, Francais"
+507,Cgf Mitchell Academy #2318,32033 Road 32e,Mitchell,R5G 2L9,(204) 346-9799,(204) 000-0000,1 to 5,English
+508,Christ Full Gospel Academy #2220,Box 107 75 Elm Street,Plum Coulee,R0G 1R0,(204) 829-3212,(204) 829-3212,1 to 12,English
+509,Church Of God Academy #2237,P.O. Box 3368,Steinbach,R5G 1P6,(204) 434-6643,() -,1 to 12,English
+510,City Light Christian School #2323,Box 74 Rr 5 Site 50,Brandon,R7A 5Y5,(204) 725-2973,() -,1 to 9,English
+511,Country View School #1526,Box 3910,Steinbach,R5G 1P9,(204) 326-1481,(204) 326-4788,1 to 8,English
+512,Crystal Creek School #2287,550 Broadway Street,Crystal City,R0K 0N0,(204) 873-2458,(204) 873-2469,1 to 8,English
+513,Edrans Christian School #2150,"Box 1 R.R. #1, Grp 15",Austin,R0H 0C0,(204) 466-2865,(204) 466-2994,K to 12,English
+514,Freedom International School #2317,771 Sargent Avenue,Winnipeg,R3E 0B5,(204) 219-5799,() -,8 to 12,English
+515,Grace Valley Mennonite Academy #2108,Box 839,Winkler,R6W 4A9,(204) 829-3301,(204) 829-3038,K to 12,English
+516,Greenland School #1176,"Box 22, Grp. 15, R.R.#1",Ste. Anne,R5H 1R1,(204) 355-4922,(204) 355-9280,1 to 9,English
+517,Horndean Christian Day School #1963,Box 79,Horndean,R0G 0Z0,(204) 829-3354,() -,1 to 12,English
+518,Hosanna Christian School #2263,Unit C-1 431 Thames Street,Winnipeg,R2L 0V4,(204) 944-8237,() -,1 to 12,English
+519,Interlake Mennonite Fellowship School #1236,Box 388,Arborg,R0C 0A0,(204) 364-2328,(0) -,1 to 12,English
+520,Lake Centre Mennonite Fellowship Sch. #1509,Box 838,Arborg,R0C 0A0,(204) 364-2201,(0) -,K to 10,English
+521,Lightfield Mennonite School #2273,Box 41,Hordean,R0G 0Z0,(204) 324-5381,() -,1 to 10,English
+522,Lighthouse Christian School #2145,Box 1360,Portage La Prairie,R1N 3N9,(204) 428-5332,(204) 428-5386,K to 12,English
+563,Canadian International School (Cisb) #2288,C/O Ed. Admin. Services Branch 507-1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 000-0000,(204) 000-0000,9 to 12,English
+564,Clifford School #2201,C/O Ed. Admin Services Branch 507-1181 Portage Ave.,Winnipeg,R3G 0T3,(204) 999-9999,() -,K to 12,English
+565,Cmis Canada #2274,C/O Ed. Admin. Services Branch 507 - 1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 000-0000,(204) 000-0000,K to 12,English
+566,Heritage International School #2253,C/O Education Admin. Services 507 - 1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 999-9999,(204) 999-9999,K to 12,English
+567,Kemer Canadian High School Programme #2251,C/O Education Admin. Services 507 - 1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 999-9999,(204) 999-9999,K to 12,English
+568,Lertlah International Program School #2214,C/O Ed. Admin Services Branch 507-1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 999-9999,(204) 999-9999,K to 8,English
+569,Maple Bear School #2309,C/O Ed. Admin Services Branch 507-1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 999-9999,() -,9 to 12,English
+570,Novopecherska School #2325,C/O Ed. Admin Services Branch 507-1181 Portage Avenue,Winnipeg,R3G 0T3,(204) 000-0000,(204) 000-0000,9 to 12,English
+571,Yang Guang Qing School Of Beijing #2148,C/O Ed. Admin. Services Branch 507-1181 Portage Ave.,Winnipeg,R3G 0T3,(204) 000-0000,(204) 000-0000,10 to 12,English
+572,Binscarth Elementary #1705,Box 130,Binscarth,R0J 0G0,(204) 842-2802,(204) 532-2294,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+573,Birtle Collegiate #1042,Box 370,Birtle,R0M 0C0,(204) 842-3315,() -,5 to 12,"English, French: Communication and Culture - Grades 4-12"
+574,Birtle Elementary #1426,Box 340,Birtle,R0M 0C0,(204) 842-3463,(204) 842-3463,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+575,Decker Colony School #1014,Decker Colony Box 8,Decker,R0M 0K0,(204) 764-2225,(204) 764-2538,K to 12,English
+576,Hamiota Collegiate #1554,Box 200,Hamiota,R0M 0T0,(204) 842-2803,(204) 764-2725,6 to 12,"English, French: Communication and Culture - Grades 4-12"
+577,Hamiota Elementary #1277,Box 427,Hamiota,R0M 0T0,(204) 842-2823,(204) 764-2385,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+578,Inglis Elementary #1057,Box 30,Inglis,R0J 0X0,(204) 842-2806,(204) 564-2491,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+579,Major Pratt School #1727,General Delivery,Russell,R0J 1W0,(204) 842-2812,(204) 773-3470,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+580,Miniota School #1093,Box 190,Miniota,R0M 1M0,(204) 842-2826,(204) 567-3506,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+581,Monarch Colony School #2313,Monarch Colony Farms Ltd. Box 226,Foxwarren,R0J 0R0,(204) 847-2008,(204) 000-0000,K to 12,English
+582,Rossburn Collegiate #1546,Box 370,Rossburn,R0J 1V0,(204) 842-2810,(204) 859-3044,9 to 12,English
+583,Rossburn Elementary #1827,Box 160,Rossburn,R0J 1V0,(204) 842-2804,(204) 859-2016,K to 8,"English, French: Communication and Culture - Grades 4-12"
+584,Shoal Lake School #1566,Box 10,Shoal Lake,R0J 1Z0,(204) 842-2822,() -,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+585,Strathclair Community School #1125,Box 130,Strathclair,R0J 2C0,(204) 842-2801,(204) 365-2085,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+586,Waywayseecappo Community School #1555,Box 9,Waywayseecappo,R0J 1S0,(204) 859-2811,(204) 859-2992,N to 8,English
+587,Waywayseecappo Learning Centre #2245,Box 9,Waywayseecappo,R0J 1S0,(204) 859-2879,(204) 859-2403,9 to 12,English
+588,Acadia Junior High School #1138,175 Killarney Avenue,Winnipeg,R3T 3B3,(204) 269-6210,(204) 269-2369,7 to 9,"English, French: Communication and Culture - Grades 4-12"
+589,Arthur A. Leach Junior High #1104,1827 Chancellor Drive,Winnipeg,R3T 4C4,(204) 269-1674,(204) 269-7832,5 to 9,"English, French: Communication and Culture - Grades 4-12"
+590,Bairdmore School #1958,700 Bairdmore Boulevard,Winnipeg,R3T 5R3,(204) 261-3350,(204) 269-9946,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+591,Beaumont School #1676,5880 Betsworth Avenue,Winnipeg,R3R 0J7,(204) 895-2820,(204) 895-3196,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+592,Beaverlodge School #1754,6691 Rannock Avenue,Winnipeg,R3R 1Z3,(204) 895-8213,(204) 895-0804,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+593,Chancellor Elementary #1914,1520 Chancellor Drive,Winnipeg,R3T 4P8,(204) 261-9535,(204) 275-6571,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+594,Dalhousie School #1378,262 Dalhousie Drive,Winnipeg,R3T 2Z1,(204) 269-4101,(204) 261-8374,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+595,Fort Richmond Collegiate #1281,99 Killarney Avenue,Winnipeg,R3T 3B3,(204) 275-7520,(204) 261-7624,10 to 12,"English, French: Communication and Culture - Grades 4-12"
+596,General Byng School #1231,1250 Beaumont Street,Winnipeg,R3T 0L8,(204) 452-3040,(204) 284-9287,K to 9,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+597,Henry G. Izatt Middle School #2132,960 Scurfield Blvd.,Winnipeg,R3Y 1N6,(204) 489-1239,(204) 489-1370,5 to 9,"English, French: Communication and Culture - Grades 4-12"
+598,Laidlaw School #1273,515 Laidlaw Boulevard,Winnipeg,R3P 0L2,(204) 888-1678,(204) 888-2058,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+599,Linden Meadows School #2030,335 Lindenwood Drive East,Winnipeg,R3P 2H1,(204) 489-0799,(204) 489-8803,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+600,Oak Park High #1691,820 Charleswood Road,Winnipeg,R3R 1K6,(204) 895-7221,(204) 895-8889,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+601,Oakenwald School #1227,666 Oakenwald Avenue,Winnipeg,R3T 1M4,(204) 474-0269,(204) 477-8504,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+602,Pacific Junction School #1975,715 Cathcart Street,Winnipeg,R3R 3M7,(204) 831-7099,(204) 832-5754,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+603,Pembina Trails Alternative High School #2304,315 Chancellor Matheson Road,Winnipeg,R3T 1Z2,(204) 488-7357,() -,11 to 12,English
+604,Pembina Trails Early College School #2322,250-100 Innovation Drive,Winnipeg,R3T 6G2,(204) 509-7849,(204) 000-0000,9 to 12,English
+605,R.H.G. Bonnycastle School #1263,1100 Chancellor Drive,Winnipeg,R3T 4W8,(204) 261-9400,(204) 269-3797,K to 4,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+606,Ralph Maybank School #1393,20 Donnelly Street,Winnipeg,R3T 0S4,(204) 453-4631,(204) 452-6399,K to 6,"English, French: Communication and Culture - Grades 4-12"
+607,River West Park School #1202,30 Stack Street,Winnipeg,R3R 2H3,(204) 895-7225,(204) 888-2515,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+628,Austin Elementary #1864,Box 130,Austin,R0H 0C0,(204) 637-2240,() -,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+629,Beaver Creek School #1859,Aspenheim Colony Box 179,Austin,R0H 0C0,(204) 274-2722,() -,K to 12,English
+630,Cascade Colony School #2003,Box 179,Austin,R0H 0C0,(204) 685-2912,(204) 685-2931,K to 12,English
+631,Emerald Colony School #2283,Se 35-14-12w Box 179,Austin,R0H 0C0,(204) 385-3475,() -,K to 12,English
+632,Forest Home School #1817,Riverdale Colony Box 179,Austin,R0H 0C0,(204) 385-2227,(204) 385-2227,K to 12,English
+633,Gladstone Elementary #1753,Box 690,Gladstone,R0J 0T0,(204) 385-2613,(204) 385-3030,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+634,Hidden Valley School #1220,Hidden Valley Colony Box 179,Austin,R0H 0C0,(204) 637-2312,() -,K to 12,English
+635,Langruth Elementary #1023,Box 148,Langruth,R0H 0N0,(204) 445-2001,(204) 445-2274,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+636,Macgregor Collegiate #1465,Box 160,Macgregor,R0H 0R0,(204) 685-2047,() -,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+637,Macgregor Elementary #1447,Box 10,Macgregor,R0H 0R0,(204) 685-2249,(204) 685-2755,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+638,Muller School #1898,Box 179,Austin,R0H 0C0,(204) 274-2463,(204) 274-2240,K to 12,English
+639,Plumas Elementary #1726,Box 40,Plumas,R0J 1P0,(204) 386-2250,(204) 386-2137,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+640,West Plains School #1146,Box 179,Austin,R0H 0C0,(204) 385-2980,(204) 385-2941,K to 12,English
+641,William Morton Collegiate #1874,Box 510,Gladstone,R0J 0T0,(204) 385-2845,() -,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+642,Brantwood School #1989,Brantwood Colony 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 267-2094,() -,K to 12,English
+643,Brennan School #1703,Elm River Colony-Newton Siding 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 267-2700,(204) 267-2040,K to 12,English
+644,Fort La Reine School #1269,36 - 13th Street N.W.,Portage La Prairie,R1N 2T5,(204) 857-7687,(204) 239-5740,K to 6,"English, French: Communication and Culture - Grades 4-12"
+645,Good Hope Colony School #1438,Good Hope Colony 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 252-2568,(204) 252-2986,K to 12,English
+646,Ingleside School #1539,Grande Colony (Oakville) 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 267-2265,() -,K to 12,English
+647,La Verendrye School #1837,500 - 7th Avenue N.W.,Portage La Prairie,R1N 0A5,(204) 857-3478,(204) 239-5927,K to 8,"English, French: Communication and Culture - Grades 4-12"
+648,Norquay Colony School #2040,C/O Portage La Prarie Sd 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 267-2133,() -,K to 12,English
+649,North Memorial School #1849,410 - 6th Avenue N.E.,Portage La Prairie,R1N 0B4,(204) 857-4564,(204) 239-5964,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+650,Northern Breeze Colony School #2134,C/O Portage La Prairie Sd 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 857-7521,(204) 239-4414,K to 12,English
+651,Oakville School #1237,Box 130,Oakville,R0H 0Y0,(204) 267-2733,(204) 267-2603,K to 8,"English, French: Communication and Culture - Grades 4-12"
+652,Portage Collegiate Institute #1029,65 - 3rd Street S.W.,Portage La Prairie,R1N 2B6,(204) 857-6843,(204) 239-5905,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+653,Sommerfeld Colony School #1757,Sommerfeld Colony (High Bluff) 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 243-2487,(204) 243-2050,K to 12,English
+654,Sunnyside School #1055,Sunnyside Colony 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 267-2632,(204) 267-2632,K to 12,English
+655,Westroc School #2063,C/O Portage La Prairie Sd 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 274-2786,() -,K to 12,English
+656,Woodland Colony School #1003,Woodland Colony (Poplar Point) 65 - 3rd Street Sw,Portage La Prairie,R1N 2B6,(204) 243-2435,(204) 243-2465,K to 12,English
+657,Yellowquill School #1858,Box 1000,Portage La Prairie,R1N 3C4,(204) 857-8714,(204) 239-5906,K to 8,"English, French: Communication and Culture - Grades 4-12"
+658,cole Arthur Meighen School #1142,201 River Road,Portage La Prairie,R1N 3W2,(204) 857-3405,(204) 239-5943,5 to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+659,cole Crescentview School #1634,751 Crescent Road East,Portage La Prairie,R1N 0Y2,(204) 857-3475,(204) 239-5930,K to 4,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+660,Barrickman Colony School #1871,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+661,Blooming Prairie Colony School #2276,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+662,Bon Homme Colony School #1422,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+663,Boyne View School #1230,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+664,Carman Collegiate #1800,Box 1510,Carman,R0G 0J0,(204) 745-2001,(204) 745-6288,6 to 12,"English, French: Communication and Culture - Grades 4-12"
+665,Carman Elementary #1872,Box 1510,Carman,R0G 0J0,(204) 745-2623,(204) 745-3295,K to 5,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+666,Clearview Colony School #1369,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+667,Eagle Creek Colony School #2312,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+668,Elm Creek School #1289,Box 40,Elm Creek,R0G 0N0,(204) 436-2354,(204) 436-2659,K to 12,"English, French: Communication and Culture - Grades 4-12"
+669,Huron Colony School #1527,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2704,(204) 353-2706,K to 12,English
+670,Iberville Colony School #1751,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+671,James Valley Colony School #1052,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+672,Lakeside Colony School #1053,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+673,Maple Creek School #1290,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 435-2299,() -,K to 12,English
+674,Maxwell Colony School #1642,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+675,Miami School #1514,Box 220,Miami,R0G 1H0,(204) 435-2441,(204) 435-2464,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+676,Midland Adult Education Centre #2170,72 Main Street South Box 2060,Carman,R0G 0J0,(204) 745-2095,(204) 745-3823,9 to 12,English
+677,Roland Elementary #1581,Box 93,Roland,R0G 1T0,(204) 343-2023,(204) 343-2254,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+678,Rosebank Colony School #2033,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 435-2269,() -,K to 12,English
+679,Rosedale Colony School #1722,Box 56 #3 Pr 248 South,Elie,R0H 0H0,(204) 353-2297,(204) 353-2706,K to 12,English
+690,Baldur School #1439,Box 340,Baldur,R0K 0B0,(204) 535-2314,() -,K to 12,English
+691,Boyne Valley School #1092,Oak Ridge Colony Box 279,Holland,R0G 0X0,(204) 526-2533,() -,K to 12,English
+692,Cartwright School #2072,General Delivery,Cartwright,R0K 0L0,(204) 529-2357,() -,K to 11,English
+693,Crystal City Early Years School #1445,Box 220,Crystal City,R0K 0N0,(204) 873-2476,() -,K to 3,English
+694,Evergreen Colony School #1559,Evergreen Colony Box 297,Somerset,R0G 2L0,(204) 744-2030,() -,K to 12,English
+695,Fairholme Colony School #1635,Fairholme Colony Box 550,Portage La Prairie,R1N 3B9,(204) 252-2289,() -,K to 12,English
+696,Glenboro School #1909,Box 550,Glenboro,R0K 0X0,(204) 827-2593,() -,K to 12,English
+697,Harmony Colony School #2278,Box 171,Rathwell,R0G 1S0,(204) 749-2356,() -,K to 12,English
+698,Holland Elementary #1322,Box 10,Holland,R0G 0X0,(204) 526-2179,() -,K to 8,English
+699,Kamsley School #2047,Box 403,N.-D.-De-Lourdes,R0G 1M0,(204) 744-2145,() -,K to 12,English
+700,Manitou Elementary #1591,Box 66,Manitou,R0G 1G0,(204) 242-2844,() -,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+701,Nellie Mcclung Collegiate #1096,Box 339,Manitou,R0G 1G0,(204) 242-2640,() -,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+702,New Rosedale School #1348,New Rosedale Colony Box 460,Portage La Prairie,R1N 3B7,(204) 252-2870,() -,K to 12,English
+703,Pilot Mound School #1301,Box 299,Pilot Mound,R0G 1P0,(204) 825-2559,() -,9 to 12,English
+704,Prairie Mountain Elementary School #1553,Box 340,Swan Lake,R0G 2S0,(204) 836-2855,() -,K to 8,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+705,Prairie Mountain High School #1370,Box 250,Somerset,R0G 2L0,(204) 744-2751,() -,9 to 12,"English, Partial Francais"
+706,Sandy Bank School #1644,General Delivery Cypress River Colony,Cypress River,R0K 0P0,(204) 743-2208,() -,K to 12,English
+707,Shady Lane School #2084,Box 26,Treherne,R0G 2V0,(204) 723-2097,() -,K to 12,English
+708,Shamrock School #1977,Box 212,Baldur,R0K 0B0,(204) 535-2120,() -,K to 12,English
+709,St. Claude School Complex #1340,Box 250,St. Claude,R0G 1Z0,(204) 379-2441,() -,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12, Partial Francais"
+720,Albright School #2052,Oak Bluff Colony Box 819,Morris,R0G 1K0,(204) 746-8518,() -,K to 12,English
+721,J. A. Cuddy Elementary #1771,Box 148,Sanford,R0G 2J0,(204) 736-2282,(204) 736-4196,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+722,Lowe Farm School #1792,Box 250,Lowe Farm,R0G 1E0,(204) 746-8068,(204) 746-6123,K to 8,English
+723,Morris School #1084,Box 548,Morris,R0G 1K0,(204) 746-2612,(204) 746-2126,K to 12,English
+724,Oak Bluff Community School #1893,155 Agri Park Road,Oak Bluff,R4G 0A5,(204) 895-0004,(204) 897-0347,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+725,Peace Valley School #1069,Homewood Colony,Starbuck,R0G 2P0,(204) 735-2863,() -,K to 12,English
+726,Rosenort School #1579,Box 70,Rosenort,R0G 1W0,(204) 746-8355,() -,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+727,Sanford Collegiate #1191,Box 70 130 Blythefield Road,Sanford,R0G 2J0,(204) 736-2366,(204) 736-4177,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+728,Starbuck School #1633,Box 10,Starbuck,R0G 2P0,(204) 735-2779,(204) 735-2213,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+729,Suncrest Colony School #1299,Box 4,Tourond,R0A 2G0,(204) 433-7970,(204) 433-3161,K to 12,English
+730,Vermillion Colony School #1944,Vermillion Colony Box 238,Sanford,R0G 2J0,(204) 736-4223,() -,K to 12,English
+731,cole Hritage Immersion #1824,Case Postale 489,St. Pierre-Jolys,R0A 1V0,(204) 433-3460,(204) 433-7175,M to 12,Early Immersion
+732,cole Saint-Malo School #1035,P.O. Box 190,St. Malo,R0A 1T0,(204) 347-5255,(204) 347-5021,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12, Partial Francais"
+733,Angus Mckay School #1621,850 Woodvale Street,Winnipeg,R2K 2G8,(204) 661-2378,(204) 668-9283,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+734,Arthur Day Middle School #1762,43 Whitehall Boulevard,Winnipeg,R2C 0Y3,(204) 958-6522,(204) 222-4865,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+735,Bernie Wolfe School #1869,95 Bournais Drive,Winnipeg,R2C 3Z2,(204) 958-6532,(204) 667-9871,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12, Ukrainian"
+736,Bertrun E. Glavin School #1139,166 Antrim Road,Winnipeg,R2K 3L2,(204) 669-1277,(204) 668-9361,K to 5,"English, French: Communication and Culture - Grades 4-12"
+737,Bird's Hill School #1367,3950 Raleigh Street,East St. Paul,R2E 0G9,(204) 663-7669,(204) 668-9378,K to 5,"English, French: Communication and Culture - Grades 4-12"
+738,Chief Peguis Middle School #1805,1400 Rothesay Street,Winnipeg,R2G 1V2,(204) 668-9442,(204) 667-4506,6 to 8,"English, French: Communication and Culture - Grades 4-12, German, Ukrainian"
+739,Collge Miles Macdonell Collegiate #1233,757 Roch Street,Winnipeg,R2K 2R1,(204) 667-1103,(204) 654-3803,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12, Late Immersion"
+740,Collge Pierre-Elliott-Trudeau #2032,216 Rue Redonda,Winnipeg,R2C 1L6,(204) 958-6888,(204) 222-4883,9 to 12,Early Immersion
+741,Donwood School #1747,400 Donwood Drive,Winnipeg,R2G 0X4,(204) 668-9438,(204) 668-9269,K to 5,"English, French: Communication and Culture - Grades 4-12, German"
+742,Dr. F.W.L. Hamilton School #1109,3225 Henderson Hwy,East St. Paul,R2E 0J2,(204) 661-2500,(204) 669-7001,K to 5,"English, French: Communication and Culture - Grades 4-12"
+743,Emerson School #1748,323 Emerson Street,Winnipeg,R2G 1G3,(204) 669-4430,(204) 667-8911,K to 5,"English, French: Communication and Culture - Grades 4-12"
+744,Hampstead School #1519,920 Hampstead Avenue,Winnipeg,R2K 2A3,(204) 654-1818,(204) 668-9417,K to 5,"English, French: Communication and Culture - Grades 4-12"
+745,Harold Hatcher School #1776,500 Redonda Street,Winnipeg,R2C 3T7,(204) 958-6880,(204) 224-4702,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+746,John De Graff School #1265,1020 Louelda Street,Winnipeg,R2K 3Z4,(204) 669-1280,(204) 668-9413,K to 5,"English, French: Communication and Culture - Grades 4-12"
+747,John G. Stewart School #2136,2069 Henderson Highway,Winnipeg,R2G 1P7,(204) 338-3670,(204) 334-0074,5 to 12,English
+748,John Pritchard School #1556,1490 Henderson Highway,Winnipeg,R2G 1N5,(204) 339-1984,(204) 334-9899,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+749,John W. Gunn Middle School #1663,351 Harold Avenue West,Winnipeg,R2C 2C9,(204) 958-6500,(204) 222-4967,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+750,Joseph Teres School #1992,131 Sanford Fleming Drive,Winnipeg,R2C 5B8,(204) 958-6860,(204) 224-4749,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+751,Kildonan-East Collegiate #1847,845 Concordia Avenue,Winnipeg,R2K 2M6,(204) 667-2960,(204) 667-1203,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+752,Lord Wolseley School #1011,939 Henderson Hwy,Winnipeg,R2K 2M2,(204) 661-2384,(204) 668-9363,K to 5,"English, French: Communication and Culture - Grades 4-12"
+783,Cool Spring Colony School #1163,Cool Spring Colony Box 1015,Minnedosa,R0J 1E0,(204) 865-2350,(204) 865-2350,K to 12,English
+784,Deerboine Colony School #1728,Deerboine Colony R. R. #1,Alexander,R0K 0A0,(204) 728-1106,() -,K to 12,English
+785,Douglas Elementary #1169,Box 197,Douglas,R0K 0R0,(204) 763-4480,(204) 763-4893,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+786,Elton Collegiate #1723,205 Hillman Avenue,Forrest,R0K 0W0,(204) 728-7676,(204) 727-5142,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+787,Erickson Collegiate Institute #1818,Box 370,Erickson,R0J 0P0,(204) 636-2605,(204) 636-2383,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+788,Erickson Elementary #1918,General Delivery,Erickson,R0J 0P0,(204) 636-2266,(204) 636-2503,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+789,Forrest Elementary #1876,General Delivery,Forrest,R0K 0W0,(204) 728-7674,(204) 726-5803,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+790,Glendale School #1679,Hillside Colony General Delivery,Justice,R0K 1C0,(204) 763-4963,() -,K to 12,English
+791,Minnedosa Adult Learning Centre #2182,Box 1170,Minnedosa,R0J 1E0,(204) 867-2519,(204) 867-2519,9 to 12,English
+792,Minnedosa Collegiate #1501,Box 1230,Minnedosa,R0J 1E0,(204) 867-2794,(204) 867-5170,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+793,Oak River Colony School #2139,Box 38,Oak River,R0K 1T0,(204) 272-8051,(204) 272-8052,K to 12,English
+794,Oak River Elementary #1158,Box 89,Oak River,R0K 1T0,(204) 566-2167,(204) 566-2118,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+795,Onanole Elementary #1924,Box 8,Onanole,R0J 1N0,(204) 848-2402,(204) 848-2182,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+796,Rapid City School #1324,Box 100,Rapid City,R0K 1W0,(204) 826-2824,(204) 826-2305,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+797,Rivers Collegiate #1794,Box 519,Rivers,R0K 1X0,(204) 328-5364,(204) 328-7592,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+798,Rivers Elementary #1636,Box 610,Rivers,R0K 1X0,(204) 328-7416,(204) 328-7918,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+799,Tanner's Crossing School #1560,Box 1110,Minnedosa,R0J 1E0,(204) 867-2591,(204) 867-2959,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+800,Westview Colony School #2297,Box 250,Newdale,R0J 1J0,(204) 566-2149,() -,K to 12,English
+801,Arborgate School #1649,71 Normandeau Bay,La Broquerie,R0A 0W0,(204) 424-5607,(204) 424-5206,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12, Intensive French (English Program)"
+802,Collge Lorette Collegiate #1115,1082 Dawson Road,Lorette,R5K 0S8,(204) 878-2887,(204) 878-3582,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+803,Collge Saint-Norbert Collegiate #1475,870 Ste. Therese Avenue,St. Norbert,R3V 1H8,(204) 269-4920,(204) 269-9969,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+804,Dawson Trail School #1316,P.O. Box 70 425 Senez Street,Lorette,R5K 1E3,(204) 878-2929,(204) 878-3576,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+805,La Barriere Crossings School #2115,245 Lemaire Street,St. Norbert,R3V 1M2,(204) 275-5048,(204) 275-6299,5 to 8,"English, French: Communication and Culture - Grades 4-12"
+806,La Salle School #1785,43 Beaudry Street,La Salle,R0G 0A1,(204) 736-4366,(204) 736-2709,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+807,Parc La Salle School #1716,190 Houde Drive,St. Norbert,R3V 1C5,(204) 269-1503,(204) 261-4626,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+808,Richer School #1600,Box 9 Dawson Road,Richer,R0E 1S0,(204) 422-5490,(204) 422-8625,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+809,Ste. Anne Adult Learning Centre #2176,Box 1113 34 Centrale Ave.,Ste. Anne,R5H 1C1,(204) 422-5627,(204) 422-5633,9 to 12,English
+810,Ste. Anne Collegiate #2089,197 St. Alphonse Avenue,Ste Anne,R5H 1G3,(204) 422-5417,(204) 422-5614,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+811,Ste. Anne Elementary School #1442,177 St. Alphonse Avenue,Ste. Anne,R5H 1G3,(204) 422-8776,(204) 422-8262,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+812,cole Lorette Immersion #2138,475 Rue Senez,Lorette,R5K 1E3,(204) 878-4233,(204) 878-4237,M to 8,Early Immersion
+813,cole Saint-Norbert Immersion #1622,900 Avenue Sainte-Thérèse,St. Norbert,R3V 1H8,(204) 261-4430,(204) 269-0925,M to 8,Early Immersion
+814,cole Sainte-Anne Immersion #1609,167 Avenue St-Alphonse,Ste. Anne,R5H 1G3,(204) 422-8762,(204) 422-8498,M to 8,Early Immersion
+815,cole St. Adolphe School #1632,444 La Seine Street,St. Adolphe,R5A 1C2,(204) 883-2182,(204) 883-2612,K to 8,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+816,cole le-Des-Chnes School #1702,Box 520 455 D'Auteuil Street,Ile Des Chenes,R0A 0T0,(204) 878-2898,(204) 878-3491,K to 8,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+817,Adult Education Centres (Aec) Inc. #2180,1747 Main Street,Winnipeg,R2V 1Z6,(204) 589-9852,(204) 589-2504,9 to 12,English
+818,Amber Trails Community School #2294,1575 Templeton Avenue,Winnipeg,R2P 2T5,(204) 697-5965,(204) 632-4899,K to 8,"English, French: Communication and Culture - Grades 4-12"
+819,Arthur E. Wright Community School #1088,1520 Jefferson Avenue,Winnipeg,R2P 1K1,(204) 632-6314,(204) 632-6198,K to 8,"English, Filipino, French: Communication and Culture - Grades 4-12"
+820,Collicutt School #1410,75 Cottingham Street,Winnipeg,R2V 3B5,(204) 338-7937,(204) 663-8481,K to 5,"English, French: Communication and Culture - Grades 4-12"
+821,Collge Garden City Collegiate #1564,711 Jefferson Avenue,Winnipeg,R2V 0P7,(204) 339-2058,(204) 334-7252,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+822,Edmund Partridge Community School #2259,1874 Main Street,Winnipeg,R2V 2A6,(204) 339-9889,(204) 334-0565,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+823,Elwick Community School #1639,30 Maberley Road,Winnipeg,R2P 0B2,(204) 633-5641,(204) 633-7168,K to 8,"English, French: Communication and Culture - Grades 4-12"
+824,Forest Park School #1050,130 Forest Park Drive,Winnipeg,R2V 2R8,(204) 338-9341,(204) 334-4808,K to 5,"English, French: Communication and Culture - Grades 4-12"
+825,Governor Semple School #1295,150 Hartford Avenue,Winnipeg,R2V 0V7,(204) 339-7112,(204) 334-7356,K to 5,"English, French: Communication and Culture - Grades 4-12"
+826,H. C. Avery Middle School #1333,10 Marigold Bay,Winnipeg,R2V 2M1,(204) 334-4391,(204) 334-8474,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+827,James Nisbet Community School #1375,70 Doubleday Drive,Winnipeg,R2P 0P4,(204) 633-8870,(204) 632-6136,K to 5,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+828,Maples Collegiate #1892,1330 Jefferson Avenue,Winnipeg,R2P 1L3,(204) 632-6641,(204) 694-7229,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+829,Maples Met School #2306,1330 Jefferson Avenue,Winnipeg,R2P 1L3,(204) 586-8061,(204) 589-2504,9 to 12,English
+830,Margaret Park School #1769,385 Cork Avenue,Winnipeg,R2V 1R6,(204) 338-9384,(204) 334-6876,K to 6,"English, French: Communication and Culture - Grades 4-12"
+831,Met School #2298,640 Jefferson Avenue,Winnipeg,R2V 0P7,(204) 336-5050,(204) 334-7293,9 to 12,English
+832,O. V. Jewitt Elementary #1080,66 Neville Street,Winnipeg,R2P 1W3,(204) 633-1714,(204) 694-1081,K to 8,"English, French: Communication and Culture - Grades 4-12"
+833,Riverbend Community School #2096,123 Red River Boulevard West,Winnipeg,R2V 3X9,(204) 334-8417,(204) 334-9031,K to 5,"English, French: Communication and Culture - Grades 4-12, Ojibwe"
+834,Seven Oaks Adult Learning Centre #2244,950 Jefferson Avenue,Winnipeg,R2P 1W1,(204) 632-1716,(204) 632-1889,9 to 12,English
+835,Shkola R.F. Morrison School #1078,25 Morrison Street,Winnipeg,R2V 3B3,(204) 338-7804,(204) 339-0540,K to 6,"English, French: Communication and Culture - Grades 4-12, Ukrainian"
+836,Urban Circle Training Centre Inc. #2195,519 Selkirk Avenue,Winnipeg,R2W 2M6,(204) 589-4433,(204) 582-6439,9 to 12,English
+847,Deloraine School #1594,Box 448,Deloraine,R0M 0M0,(204) 483-6296,(204) 747-3956,K to 12,"English, French: Communication and Culture - Grades 4-12"
+848,Green Acres Colony School #2049,Box 190,Wawanesa,R0K 2G0,(204) 824-2340,(204) 824-2112,K to 8,English
+849,Hartney School #1153,Box 130,Hartney,R0M 0X0,(204) 483-6295,(204) 858-2156,K to 12,English
+850,Maple Grove Colony School #1372,Box 40,Lauder,R0M 1C0,(204) 858-2204,() -,K to 12,English
+851,Melita School #1385,Box 579,Melita,R0M 1L0,(204) 483-6293,(204) 522-3126,K to 12,"English, French: Communication and Culture - Grades 4-12"
+852,Nature Valley Colony School #1186,Box 308,Wawanesa,R0K 2G0,(204) 824-2038,(204) 824-2038,K to 12,English
+853,Newdale Colony School #1772,Box 396,Souris,R0K 2C0,(204) 725-0412,() -,K to 12,English
+854,Oakland School #2314,Box 24,Carroll,R0K 0K0,(204) 483-7337,(204) 483-7361,K to 12,English
+855,Pierson School #1615,Box 250,Pierson,R0M 1S0,(204) 483-6292,(204) 634-2505,K to 12,English
+856,Souris River Colony School #1066,Box 178,Souris,R0K 2C0,(204) 769-2267,() -,K to 12,English
+857,Souris School #1250,Box 639,Souris,R0K 2C0,(204) 483-2161,(204) 483-2828,K to 12,English
+858,Waskada School #1458,Box 190,Waskada,R0M 2E0,(204) 483-6297,(204) 673-2240,K to 12,English
+859,Wawanesa School #1396,Box 310,Wawanesa,R0K 2G0,(204) 483-6298,(204) 824-2659,K to 12,English
+860,Athlone School #1466,110 Athlone Drive,Winnipeg,R3J 3L4,(204) 832-1373,(204) 885-2273,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12, Intensive French (English Program)"
+861,Brooklands School #1524,1950 Pacific Avenue W,Winnipeg,R2R 0G4,(204) 633-9630,(204) 633-7773,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+862,Bruce Middle School #1467,333 Booth Drive,Winnipeg,R3J 3M8,(204) 888-1990,(204) 888-1379,6 to 8,"English, French: Communication and Culture - Grades 4-12, Intensive French (English Program)"
+863,Buchanan School #1167,815 Buchanan Boulevard,Winnipeg,R2Y 1N1,(204) 888-0680,(204) 831-7124,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+864,Collge Sturgeon Heights Collegiate #1135,2665 Ness Avenue,Winnipeg,R3J 1A5,(204) 888-0684,(204) 889-0796,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+865,Crestview School #1358,333 Morgan Crescent,Winnipeg,R2Y 0C9,(204) 885-7710,(204) 885-7711,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+866,Educational Support Services #1002,1 Braintree Crescent,Winnipeg,R3J 1C7,(204) 885-1334,(204) 885-7594,K to 12,English
+867,George Waters Middle School #2107,190 Ferry Road,Winnipeg,R3J 1V7,(204) 888-4898,(204) 832-7657,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+868,Golden Gate Middle School #1627,330 Bruce Avenue,Winnipeg,R3J 0V8,(204) 837-5808,(204) 889-9598,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+869,Hedges Middle School #1517,369 Fairlane Avenue,Winnipeg,R2Y 0B6,(204) 837-5843,(204) 888-8093,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+870,Heritage School #1760,47 Heritage Boulevard,Winnipeg,R2Y 0N9,(204) 837-1394,(204) 832-6676,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+871,Jameswood Alternative School #2260,1 Braintree Crescent,Winnipeg,R3J 1C7,(204) 885-9555,(204) 885-7594,9 to 12,English
+872,John Taylor Collegiate #1342,470 Hamilton Avenue,Winnipeg,R2Y 0H4,(204) 888-8930,(204) 889-9999,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+873,Lakewood School #1597,55 Kay Crescent,Winnipeg,R2Y 1L1,(204) 889-9360,(204) 889-9361,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+874,Lincoln Middle School #1307,3180 Mcbey Avenue,Winnipeg,R3K 0T7,(204) 837-8397,(204) 885-3368,6 to 8,"English, French: Communication and Culture - Grades 4-12"
+875,Linwood School #1452,266 Linwood Street,Winnipeg,R3J 2C6,(204) 889-9356,(204) 885-2234,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+876,Phoenix School #1197,111 Alboro Street,Headingley,R4J 1A3,(204) 889-5053,(204) 889-5060,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+877,Sansome School #1655,181 Sansome Avenue,Winnipeg,R3K 0N8,(204) 889-6000,(204) 889-6007,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+878,St. James Collegiate #1781,1900 Portage Avenue,Winnipeg,R3J 0J1,(204) 888-4867,(204) 889-0830,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+879,Stevenson School #1506,1777 Silver Avenue,Winnipeg,R3J 1B1,(204) 832-1359,(204) 832-1350,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+890,Anola School #1027,30 Academy Street,Anola,R0E 0A0,(204) 866-2962,(204) 866-3177,K to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+891,Centennial School #1361,Box 219,Lac Du Bonnet,R0E 1A0,(204) 345-2462,(204) 345-2458,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+892,Gillis School #1266,Box 1,Tyndall,R0E 2B0,(204) 268-4353,(204) 268-3989,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+893,Grafton School #1094,62078 Colony Road,Anola,R5L 0A7,(204) 268-2507,(204) 268-3451,K to 12,English
+894,Gross Colony School #1881,Whiteshell Colony Box 65,River Hills,R0E 1T0,(204) 348-7055,(204) 348-2494,K to 12,English
+895,Hazelridge School #1531,38 Myrtle Street,Hazelridge,R0E 0Y0,(204) 755-2214,(204) 755-2374,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+896,Heartland Colony School #2106,Box 61,Hazelridge,R0E 0Y0,(204) 755-2342,(204) 755-3383,K to 12,English
+897,Hofer School #1809,Box 3140 R. R. #3,Beausejour,R0E 0C0,(204) 265-3522,(204) 265-3481,K to 12,English
+898,Lac Du Bonnet Senior #1012,Box 908,Lac Du Bonnet,R0E 1A0,(204) 345-2585,(204) 345-6347,7 to 12,English
+899,Oak Bank Elementary #1190,826 Cedar Avenue,Oakbank,R0E 1J0,(204) 444-2473,(204) 444-2953,K to 5,"Early Start French, English, French: Communication and Culture - Grades 4-12, Ukrainian"
+900,Richland School #1352,"Ridgeland Colony R. R. #1, Box 508",Dugald,R0E 0K0,(204) 866-3293,(204) 866-4649,K to 12,English
+901,Springfield Collegiate #1485,841 Cedar Avenue,Oakbank,R0E 1J1,(204) 444-2404,(204) 444-2533,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+902,Springfield Middle School #1296,860 Cedar Avenue,Oakbank,R0E 1J0,(204) 444-2995,(204) 444-2966,6 to 8,"English, French: Communication and Culture - Grades 4-12, Ukrainian"
+903,Springwell School #1692,"Brightstone Colony Box 880, Rr1",Lac Du Bonnet,R0E 1A0,(204) 345-6410,(204) 345-9223,K to 12,English
+904,Sunrise Adult Learning Centres Program #2239,Box 1778,Beausejour,R0E 0C0,(204) 268-4832,(204) 268-4841,9 to 12,English
+905,Whitemouth School #1699,Box 187,Whitemouth,R0E 2G0,(204) 348-2595,(204) 348-2714,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+906,cole Beausjour Early Years #1749,Box 869,Beausejour,R0E 0C0,(204) 268-2664,(204) 268-4256,K to 5,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+907,cole Dugald School #1888,543 Holland Street,Dugald,R0E 0K0,(204) 853-7929,(204) 853-7395,K to 8,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+908,cole Edward-Schreyer School #1360,Box 20,Beausejour,R0E 0C0,(204) 268-2423,(204) 268-1157,6 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+909,cole Powerview School #1677,P.O. Box 157,Powerview,R0E 1P0,(204) 367-2296,(204) 367-2773,K to 12,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+910,Benito School #1487,Box 430,Benito,R0L 0C0,(204) 539-2466,(204) 539-2474,K to 8,"English, French: Communication and Culture - Grades 4-12"
+911,Bowsman School #1097,Box 248,Bowsman,R0L 0H0,(204) 734-4506,(204) 238-4917,K to 8,"English, French: Communication and Culture - Grades 4-12"
+912,Heyes Elementary #1193,Box 1000,Swan River,R0L 1Z0,(204) 734-3385,(204) 734-4202,K to 6,"English, French: Communication and Culture - Grades 4-12"
+913,Minitonas School #1535,Box 160,Minitonas,R0L 1G0,(204) 734-5222,(204) 525-4412,K to 8,"English, French: Communication and Culture - Grades 4-12"
+914,Swan River Adult Education Inc. #2189,Box 1330 128 - 5th Avenue North,Swan River,R0L 1Z0,(204) 734-9391,(204) 734-4965,9 to 12,English
+915,Swan Valley Regional Secondary School #1576,Box 5000,Swan River,R0L 1Z0,(204) 734-4511,(204) 734-3855,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+916,Taylor Elementary #1085,Box 1269,Swan River,R0L 1Z0,(204) 734-4593,(204) 734-3112,K to 5,"English, French: Communication and Culture - Grades 4-12"
+917,cole Swan River South School #1390,Box 1059,Swan River,R0L 1Z0,(204) 734-4518,(204) 734-3969,K to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+918,Boissevain School #1521,Box 1030,Boissevain,R0K 0E0,(204) 534-2494,(204) 534-2993,K to 12,English
+919,Can Am Colony School #2238,Box 69,Margaret,R0K 1J0,(204) 776-2151,() -,K to 12,English
+920,Holmfield Colony School #1098,Holmfield Colony Box 927,Killarney,R0K 1G0,(204) 523-4355,() -,K to 12,English
+921,Killarney School #1828,General Delivery,Killarney,R0K 1G0,(204) 523-4696,(204) 523-8545,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+922,Mayfair Colony School #1376,Mayfair Colony Box 1438,Killarney,R0K 1G0,(204) 523-8768,(204) 523-8622,K to 12,English
+923,Minto School #1471,Box 174,Minto,R0K 1M0,(204) 776-2041,(204) 776-2160,K to 8,English
+924,Turtle Mountain Adult Educ. Centre #2192,Box 1556 410 Broadway Avenue,Killarney,R0K 1G0,(204) 523-4492,(204) 523-4054,9 to 12,English
+925,Wellwood School #1844,Wellwood Colony Box 603,Killarney,R0K 1G0,(204) 776-2344,(204) 776-2234,K to 12,English
+926,Alonsa School #1613,Box 6,Alonsa,R0H 0A0,(204) 767-2168,(204) 767-2279,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+927,Glenella School #1063,Box 59,Glenella,R0J 0V0,(204) 352-4253,(204) 352-4330,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+928,Grass River School #1623,Grass River Colony Box 160,Glenella,R0J 0V0,(204) 352-4410,(204) 352-4410,K to 12,English
+929,Mccreary School #1222,Box 220,Mccreary,R0J 1B0,(204) 835-2083,(204) 835-2660,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+930,Parkview School #1900,Parkview Colony Box 60,Riding Mountain,R0J 1T0,(204) 967-2572,(204) 967-2572,K to 12,English
+931,Ste. Rose School #1335,Box 129,Ste Rose Du Lac,R0L 1S0,(204) 447-2088,(204) 447-2457,K to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+932,cole Laurier #1860,Case Postale 100,Laurier,R0J 1A0,(204) 447-2068,(204) 447-3048,M to 8,Early Immersion
+933,Maple Leaf Elementary School #1919,225 - 12th Street,Morden,R6M 1Z3,(204) 822-4458,(204) 822-5491,K to 4,"Early Immersion, Early Start French, English, French: Communication and Culture - Grades 4-12"
+934,Minnewasta School #2029,1 Academy Drive,Morden,R6M 1Z4,(204) 822-4580,(204) 822-3253,K to 4,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+935,Morden Adult Education Centre #2171,200-30 Stephen Street,Morden,R6M 2G3,(204) 822-1231,(204) 822-4136,9 to 12,English
+936,Morden Collegiate #1428,345 - 5th Street,Morden,R6M 1Z1,(204) 822-4425,(204) 822-6455,9 to 12,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+937,Morden Middle School #1885,150 Wardrop Street,Morden,R6M 1Z2,(204) 822-6225,(204) 822-4662,5 to 8,"Early Immersion, English, French: Communication and Culture - Grades 4-12"
+938,F. W. Gilbert School #1429,Box 160,Pinawa,R0E 1L0,(204) 753-2559,(204) 753-2506,K to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+939,Pinawa Secondary School #1905,Box 580,Pinawa,R0E 1L0,(204) 753-2381,(204) 753-2693,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+940,Gray Academy Of Jewish Education #2230,100 - 123 Doncaster Street,Winnipeg,R3N 2B4,(204) 477-7410,(204) 477-7474,N to 12,"Early Start French, English, French: Communication and Culture - Grades 4-12, Hebrew"
+941,Andrew Mynarski V.C. School #1061,1111 Machray Avenue,Winnipeg,R2X 1H6,(204) 586-8497,(204) 582-2702,7 to 9,English
+942,Argyle Alternative High School #1060,30 Argyle Street,Winnipeg,R3B 0H4,(204) 942-4326,(204) 943-1759,10 to 12,English
+943,Brock-Corydon School #1891,1510 Corydon Avenue,Winnipeg,R3N 0J6,(204) 488-4422,(204) 489-8764,N to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12, Hebrew"
+944,Carpathia School #1272,300 Carpathia Road,Winnipeg,R3N 1T3,(204) 488-4514,(204) 489-3048,N to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+945,Cecil Rhodes School #1113,1570 Elgin Avenue West,Winnipeg,R3E 1C2,(204) 783-9012,(204) 775-5438,N to 9,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+946,Champlain School #1853,275 Church Avenue,Winnipeg,R2W 1B7,(204) 586-5139,(204) 589-4607,N to 6,"English, French: Communication and Culture - Grades 4-12"
+947,Children Of The Earth High School #2050,100 Salter Street,Winnipeg,R2W 4J6,(204) 589-6383,(204) 589-4822,9 to 12,English
+948,Churchill High School #1715,510 Hay Street,Winnipeg,R3L 2L6,(204) 474-1301,(204) 452-5943,7 to 12,"English, French: Communication and Culture - Grades 4-12"
+949,Clifton School #1541,1070 Clifton Street,Winnipeg,R3E 2T7,(204) 783-7792,(204) 783-9078,N to 6,"Early Start French, English, French: Communication and Culture - Grades 4-12"
+950,Clinical Support Services #1127,1075 Wellington Avenue,Winnipeg,R3E 0J7,(204) 786-7841,(204) 783-6068,K to 12,English
+951,Collge Churchill #2076,510 Rue Hay,Winnipeg,R3L 2L6,(204) 474-1305,(204) 452-0290,7 to 12,"Early Immersion, Late Immersion"
+952,Daniel Mcintyre Collegiate Institute #1701,720 Alverstone Street,Winnipeg,R3E 2H1,(204) 783-7131,(204) 783-9286,9 to 12,"English, French: Communication and Culture - Grades 4-12"
+953,David Livingstone School #1775,270 Flora Avenue,Winnipeg,R2W 2P9,(204) 586-8346,(204) 582-0383,N to 8,English
+954,Diagnostic Learning Centre #1926,C/O Ashland School 170 Ashland Ave,Winnipeg,R3L 1L1,(204) 453-5740,(204) 453-0739,K to 6,English
+955,Dufferin School #1767,545 Alexander Avenue,Winnipeg,R3A 0P1,(204) 774-3409,(204) 774-6109,N to 6,English
+956,Earl Grey School #1022,340 Cockburn Street North,Winnipeg,R3M 2P5,(204) 474-1441,(204) 453-4054,N to 8,"Early Start French, English, French: Communication and Culture - Grades 4-12, Spanish"
+957,Elmwood High #1867,505 Chalmers Avenue,Winnipeg,R2L 0G4,(204) 667-8823,(204) 654-0028,7 to 12,English
+958,Faraday School #1854,405 Parr Street,Winnipeg,R2W 5G1,(204) 586-8583,(204) 589-7731,N to 6,English
+959,Fort Rouge School #1436,115 River Avenue,Winnipeg,R3L 0A8,(204) 475-5057,(204) 477-9050,N to 6,English
+960,Garden Grove School #1166,2340 Burrows Avenue,Winnipeg,R2R 1W1,(204) 633-6477,(204) 632-6032,N to 6,"Early Immersion, English"

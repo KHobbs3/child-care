@@ -1,0 +1,27 @@
+{
+  "localfile": "MB-education-2.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://web36.gov.mb.ca/school/school?action=top_page",
+  "licence": "https://www.gov.mb.ca/legal/copyright.html",
+  "provider": "Province of Manitoba",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "name",
+          "source_facility_type": [
+              "grades",
+              "program"
+          ]
+      },
+      "address" : {
+          "city": "city",
+          "full_address": "address",
+          "postal_code": "postal_code"
+      }
+  }
+}

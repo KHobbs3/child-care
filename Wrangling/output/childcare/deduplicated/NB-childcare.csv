@@ -1,0 +1,825 @@
+,name,source_facility_type,ages,capacity,infant,toddler,school_age,facility_type,full_address,provider
+0,A 2 Z Learning & Care Centre,Full-time Centre,"Infant, Preschool, School-age",34.0,Y,Y,Y,Day Care,7 Theatre Street Minto E4B 3M9 (506) 327-3456,Province of New Brunswick
+1,petit pas dans mon cole,Full-time Centre,"Infant, Preschool",53.0,Y,Y,N,Day Care,1341 chemin Robertville Robertville E8K 2V9 (506) 542-2453,Province of New Brunswick
+2,A PLACE TO GROW CHILDREN'S CENTRE,Full-time Centre,"Infant, Preschool, School-age",30.0,Y,Y,Y,Day Care,205 York Street Bathurst E2A 1G9 (506) 543-1199,Province of New Brunswick
+3,ABC PLUS,Full-time Centre,School-age,58.0,N,N,Y,Day Care,210 Road Mill Moncton E1A 4B1 (506) 857-8999,Province of New Brunswick
+4,Academie Power Play Academy Moncton Campus 1,Part-time Centre,School-age,60.0,N,N,Y,Day Care,1240 Street Ryan Moncton E1G 2V6 (506) 854-7529,Province of New Brunswick
+5,Academie Power Play Academy Moncton Campus 2,Full-time Centre,"Infant, Preschool, School-age",55.0,Y,Y,Y,Day Care,1240 Ryan Street Moncton E1G 2V6 (506) 854-7529,Province of New Brunswick
+6,Academie Power Play Academy Moncton Campus 3,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,1240 Street Ryan Moncton E1G 2V6 (506) 878-1515,Province of New Brunswick
+7,ACADMIE POWERPLAY ACADEMY,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,257 rue des Erables Dieppe E1A 9B1 (506) 853-7529,Province of New Brunswick
+8,ACADMIE POWERPLAY ACADEMY 2,Full-time Centre,"Infant, Preschool, School-age",50.0,Y,Y,Y,Day Care,257 rue des Erables Dieppe E1A 9B1 (506) 853-7529,Province of New Brunswick
+9,Acorn to Oak Academy,Full-time Centre,"Preschool, School-age",26.0,N,Y,Y,Day Care,62 Miramichi Road Oromocto E2V 1S2 (506) 357-2618,Province of New Brunswick
+10,AFTERSCHOOL ADVENTURE CAMP,Part-time Centre,School-age,60.0,N,N,Y,Day Care,50 Runnymeade Road Riverview E1B 4M7 (506) 387-7070,Province of New Brunswick
+11,Alicia's Centre for Education,Part-time Centre,School-age,15.0,N,N,Y,Day Care,61 Bull Road Bedell E7M 3Y2 (506) 328-0088,Province of New Brunswick
+12,Amanda's House,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,18 Hillsleigh Court Douglas E3G 7Y9 (506) 260-9093,Province of New Brunswick
+13,Ami Bee #2,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,866 chemin Robertville Dunlop E8K 2K5 (506) 783-4998,Province of New Brunswick
+14,Amy's Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,25 Mcnair Drive Nackawic E6G 1A2 (506) 608-1736,Province of New Brunswick
+15,ANGELS 'R' WEE,Full-time Centre,"Infant, Preschool, School-age",52.0,Y,Y,Y,Day Care,327 Prince West Street Saint John E2M 1P6 (506) 672-5155,Province of New Brunswick
+16,Angie's Little Peeps Early Learning and Childcare,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,115 Maxwell Street Woodstock E7M 0B6 (506) 328-6724,Province of New Brunswick
+17,ANNETTE'S EARLY CHILDHOOD CARE AND DEVELOPMENT CENTRE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,28 Christopher Crescent Moncton E1G 0A5 (506) 204-4299,Province of New Brunswick
+18,APRES-CLASSE MONTESSORI DIEPPE AFTER SCHOOL,Part-time Centre,School-age,49.0,N,N,Y,Day Care,733 chemin Chartersville Dieppe E1A 1K7 (506) 854-8484,Province of New Brunswick
+19,Au pays des merveilles,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,162 chemin Cormier Village Grand-Barachois (506) 532-9536,Province of New Brunswick
+20,Awesome Blossom Early Learning,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,553 104 Route Burtts Corner E6L 2B2 (506) 363-5551,Province of New Brunswick
+21,Baby Steps Daycare,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,71 D'Amours Street Oromocto E2V 0G5 (506) 357-5437,Province of New Brunswick
+22,Back Yard Treasures,Home,"Preschool, School-age",9.0,N,Y,Y,Home,61 MacDonald Avenue Oromocto E2V 1A3 (506) 357-3890,Province of New Brunswick
+23,Barrel of Monkey's Daycare,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,148 Mataya Drive Richibucto Road E3A 0A6 (506) 454-7510,Province of New Brunswick
+24,BEACONSFIELD DISCOVERY DAYCARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,677 Beaconsfield Avenue Saint John E2M 2K6 (506) 647-0115,Province of New Brunswick
+25,BELL AIR DAY CARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,248 Bond Drive Moncton E1E 4S4 (506) 204-8285,Province of New Brunswick
+26,BENOIT CHILDCARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,20 Leaman Court Saint John E2J 1B6 (506) 657-7151,Province of New Brunswick
+27,Best Beginnings Preschool and Afterschool Centre,Part-time Centre,"Preschool, School-age",12.0,N,Y,Y,Day Care,58 Hanselpacker Road Harvey Station E6K 1A3 (506) 261-9918,Province of New Brunswick
+28,BGCCC AFTER SCHOOL PROGRAM,Part-time Centre,School-age,45.0,N,N,Y,Day Care,54 Disher Lane Dufferin Charlotte Co E3L 3H7 (506) 466-4300,Province of New Brunswick
+29,BGCCC EARLY LEARNING CENTRE,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,54 Disher Lane Dufferin Charlotte Co E3L 3H7 (506) 466-4314,Province of New Brunswick
+30,Birchwood Preschool,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,23 Lloyd Street Hanwell E3C 1M4 (506) 206-4455,Province of New Brunswick
+31,Bluebell Montessori,Full-time Centre,"Preschool, School-age",27.0,N,Y,Y,Day Care,177 Argyle Street Fredericton E3B 1T6 (506) 454-5558,Province of New Brunswick
+32,Boulevard Early Learning Centre,Full-time Centre,"Infant, Preschool, School-age",48.0,Y,Y,Y,Day Care,174 Milltown Boulevard St. Stephen E3L 1G8 (506) 466-3614,Province of New Brunswick
+33,Boulevard Out of School Club,Part-time Centre,School-age,30.0,N,N,Y,Day Care,Milltown Boulevard St. Stephen E3L 1G8 (506) 466-3614,Province of New Brunswick
+34,BOYS AND GIRLS CLUB OF CHARLOTTE COUNTY - BLACKS HARBOUR,Part-time Centre,School-age,19.0,N,N,Y,Day Care,600 Main Street Blacks Harbour E5H 1C1 (506) 466-4300,Province of New Brunswick
+35,Boys and Girls Club of Charlotte County-Club ASP,Part-time Centre,School-age,30.0,N,N,Y,Day Care,54 Disher Lane Dufferin Charlotte Co E3L 3H7 (506) 466-4300,Province of New Brunswick
+36,BOYS AND GIRLS CLUB OF CHARLOTTE COUNTY--MILLTOWN,Full-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,434 Milltown Boulevard St. Stephen E3L 1J8 (506) 466-4300,Province of New Brunswick
+37,BRIDGE STREET AFTER SCHOOL ACADEMY,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,148 Bridge Street Sackville E4L 3P7 (506) 536-1066,Province of New Brunswick
+38,BRIDGE STREET CHILDREN'S ACADEMY,Full-time Centre,"Infant, Preschool",55.0,Y,Y,N,Day Care,146 Bridge Street Sackville E4L 3P7 (506) 536-1066,Province of New Brunswick
+39,Bright Beginnings Daycare,Full-time Centre,"Infant, Preschool",51.0,Y,Y,N,Day Care,486 Needham Street Fredericton E3B 1P1 (506) 458-6998,Province of New Brunswick
+40,BRIGHT HORIZONS,Full-time Centre,"Infant, Preschool",20.0,Y,Y,N,Day Care,914 Dever Road Saint John E2M 4J3 (506) 674-1484,Province of New Brunswick
+41,Brighter Horizons Preschool & Afterschool Centre,Full-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,491 Pleasant Drive Minto E4B 2T4 (506) 327-3030,Province of New Brunswick
+42,Building Blocks Early Education Center,Full-time Centre,"Preschool, School-age",22.0,N,Y,Y,Day Care,34 King Street Campbellton E3N 1C6 (506) 987-2532,Province of New Brunswick
+43,BUILDING BLOCKS PLAYCENTER,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,79 Weyburn Road Moncton E1A 5M5 (506) 874-9139,Province of New Brunswick
+44,BUILDING FUTURES AFTERSCHOOL ADVENTURE,Full-time Centre,"Preschool, School-age",49.0,N,Y,Y,Day Care,178 Albert Street Moncton E1C 1B2 (506) 384-7529,Province of New Brunswick
+45,BUILDING FUTURES EARLY LEARNING CHILD CARE CENTER,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,178 Albert Street Moncton E1C 1B2 (506) 384-7529,Province of New Brunswick
+46,BUTTERFLIES & BUMBLEBEES DAYCARE,Full-time Centre,"Infant, Preschool",48.0,Y,Y,N,Day Care,A 661 Dever Road Saint John E2M 4J2 (506) 672-3134,Province of New Brunswick
+47,C.S.E Little Hands-Little Feet C.E.C Inc. 2,Full-time Centre,"Preschool, School-age",55.0,N,Y,Y,Day Care,1036 chemin Tobique DSL de Drummond E3Y 2K4 (506) 582-1722,Province of New Brunswick
+48,CAUSERIE AMICALE,Full-time Centre,"Infant, Preschool, School-age",52.0,Y,Y,Y,Day Care,176 chemin Cormier Cross Cocagne E4R 2J5 (506) 576-6738,Province of New Brunswick
+49,Cedar Brook Early Learning Center of Excellence,Full-time Centre,"Infant, Preschool",52.0,Y,Y,N,Day Care,3532 Woodstock Road Fredericton E3E 1E6 (506) 260-6256,Province of New Brunswick
+50,Cedar Brook Forest School,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,3532 Woodstock Road Fredericton E3E 1E6 (506) 260-6256,Province of New Brunswick
+51,CENTENARY QUEEN SQUARE DAYCARE CENTRE,Full-time Centre,"Infant, Preschool",24.0,Y,Y,N,Day Care,310 Princess Street Saint John E2L 1L5 (506) 693-8080,Province of New Brunswick
+52,CENTRE DE JOUR L'EVEIL,Full-time Centre,Preschool,47.0,N,Y,N,Day Care,9 rue Sainte-Croix Moncton E1A 3E9 (506) 858-4270,Province of New Brunswick
+53,Centre de Soins et ducation Mickey & Minnie,Full-time Centre,"Infant, Preschool",39.0,Y,Y,N,Day Care,14 avenue No Saint-Andr E3Y 0C5 (506) 473-1090,Province of New Brunswick
+54,Centre ducatif Bouge O Max,Part-time Centre,"Preschool, School-age",23.0,N,Y,Y,Day Care,438 rue Levesque Saint-Andr E3Y 3C7,Province of New Brunswick
+55,Centre ducatif la Marelle Educational Center,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,1060 chemin Melanson Dieppe E1A 7P2 (506) 384-0707,Province of New Brunswick
+56,CENTRE DUCATIF LE PLATINUM,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,355 rue Amirault Dieppe E1A 1G1 (506) 855-9000,Province of New Brunswick
+57,CENTRE DUCATIF L'ENVOL DE DIEPPE,Part-time Centre,"Preschool, School-age",9.0,N,Y,Y,Day Care,11 ruelle David Dieppe E1A 0J7 (506) 384-2361,Province of New Brunswick
+58,Centre ducatif les p'tits crayons 2,Full-time Centre,"Infant, Preschool, School-age",34.0,Y,Y,Y,Day Care,520 rue Amirault Dieppe E1A 1C8 (506) 384-5936,Province of New Brunswick
+59,Centre educatif les p'tits crayons Inc.,Full-time Centre,"Infant, Preschool, School-age",63.0,Y,Y,Y,Day Care,313 rue Centrale Memramcook E4K 1Z9 (506) 334-0252,Province of New Brunswick
+60,CENTRE DUCATIF MLI MLO,Home,School-age,9.0,N,N,Y,Home,210 rue Sainte-Therese Dieppe E1A 1T3 (506) 852-1317,Province of New Brunswick
+61,Centre Parascolaire Entre Amis,Part-time Centre,School-age,60.0,N,N,Y,Day Care,505 rue Champlain Dieppe E1A 1P2 (506) 855-2647,Province of New Brunswick
+62,Centre Parascolaire Entre Amis Junior,Part-time Centre,School-age,30.0,N,N,Y,Day Care,505 rue Champlain Dieppe E1A 1P2 (506) 855-2647,Province of New Brunswick
+63,CENTRE PARASCOLAIRE NOS PETITS CAMARADES,Full-time Centre,School-age,40.0,N,N,Y,Day Care,386 rue Amirault Dieppe E1A 1G3 (506) 854-7412,Province of New Brunswick
+64,"Centre rcratif ""B"" Safari Social",Part-time Centre,School-age,60.0,N,N,Y,Day Care,55 rue Englehart Dieppe E1A 8K2 (506) 386-2262,Province of New Brunswick
+65,Centre rcratif 'A' Safari Social,Full-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,55 rue Englehart Dieppe E1A 8K2 (506) 386-2262,Province of New Brunswick
+66,Centreville Child Care,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,756 Central Street Centreville E7K 2M7 (506) 276-4437,Province of New Brunswick
+67,Centreville Preschool,Part-time Centre,Preschool,10.0,N,Y,N,Day Care,751 Central Street Centreville E7K 2M6 (506) 276-4437,Province of New Brunswick
+68,CHATHAM DAY CARE CENTER,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,80 University Avenue Miramichi E1N 0C6 (506) 773-9779,Province of New Brunswick
+69,CHATHAM DAY CARE CENTRE TOO,Full-time Centre,"Infant, Preschool",45.0,Y,Y,N,Day Care,21 Hotel Dieu Street Miramichi E1N 0A5 (506) 773-0993,Province of New Brunswick
+70,CHERYL'S HOME AWAY FROM HOME DAYCARE,Full-time Centre,"Infant, Preschool, School-age",45.0,Y,Y,Y,Day Care,79 Edith Avenue Saint John E2J 4H3 (506) 696-6443,Province of New Brunswick
+71,CHERYL'S HOME AWAY FROM HOME DAYCARE LTD.,Full-time Centre,Preschool,17.0,N,Y,N,Day Care,185 Loch Lomond Road Saint John E2J 3Z6 (506) 639-3096,Province of New Brunswick
+72,CHEZ CATHY,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,447 rue Avant-Garde Dieppe E1A 5E6 (506) 874-6860,Province of New Brunswick
+73,Chez Gisle,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,144 Street Goodine Fredericton E3B 9H5 (506) 459-0405,Province of New Brunswick
+74,Chickadee Tree ELC,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,11 Perley Avenue Fredericton E3A 4R6 (506) 262-1436,Province of New Brunswick
+75,Children's Playhouse,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1466 Woodstock Road Fredericton E3C 1P3 (506) 454-2744,Province of New Brunswick
+76,Cindy's Childcare Centre,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1125 655 Route Waasis E3B 9A4 (506) 429-2948,Province of New Brunswick
+77,CLARK'S AFTERSCHOOL ADVENTURES,Home,School-age,9.0,N,N,Y,Home,11 Golden Hawk Drive Miramichi E1N 3J1 (506) 773-7943,Province of New Brunswick
+78,CLASS: CREATIVE LEARNING AFTER SCHOOL SOLUTIONS,Part-time Centre,School-age,60.0,N,N,Y,Day Care,25 Duke Street Sussex E4E 1P8 (506) 434-1234,Province of New Brunswick
+79,CLOSE TO HOME DAYCARE,Home,School-age,9.0,N,N,Y,Home,68 Lake Road Kingston E5N 1K1 (506) 639-9587,Province of New Brunswick
+80,CLUB 6-12,Part-time Centre,School-age,60.0,N,N,Y,Day Care,140 Street Botsford Moncton E1C 4X5 (506) 859-1498,Province of New Brunswick
+81,CLUB 6-12 PLUS,Part-time Centre,School-age,40.0,N,N,Y,Day Care,140 Street Botsford Moncton E1C 4X5 (506) 859-1498,Province of New Brunswick
+82,CLUB ABC,Part-time Centre,School-age,15.0,N,N,Y,Day Care,83 Street Drummond Moncton E1A 2Z3 (506) 857-8999,Province of New Brunswick
+83,CLUB ANNA-MALENFANT,Part-time Centre,School-age,60.0,N,N,Y,Day Care,500 rue Centrale Dieppe E1A 6V7 (506) 383-8470,Province of New Brunswick
+84,Club Des Amis 2,Part-time Centre,School-age,60.0,N,N,Y,Day Care,1125 Highland Avenue Bathurst E2A 4P7 (506) 543-3807,Province of New Brunswick
+85,Club Des Amis 3,Part-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,840 Street Grandview Bathurst E2A 3R7 (506) 547-0084,Province of New Brunswick
+86,Club Des Amis 4,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,1410 Miramichi Avenue Bathurst E2A 1Y2 (506) 548-8584,Province of New Brunswick
+87,Club Des Amis 5,Part-time Centre,School-age,35.0,N,N,Y,Day Care,1255 Drive Rough Water Bathurst E2A 1Z2 (506) 548-8584,Province of New Brunswick
+88,Club Des Amis 6,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,980 Boulevard Vanier Bathurst E2A 3N2 (506) 547-0084,Province of New Brunswick
+89,Club Des Amis 7,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,980 Boulevard Vanier Bathurst E2A 3N2 (506) 547-0085,Province of New Brunswick
+90,Club Des Amis Halte Scolaire,Full-time Centre,Preschool,12.0,N,Y,N,Day Care,980 Boulevard Vanier Bathurst E2A 3N2 (506) 547-0085,Province of New Brunswick
+91,Club Des Amis Terry Fox,Part-time Centre,School-age,45.0,N,N,Y,Day Care,155 Basin Street Bathurst E2A 6N1 (506) 547-0084,Province of New Brunswick
+92,Club Le Marais,Part-time Centre,School-age,38.0,N,N,Y,Day Care,1620 boulevard Dieppe Dieppe E1A 8P5 (506) 380-0777,Province of New Brunswick
+93,CLUB SOLEIL,Part-time Centre,School-age,15.0,N,N,Y,Day Care,29 Street Mcann Moncton E1A 4S6 (506) 850-6000,Province of New Brunswick
+94,CLUB STE-THRSE 2,Part-time Centre,School-age,30.0,N,N,Y,Day Care,500 rue Notre-Dame Dieppe E1A 5C2 (506) 855-7417,Province of New Brunswick
+95,Clubhouse Kids,Home,School-age,9.0,N,N,Y,Home,55 Bromley Avenue Hanwell E3C 1M8 (506) 454-6292,Province of New Brunswick
+96,Coburg Early Learning Child Care Home,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,120 Coburg Street Saint John E2L 3K1 (506) 693-2228,Province of New Brunswick
+97,COCHRAN'S HOME AWAY FROM HOME DAYCARE,Full-time Centre,"Infant, Preschool, School-age",38.0,Y,Y,Y,Day Care,1433 Loch Lomond Road Saint John E2J 1Z8 (506) 696-6442,Province of New Brunswick
+98,College Hill Early Learning Cooperative Ltd.,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,850 Montgomery Street Fredericton E3B 2X9 (506) 458-2883,Province of New Brunswick
+99,Co-op Wee Care Daycare Education and Learning Center,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,190 Doak Road Fredericton E3C 2G2 (506) 444-0505,Province of New Brunswick
+100,Country Kids Day Care,Part-time Centre,School-age,32.0,N,N,Y,Day Care,148 Hillsborough Road Riverview E1B 1R6 (506) 860-6572,Province of New Brunswick
+101,Country Kids Learning Center,Full-time Centre,"Preschool, School-age",42.0,N,Y,Y,Day Care,142 Hillsborough Road Riverview E1B 1R6 (506) 860-6572,Province of New Brunswick
+102,Country Kids Preschool,Full-time Centre,"Infant, Preschool, School-age",58.0,Y,Y,Y,Day Care,142 Hillsborough Road Riverview E1B 1R6 (506) 860-6572,Province of New Brunswick
+103,COURTENAY AVENUE DAYCARE 2018,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,133 Courtenay Avenue Saint John E2J 1N4 (506) 634-8418,Province of New Brunswick
+104,CPE la Ribambelle en Folie Lte,Full-time Centre,"Infant, Preschool",49.0,Y,Y,N,Day Care,11782 Route 144 Saint-Lonard E7E 2M1 (506) 423-6401,Province of New Brunswick
+105,CPE Les Poussins,Full-time Centre,"Infant, Preschool, School-age",44.0,Y,Y,Y,Day Care,523 rue Principale Clair E7A 2G8 (506) 253-9075,Province of New Brunswick
+106,Crafty Corner Childcare Centre,Full-time Centre,"Infant, Preschool, School-age",58.0,Y,Y,Y,Day Care,2-1 9160 Main Street Florenceville-Bristol E7L 2A6 (506) 392-6161,Province of New Brunswick
+107,Creating Lil' Wonders Daycare,Full-time Centre,"Infant, Preschool",16.0,Y,Y,N,Day Care,205 Main Street Rexton E4W 2A9 (506) 523-4434,Province of New Brunswick
+108,Creating Wonders,Full-time Centre,"Infant, Preschool, School-age",38.0,Y,Y,Y,Day Care,203 Main Street Rexton E4W 2A9 (506) 523-4434,Province of New Brunswick
+109,Creative Childcare Early Learning Centre of Excellence,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,1691 Lincoln Road Fredericton E3B 8J7 (506) 459-8458,Province of New Brunswick
+110,Crilley Connections Afterschool Program,Part-time Centre,School-age,24.0,N,N,Y,Day Care,281 Restigouche Road Oromocto E2V 2H2 (506) 357-9938,Province of New Brunswick
+111,Crilley Connections Child Care,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,281 Restigouche Road Oromocto E2V 2H2 (506) 357-9938,Province of New Brunswick
+112,CSE/CEC Marika Inc.,Full-time Centre,"Infant, Preschool, School-age",53.0,Y,Y,Y,Day Care,98 chemin Tobique Grand-Sault/Grand Falls E3Y 1B9 (506) 475-8525,Province of New Brunswick
+113,DALEY DAY CARE 2,Full-time Centre,"Infant, Preschool, School-age",39.0,Y,Y,Y,Day Care,99 Highlandview Road Moncton E1A 2L1 (506) 388-9019,Province of New Brunswick
+114,Dandelion Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,103 Teak Drive Fredericton E3A 2H9 (506) 292-0207,Province of New Brunswick
+115,Dawson Day Home,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,Oromocto (709) 728-1190,Province of New Brunswick
+116,Daycare of Memories,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,217 Sumner Avenue Moncton E1C 8A6 (506) 854-5656,Province of New Brunswick
+117,DISCOVERY STREET LEARNING CENTER,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,19 Francis rue Dieppe E1A 7R2 (506) 855-6276,Province of New Brunswick
+118,DIVINE MERCY CATHOLIC PRESCHOOL,Part-time Centre,"Preschool, School-age",31.0,N,Y,Y,Day Care,30 Douglas Street Saint John E2K 0G5 (506) 214-5556,Province of New Brunswick
+119,Dragonfly Daycare and Afterschool Club,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,46 Milky Way Drive Hanwell E3C 1M7 (506) 455-4704,Province of New Brunswick
+120,Dufferin Street Afterschool Academy,Part-time Centre,School-age,60.0,N,N,Y,Day Care,10 Dufferin Street Sackville E4L 3W3 (506) 536-1066,Province of New Brunswick
+121,Dunn Learning Academy - Montesorri/Afterschool Program,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,572 New Maryland Highway New Maryland E3C 1K1 (506) 292-1788,Province of New Brunswick
+122,Dunn Learning Academy I am Special Daycare,Full-time Centre,"Infant, Preschool",15.0,Y,Y,N,Day Care,162 Bradshaw Drive New Maryland E3C 1H3 (506) 455-4667,Province of New Brunswick
+123,Early World of Learning Daycare,Full-time Centre,"Infant, Preschool, School-age",37.0,Y,Y,Y,Day Care,1052 Northside Drive Minto E4B 3H7 (506) 327-4551,Province of New Brunswick
+124,EARTHLINGS CHILDCARE,Part-time Centre,"Preschool, School-age",15.0,N,Y,Y,Day Care,144 Oak Ridge Drive Moncton E1G 0M2 (506) 878-7554,Province of New Brunswick
+125,East Coast Kids Child Care & Learning Center,Full-time Centre,"Preschool, School-age",57.0,N,Y,Y,Day Care,31 School Lane Hillsborough E0A 1X0 (506) 962-5868,Province of New Brunswick
+126,East Coast Kids Riverside-Albert,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,90 Water Street Riverside-Albert E4H 3Z7 (506) 962-5868,Province of New Brunswick
+127,Eastwood Play and Learn,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,111 Eastwood Drive Woodstock E7M 1P5 (506) 324-1033,Province of New Brunswick
+128,cole de la Petite Enfance,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,4138 rue Principale Tracadie-Sheila E1X 1B8 (506) 395-4013,Province of New Brunswick
+129,cole de la Petite enfance 3,Full-time Centre,"Infant, School-age",18.0,Y,N,Y,Day Care,4138 rue Principale Tracadie-Sheila E1X 1B8 (506) 395-4013,Province of New Brunswick
+130,EJ Afterschool Program,Part-time Centre,School-age,46.0,N,N,Y,Day Care,300 Restigouche Road Oromocto E2V 2H5 (506) 260-9898,Province of New Brunswick
+131,ELSIPOGTOG DAY CARE,Full-time Centre,"Preschool, School-age",25.0,N,Y,Y,Day Care,208 MAIN Street Elsipogtog First Nation E4W 2X9 (506) 523-8305,Province of New Brunswick
+132,Elsipogtog Headstart,Full-time Centre,Preschool,35.0,N,Y,N,Day Care,361 Big Cove Road Elsipogtog First Nation E4W 2S3 (506) 523-8254,Province of New Brunswick
+133,Enlightened Souls Day Care,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,40 Henderson Avenue Riverview E1B 3P3 (506) 381-9380,Province of New Brunswick
+134,Enrich Kids,Part-time Centre,School-age,30.0,N,N,Y,Day Care,B 557 Saint Mary's Street Fredericton E3A 8H4 (506) 897-0105,Province of New Brunswick
+135,Evergreen Acres Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,15 Debbie Lane Richibucto Road E3A 6T6 (506) 261-3236,Province of New Brunswick
+136,FAMILY TIES AFTER SCHOOL PROGRAM,Part-time Centre,School-age,49.0,N,N,Y,Day Care,166 Tower Street Saint John E2M 1Z2 (506) 214-6789,Province of New Brunswick
+137,FAMILY TIES PLAYCARE CENTRE,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,166 Tower Street Saint John E2M 1Z2 (506) 214-6789,Province of New Brunswick
+138,Fit Kids,Part-time Centre,School-age,60.0,N,N,Y,Day Care,688 Prospect Street Fredericton E3B 6G9 (506) 472-3674,Province of New Brunswick
+139,FitCamp90 After-School,Part-time Centre,School-age,24.0,N,N,Y,Day Care,274 Halifax Street Moncton E1C 9S3 (506) 860-0690,Province of New Brunswick
+142,Forest Park Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,14 Butternut Lane Noonan E3A 0Z3 (506) 440-4268,Province of New Brunswick
+143,Forever Young Home Childcare Centre,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,175 Diamond Street Fredericton E3G 7T9 (506) 206-1548,Province of New Brunswick
+144,Franco I,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,715 Street Priestman Fredericton E3B 5W7 (506) 458-9915,Province of New Brunswick
+145,Franco II,Part-time Centre,School-age,60.0,N,N,Y,Day Care,715 Street Priestman Fredericton E3B 5W7 (506) 458-9915,Province of New Brunswick
+146,Franco III,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,715 Street Priestman Fredericton E3B 5W7 (506) 458-9915,Province of New Brunswick
+147,Fredericton Christian Academy Children's Centre,Part-time Centre,School-age,60.0,N,N,Y,Day Care,778 MacLaren Avenue Fredericton E3A 3L7 (506) 458-9379,Province of New Brunswick
+148,Fredericton Christian Academy Early Childhood Learning Centre,Full-time Centre,Preschool,40.0,N,Y,N,Day Care,778 MacLaren Avenue Fredericton E3A 3L7 (506) 458-9379,Province of New Brunswick
+149,Fredericton Early Learning Centre,Full-time Centre,Preschool,41.0,N,Y,N,Day Care,351 Aberdeen Street Fredericton E3B 1R8 (506) 452-8894,Province of New Brunswick
+150,Fredericton Montessori Academy,Part-time Centre,School-age,60.0,N,N,Y,Day Care,131 Duncan Lane Fredericton E3B 9T1 (506) 444-6249,Province of New Brunswick
+151,Fredericton Montessori Academy - Casa,Full-time Centre,"Preschool, School-age",36.0,N,Y,Y,Day Care,131 Duncan Lane Fredericton E3B 9T1 (506) 444-6249,Province of New Brunswick
+152,FRFRC After School Care,Part-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,60 Veterans Drive Fredericton E3A 4C3 (506) 474-0252,Province of New Brunswick
+153,Full Circle Academy,Part-time Centre,School-age,60.0,N,N,Y,Day Care,125 Russ Howard Drive Moncton E1C 0L7 (506) 382-7529,Province of New Brunswick
+154,FULL CIRCLE ACADEMY 2,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,125 Russ Howard Drive Moncton E1C 0L7 (506) 382-7529,Province of New Brunswick
+155,Future Footprints Family Centre,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,9 School Street Perth-Andover E7H 4T4 (506) 273-4250,Province of New Brunswick
+156,Garderie Grand Pas,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,67 Road Ragged Point Saint John E2K 5C3 (506) 658-4607,Province of New Brunswick
+157,Garderie Jo-Jo,Home,School-age,9.0,N,N,Y,Home,211 STE-THRSE DIEPPE E1A 1T2 (506) 382-9507,Province of New Brunswick
+158,Garderie a petits pas,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,67 Road Ragged Point Saint John E2K 5C3 (506) 658-4607,Province of New Brunswick
+159,GARDERIE ABC DAYCARE,Full-time Centre,Preschool,44.0,N,Y,N,Day Care,210 Road Mill Moncton E1A 4B1 (506) 857-8999,Province of New Brunswick
+160,GARDERIE ABC DEUX,Part-time Centre,School-age,18.0,N,N,Y,Day Care,82 Street Drummond Moncton E1A 2Z2 (506) 857-8999,Province of New Brunswick
+161,GARDERIE ABC TROIS,Full-time Centre,"Preschool, School-age",32.0,N,Y,Y,Day Care,210 Road Mill Moncton E1A 4B1 (506) 857-8999,Province of New Brunswick
+162,Garderie Acamie,Full-time Centre,"Infant, Preschool",48.0,Y,Y,N,Day Care,295 boulevard St-Pierre Ouest Caraquet E1W 1B7 (506) 727-6737,Province of New Brunswick
+163,Garderie Adorable,Full-time Centre,"Infant, Preschool",24.0,Y,Y,N,Day Care,215 chemin Lac Memramcook E4K 1R6 (506) 758-9972,Province of New Brunswick
+164,GARDERIE ANNE-MARIE 2,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,4572 rue Principale Saint-Antoine E4V 1R4 (506) 525-2722,Province of New Brunswick
+165,GARDERIE APRES CLASSE COCCINELLE II,Part-time Centre,School-age,60.0,N,N,Y,Day Care,67 Road Ragged Point Saint John E2K 5C3 (506) 658-4607,Province of New Brunswick
+166,GARDERIE APRES CLASSE LA COCCINELLE,Part-time Centre,School-age,60.0,N,N,Y,Day Care,67 Road Ragged Point Saint John E2K 5C3 (506) 658-4609,Province of New Brunswick
+167,Garderie Arc-en-ciel,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,166 rue Lakeburn Dieppe E1A 2E8 (506) 382-4693,Province of New Brunswick
+168,GARDERIE ARLEQUIN DAYCARE INC.,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,2311 Route 15 Irishtown E1H 2L4 (506) 856-3418,Province of New Brunswick
+169,GARDERIE ARLEQUIN II DAYCARE,Full-time Centre,"Preschool, School-age",52.0,N,Y,Y,Day Care,444 Drive Mclaughlin Moncton E1A 4R4 (506) 857-8010,Province of New Brunswick
+170,GARDERIE ARLEQUIN III DAYCARE,Full-time Centre,"Infant, Preschool, School-age",48.0,Y,Y,Y,Day Care,1122 Drive Elmwood Moncton E1H 2H2 (506) 384-5332,Province of New Brunswick
+171,Garderie au Bourgeonnet,Full-time Centre,"Infant, Preschool",48.0,Y,Y,N,Day Care,67 Road Ragged Point Saint John E2K 5C3 (506) 658-4607,Province of New Brunswick
+172,Garderie au coin des petits,Full-time Centre,"Preschool, School-age",27.0,N,Y,Y,Day Care,3 rue Notre Dame Kedgwick E8B 1H2 (506) 284-9811,Province of New Brunswick
+173,Garderie Au Pays Des Enfants Inc.,Full-time Centre,"Preschool, School-age",52.0,N,Y,Y,Day Care,B 272 rue Notre Dame Atholville E3N 3Z9 (506) 753-6038,Province of New Brunswick
+174,Garderie au pays des merveilles 2,Part-time Centre,School-age,15.0,N,N,Y,Day Care,162 chemin Cormier Village Grand-Barachois (506) 532-9536,Province of New Brunswick
+175,GARDERIE AU PTIT CAROUSSEL,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,76 rue Mathias Dieppe E1A 9H6 (506) 870-0563,Province of New Brunswick
+176,Garderie Au rve des anges,Full-time Centre,School-age,24.0,N,N,Y,Day Care,8 rue Du Ruisseau Saint-Jacques E7B 2Y6 (506) 736-0800,Province of New Brunswick
+177,Garderie Au Royaume en chant T,Full-time Centre,"Infant, Preschool, School-age",27.0,Y,Y,Y,Day Care,5 rue Rue Des Sapins Kedgwick E8B 2B3 (506) 284-1017,Province of New Brunswick
+178,Garderie aux P'tits Amours Inc.,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,65 rue LaPlante Est Petit-Rocher E8J 1H4 (506) 783-7070,Province of New Brunswick
+179,Garderie aux P'tits Amours Inc. 2,Full-time Centre,School-age,52.0,N,N,Y,Day Care,65 rue LaPlante Est Petit-Rocher E8J 1H4 (506) 783-7070,Province of New Brunswick
+180,GARDERIE BEAUSJOUR,Part-time Centre,School-age,60.0,N,N,Y,Day Care,810 chemin Ohio Shediac E4P 2K1 (506) 533-9461,Province of New Brunswick
+181,Garderie Bimbo Daycare Inc.,Full-time Centre,"Infant, Preschool",123.0,Y,Y,N,Day Care,644 Drive University Bathurst E2A 2W6 (506) 548-8069,Province of New Brunswick
+182,Garderie Bourgeoys 2,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,248 rue Marguerite Bourgeoys Caraquet E1W 1A4 (506) 727-6883,Province of New Brunswick
+183,Garderie Carrefour des amis,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,806 rue cole Beresford E8K 1V5 (506) 542-1907,Province of New Brunswick
+184,Garderie centre ducatif les petits pas,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,9 rue Violette Saint-Quentin E8A 2B7 (506) 235-2942,Province of New Brunswick
+185,Garderie centre ducatif les petits pas 2,Part-time Centre,School-age,48.0,N,N,Y,Day Care,210 rue Mgr Martin Est Saint-Quentin E8A 1V4 (506) 235-6024,Province of New Brunswick
+186,GARDERIE CHAMPLAIN DAYCARE,Full-time Centre,"Infant, Preschool",44.0,Y,Y,N,Day Care,66 Promenade Newcombe Moncton E1A 7K2 (506) 383-0077,Province of New Brunswick
+187,GARDERIE CHAMPLAIN DAYCARE 2,Part-time Centre,School-age,40.0,N,N,Y,Day Care,66 Promenade Newcombe Moncton E1A 9V4 (506) 383-0077,Province of New Brunswick
+188,Garderie Champlain Daycare 3,Full-time Centre,"Infant, Preschool",41.0,Y,Y,N,Day Care,80 Promenade Newcombe Moncton E1A 9V4 (506) 383-0078,Province of New Brunswick
+189,Garderie Champlain Daycare 4,Part-time Centre,School-age,43.0,N,N,Y,Day Care,80 Promenade Newcombe Moncton E1A 9V4 (506) 383-0078,Province of New Brunswick
+190,GARDERIE CHATEAU MAGIQUE 2015,Full-time Centre,"Infant, Preschool, School-age",58.0,Y,Y,Y,Day Care,40 Robin rue Nguac E9G 0B1 (506) 779-6057,Province of New Brunswick
+191,GARDERIE CHEZ ALINOU,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,16 Street Paul Grand-Barachois E4P 7Y5 (506) 351-0904,Province of New Brunswick
+192,Garderie chez Christine,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,295 chemin Lebouthillier St-Simon E8P 1Z5 (506) 726-0315,Province of New Brunswick
+193,Garderie chez Cyn,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,114 chemin Rang 7 Et 8 Kedgwick E8B 1W1 (506) 284-3280,Province of New Brunswick
+194,Garderie Chez Dd,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1120 rue Saulnier Ouest Tracadie-Sheila E1X 2J4 (506) 395-5482,Province of New Brunswick
+195,Garderie chez Gigi,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1808 chemin Saulnier Ouest Saint-Irene E1X 2B1 (506) 395-4749,Province of New Brunswick
+196,Garderie chez Ginette,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1741 Route 315 Dunlop E8K 2K7 (506) 226-0829,Province of New Brunswick
+197,GARDERIE CHEZ ISA,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,50 rue Surette Dieppe E1A 8H7 (506) 386-7197,Province of New Brunswick
+198,Garderie chez Julie,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,7692 Route 17 Kedgwick E8B 1W5 (506) 284-0238,Province of New Brunswick
+199,GARDERIE CHEZ KRI KRI,Full-time Centre,"Preschool, School-age",20.0,N,Y,Y,Day Care,14 rue Dominique Grande-Digue E4R 0B9 (506) 531-0880,Province of New Brunswick
+200,GARDERIE CHEZ LISE,Part-time Centre,School-age,15.0,N,N,Y,Day Care,23 croissant Murielle Dieppe E1A 7R3 (506) 382-6845,Province of New Brunswick
+201,GARDERIE CHEZ NADI,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,55 Promenade Madawaska Dieppe E1A 5C8 (506) 229-2265,Province of New Brunswick
+202,Garderie chez Nadine,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,845 chemin Canada Edmundston E3V 3X1 (506) 737-8425,Province of New Brunswick
+203,Garderie chez Nini,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,6395 Route 17 Saint-Quentin E8A 2J8 (506) 504-0057,Province of New Brunswick
+204,Garderie chez Sabrina,Full-time Centre,"Infant, Preschool, School-age",21.0,Y,Y,Y,Day Care,190 rue Principale Sainte-Anne-de-Madawaska E7E 1B8 (506) 445-1180,Province of New Brunswick
+205,GARDERIE CHEZ SMARTIES,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,2175 Route 133 Grand-Barachois E4P 8E8 (506) 874-8857,Province of New Brunswick
+206,Garderie Chez Steph,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,267 rue Paquet Caraquet E1W 1A4 (506) 727-0965,Province of New Brunswick
+207,GARDERIE CHEZ SYLVIE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,366 rue Beaumont Dieppe E1A 1A8 (506) 384-7369,Province of New Brunswick
+208,Garderie chez Tante Rosi,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,5 chemin Gauvin Petite-Lamque E8T 2M9 (506) 344-5655,Province of New Brunswick
+209,Garderie chez Tetelle,Full-time Centre,"Preschool, School-age",20.0,N,Y,Y,Day Care,151 chemin Haut-Lamque Haut-Lamque E8T 3M8 (506) 344-5577,Province of New Brunswick
+210,Garderie Communautaire Les Schtroumpfs Inc,Full-time Centre,"Infant, Preschool, School-age",49.0,Y,Y,Y,Day Care,203 avenue Loudun Shippagan E8S 1R6 (506) 336-4538,Province of New Brunswick
+211,Garderie Cooprative d'Allardville,Full-time Centre,"Preschool, School-age",45.0,N,Y,Y,Day Care,4572 Route 134 Allardville E8L 1E4 (506) 725-2072,Province of New Brunswick
+212,Garderie Cooprative de Rogersville,Part-time Centre,School-age,49.0,N,N,Y,Day Care,2 65 rue De L'cole Rogersville E4Y 1V4 (506) 623-8069,Province of New Brunswick
+213,Garderie Cooprative de Rogersville II,Full-time Centre,Preschool,30.0,N,Y,N,Day Care,2 50 rue De L'cole Rogersville E4Y 1V7 (506) 623-8069,Province of New Brunswick
+214,Garderie Coucou,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,273 rue Du Pecheur Nord Lamque E8T 1K9 (506) 344-2232,Province of New Brunswick
+215,Garderie Dandi,Part-time Centre,School-age,60.0,N,N,Y,Day Care,46 rue Upton Moncton E1E 3Z1 (506) 874-0656,Province of New Brunswick
+216,Garderie de l'imaginaire,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1520 rue Principale Saint-Basile E7C 1M8 (506) 353-0650,Province of New Brunswick
+217,Garderie de mon enfance,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,67 rue De L'Anse Eel River Crossing E8E 1P9 (506) 686-3207,Province of New Brunswick
+218,Garderie des Apprentis-Sages,Full-time Centre,"Infant, Preschool, School-age",24.0,Y,Y,Y,Day Care,8 Street Boucher Campbellton E3N 2P1 (506) 790-5596,Province of New Brunswick
+219,Garderie des Grands Amis,Full-time Centre,Preschool,16.0,N,Y,N,Day Care,172 Route 280 Dundee E8E 1Y5 (506) 826-9212,Province of New Brunswick
+220,Garderie des Petits Pcheurs,Full-time Centre,"Infant, Preschool, School-age",44.0,Y,Y,Y,Day Care,2474 chemin Acadie Cap-Pel E4N 1C9 (506) 871-5888,Province of New Brunswick
+221,Garderie des P'tits Amis,Full-time Centre,"Infant, Preschool, School-age",51.0,Y,Y,Y,Day Care,27 avenue Laboissonniere Edmundston E3V 3S7 (506) 739-9062,Province of New Brunswick
+222,Garderie des P'tits Amis 1,Full-time Centre,"Infant, Preschool, School-age",44.0,Y,Y,Y,Day Care,27 avenue Laboissonniere Edmundston E3V 3S7,Province of New Brunswick
+223,Garderie des P'tits Marins,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,12 chemin Job Grand-Barachois E4P 7P7 (506) 532-5768,Province of New Brunswick
+224,GARDERIE DES P'TITS MARINS 2,Full-time Centre,"Infant, Preschool",30.0,Y,Y,N,Day Care,12 chemin Job Grand-Barachois E4P 7P7 (506) 532-5768,Province of New Brunswick
+225,GARDERIE DES P'TITS MARINS 3,Part-time Centre,"Preschool, School-age",45.0,N,Y,Y,Day Care,12 chemin Job Grand-Barachois E4P 7P7 (506) 532-5768,Province of New Brunswick
+226,GARDERIE DES P'TITS MOLLUSQUES,Full-time Centre,"Infant, Preschool",39.0,Y,Y,N,Day Care,78 rue Mclaughlin Bouctouche E4S 3R2 (506) 743-5433,Province of New Brunswick
+227,GARDERIE DES P'TITS MOLLUSQUES 2,Part-time Centre,School-age,34.0,N,N,Y,Day Care,26 rue du Parc Bouctouche E4S 3C5 (506) 743-5433,Province of New Brunswick
+228,Garderie des P'tits Mollusques 3,Full-time Centre,"Infant, Preschool, School-age",46.0,Y,Y,Y,Day Care,2114 route 515 Sainte-Marie-de-Kent E4S 2E1 (506) 744-0378,Province of New Brunswick
+229,Garderie Doux Clins,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,43 Street Lepage Balmoral E8E 1J1 (506) 826-1902,Province of New Brunswick
+230,Garderie Dragon Day Care,Part-time Centre,School-age,60.0,N,N,Y,Day Care,105 rue Notre Dame Atholville E3N 4T1 (506) 759-4488,Province of New Brunswick
+231,Garderie du Bonheur,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,13 rue Bellevue Saint-Franois-de-Madawaska E7A 1A4 (506) 739-3994,Province of New Brunswick
+232,Garderie du Domaine 2 Inc.,Full-time Centre,"Preschool, School-age",35.0,N,Y,Y,Day Care,100 avenue Fraser Edmundston E3V 1Z8 (506) 735-1619,Province of New Brunswick
+233,Garderie du Domaine Inc.,Full-time Centre,"Infant, Preschool",56.0,Y,Y,N,Day Care,100 avenue Fraser Edmundston E3V 1Z8 (506) 735-1619,Province of New Brunswick
+234,Garderie du Parc,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,44 rue Du Parc Caraquet E1W 1A7 (506) 727-3397,Province of New Brunswick
+235,Garderie cole de la Petite Enfance 2,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,4138 rue Principale Tracadie-Sheila E1X 1B8 (506) 395-4013,Province of New Brunswick
+236,Garderie Enchante,Full-time Centre,"Preschool, School-age",14.0,N,Y,Y,Day Care,100 rue Aurle Cormier Shediac E4P 9B9 (506) 533-9822,Province of New Brunswick
+237,Garderie Familiale Petit Petit,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,146 rue 2e Shippagan E8S 1A8 (506) 336-1102,Province of New Brunswick
+238,Garderie Happy Feet Daycare,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,338 boulevard Broadway Grand-Sault/Grand Falls E3Z 2K4 (506) 475-9309,Province of New Brunswick
+239,GARDERIE HAPPY LITTLE FACES DAY CARE,Full-time Centre,"Infant, Preschool",30.0,Y,Y,N,Day Care,1119 Principale rue Beresford E8K 1E4 (506) 546-5401,Province of New Brunswick
+240,GARDERIE INDIGO,Home,School-age,9.0,N,N,Y,Home,11 rue Highlandview Moncton E1A 2K9 (506) 383-5078,Province of New Brunswick
+241,Garderie Jade,Full-time Centre,"Infant, Preschool, School-age",43.0,Y,Y,Y,Day Care,225 rue Pointe-Brule Pointe-Brle E8S 2V9 (506) 601-4455,Province of New Brunswick
+242,Garderie Jeunes Amigos Inc.,Part-time Centre,School-age,15.0,N,N,Y,Day Care,83 Road Old Shediac Memramcook E4K 1V1 (506) 377-5437,Province of New Brunswick
+243,GARDERIE LA CARTINE DAYCARE,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,1766 rue Amirault Dieppe E1A 7K2 (506) 384-2278,Province of New Brunswick
+244,GARDERIE LA CARTINE DAYCARE 2,Full-time Centre,"Preschool, School-age",57.0,N,Y,Y,Day Care,1766 rue Amirault Dieppe E1A 7K2 (506) 384-2278,Province of New Brunswick
+245,GARDERIE LA COCCINELLE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,50 rue Gilbert-Finn Dieppe E1A 8L4 (506) 899-0673,Province of New Brunswick
+246,Garderie La Dcouverte Centre de dveloppement de l'enfant,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,3120 rue Principale Tracadie-Sheila E1X 1A2 (506) 395-5420,Province of New Brunswick
+247,Garderie La Floraison,Full-time Centre,Preschool,57.0,N,Y,N,Day Care,140 Street Botsford Moncton E1C 4X5 (506) 855-5987,Province of New Brunswick
+248,Garderie La Girouette,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,4 rue Beaulieu Saint-Isidore E8M 1T3 (506) 358-1183,Province of New Brunswick
+249,Garderie la Licorne,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,132 rue Du Portage Caraquet E1W 1A8 (506) 727-7150,Province of New Brunswick
+250,Garderie la Marelle Daycare,Full-time Centre,"Preschool, School-age",46.0,N,Y,Y,Day Care,1060 chemin Melanson Dieppe E1A 7P2 (506) 384-0707,Province of New Brunswick
+251,Garderie la Mlodie (2014) Inc.,Full-time Centre,"Preschool, School-age",39.0,N,Y,Y,Day Care,309 chemin Fox-Creek Dieppe E1A 7M5 (506) 384-7788,Province of New Brunswick
+252,GARDERIE LA MLODIE 2 (2014),Full-time Centre,"Infant, Preschool, School-age",49.0,Y,Y,Y,Day Care,345 avenue Bras-D'Or Dieppe E1A 2B6 (506) 852-3636,Province of New Brunswick
+253,Garderie La Mlodie 3 (2014) Inc.,Full-time Centre,"Infant, Preschool, School-age",50.0,Y,Y,Y,Day Care,48 chemin Ohio Shediac E4P 2J9 (506) 532-1330,Province of New Brunswick
+254,Garderie la ptite luciole,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,65 Street Andrew Campbellton E3N 2B8 (506) 329-1242,Province of New Brunswick
+255,Garderie la petite famille,Full-time Centre,"Preschool, School-age",36.0,N,Y,Y,Day Care,2366 rue Commerciale Saint-Franois-de-Madawaska E7A 1B6 (506) 992-8807,Province of New Brunswick
+256,Garderie La P'tite Rcr,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,10 rue Rita Smith Saint-Basile E7C 1J8 (506) 838-4938,Province of New Brunswick
+257,Garderie La Rivire,Full-time Centre,"Preschool, School-age",18.0,N,Y,Y,Day Care,1050 Route 350 Landry Office E8P 2K9 (506) 727-1916,Province of New Brunswick
+258,Garderie l'Arc-en-ciel d'amis,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,52 avenue 46 Ime Edmundston E3V 3B5 (506) 739-7550,Province of New Brunswick
+259,Garderie le coffre aux trsors,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,48 rue Edgar Saint-Basile E7C 1P1 (506) 580-0909,Province of New Brunswick
+260,Garderie Le p'tit monde des enfants,Full-time Centre,"Infant, Preschool, School-age",25.0,Y,Y,Y,Day Care,695 rue Principale Clair E7A 2H3 (506) 992-3702,Province of New Brunswick
+261,GARDERIE LE ROYAUME,Full-time Centre,"Infant, Preschool, School-age",44.0,Y,Y,Y,Day Care,392 rue Amirault Dieppe E1A 1G3 (506) 382-4565,Province of New Brunswick
+262,Garderie L'Enfant Magique Inc.,Full-time Centre,"Infant, Preschool, School-age",54.0,Y,Y,Y,Day Care,47 avenue Du Village Campbellton E3N 3G4 (506) 753-4069,Province of New Brunswick
+263,Garderie les Amis de Cdrik,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1023 Avenue Des Pionniers Balmoral E8E 1B5 (506) 987-3400,Province of New Brunswick
+264,Garderie Les amis de Kaleb,Home,School-age,9.0,N,N,Y,Home,34 rue Dominique Grand-Sault/Grand Falls E3Y 1A2 (506) 475-2201,Province of New Brunswick
+265,Garderie Les amis de Madi,Full-time Centre,,,N,N,N,Day Care,,Province of New Brunswick
+266,Garderie Les Chatounets,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,10 Avenue Massey Moncton E1A 3C6 (506) 204-8909,Province of New Brunswick
+267,Garderie les Dbrouillards(es) Inc.,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,1 rue de l'Ecole Val-d'Amour E3N 5E1 (506) 753-3596,Province of New Brunswick
+268,Garderie les Farfelues,Home,,,N,N,N,Home,,Province of New Brunswick
+269,Garderie Les Frimousses,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,634 rue De L'glise Tracadie-Sheila E1X 1B1 (506) 395-9568,Province of New Brunswick
+270,Garderie Les grands entrepreneurs,Part-time Centre,School-age,60.0,N,N,Y,Day Care,477 chemin de l'glise Saint-Andr E3Y 2Y2 (506) 475-4056,Province of New Brunswick
+271,Garderie Les Hiboux,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,Drive Eco Terra Fredericton E3A 9M1 (506) 453-7700,Province of New Brunswick
+272,Garderie Les Hirondelles,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,Drive Eco Terra Fredericton E3A 9M1 (506) 453-7700,Province of New Brunswick
+273,Garderie Les Lucioles,Part-time Centre,,,N,N,N,Day Care,,Province of New Brunswick
+274,Garderie Les Lumignons,Part-time Centre,School-age,60.0,N,N,Y,Day Care,Drive Eco Terra Fredericton E3A 9M1 (506) 453-7700,Province of New Brunswick
+275,Garderie Les Perroquets,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,Drive Eco Terra Fredericton E3A 9M1 (506) 453-7700,Province of New Brunswick
+276,Garderie Les Petites Cacahutes,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,880 boulevard Des Acadiens Bertrand E1W 1H6 (506) 727-5020,Province of New Brunswick
+277,GARDERIE LES PETITS AMIS DE CATHY,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,241 rue Bdard Dieppe E1A 0H1 (506) 387-5812,Province of New Brunswick
+278,Garderie Les Petits Anges,Full-time Centre,"Preschool, School-age",22.0,N,Y,Y,Day Care,94 rue Martin Nguac E9G 1K9 (506) 776-8427,Province of New Brunswick
+279,Garderie Les Petits Dragons,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1319 Route 335 St-Simon E8P 2A4 (506) 726-0069,Province of New Brunswick
+280,Garderie Les petits entrepreneurs,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,477 chemin de l'glise Saint-Andr E3Y 2Y2 (506) 475-4056,Province of New Brunswick
+281,Garderie Les Petits Ours,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,42 Crescent Watling Oromocto E2V 4M8 (780) 257-8461,Province of New Brunswick
+282,Garderie Les Petits Passereaux Inc,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,5067 Route 160 Pont-Landry E1X 2V5 (506) 394-3600,Province of New Brunswick
+283,GARDERIE LES PETITS SOURIRES,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,3060 Route 132 Scoudouc E4P 3S4 (506) 532-6700,Province of New Brunswick
+284,Garderie les petits trsors I.H. Lte,Full-time Centre,"Preschool, School-age",37.0,N,Y,Y,Day Care,5 rue De La Forge Caraquet E1W 1A2 (506) 727-4656,Province of New Brunswick
+285,Garderie Les P'tites Tornades,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,64 rue Arlequin Sainte-Marie-Saint-Raphal E8T 1N4 (506) 344-5404,Province of New Brunswick
+286,Garderie Les P'tits Acadiens,Full-time Centre,"Infant, Preschool, School-age",43.0,Y,Y,Y,Day Care,38 rue Portage Caraquet E1W 1A8 (506) 727-1819,Province of New Brunswick
+287,Garderie les p'tits amis de Amy,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,7 rue Harry DSL de Grand-Sault/Falls E3Z 0A4 (506) 475-5080,Province of New Brunswick
+288,GARDERIE LES P'TITS BARACHOIS,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,51 chemin Pointe Aux Bouleaux Grand-Barachois E4P 7Z7 (506) 533-7820,Province of New Brunswick
+289,Garderie Les P'tits Chatons,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,424 rue Principale Saint-Basile E7C 1J4 (506) 263-1995,Province of New Brunswick
+290,GARDERIE LES P'TITS COEURS DAYCARE,Full-time Centre,"Infant, Preschool, School-age",45.0,Y,Y,Y,Day Care,275 rue Amirault Dieppe E1A 1G1 (506) 384-2030,Province of New Brunswick
+291,GARDERIE LES P'TITS COEURS DAYCARE GROUPE 2,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,275 rue Amirault Dieppe E1A 1G1 (506) 384-2030,Province of New Brunswick
+292,GARDERIE LES P'TITS DAUPHINS,Home,School-age,9.0,N,N,Y,Home,44 Road Mill Moncton E1A 4A1 (506) 830-1827,Province of New Brunswick
+293,Garderie Les P'tits Poussins,Full-time Centre,"Infant, Preschool",39.0,Y,Y,N,Day Care,Drive Eco Terra Fredericton E3A 9M1 (506) 453-7700,Province of New Brunswick
+294,Garderie les Zamibulles Inc.,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,629 rue Victoria Edmundston E3V 3M8 (506) 739-9264,Province of New Brunswick
+295,GARDERIE L'TOILE FILANTE,Full-time Centre,"Infant, Preschool, School-age",48.0,Y,Y,Y,Day Care,4630 rue Principale Saint-Antoine E4V 1R5 (506) 525-2909,Province of New Brunswick
+296,Garderie Lisette Aprs-Classe,Full-time Centre,"Preschool, School-age",45.0,N,Y,Y,Day Care,12 chemin Robichaud Cap-Pel E4N 1Y8 (506) 577-4844,Province of New Brunswick
+297,GARDERIE LISETTE Lte,Full-time Centre,"Infant, Preschool",41.0,Y,Y,N,Day Care,36 rue Brun Cap-Pel E4N 1N4 (506) 577-8208,Province of New Brunswick
+298,Garderie l'Univers des Petits,Full-time Centre,Preschool,21.0,N,Y,N,Day Care,1890 rue Bellechasse Paquetville E8R 1M8 (506) 764-2978,Province of New Brunswick
+299,Garderie l'Univers des Petits Papillons,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,4255 boulevard Des Fondateurs Saint-Isidore E8M 1G7 (506) 358-0112,Province of New Brunswick
+300,Garderie Mange Enchant 2020 inc.,Full-time Centre,"Infant, Preschool, School-age",55.0,Y,Y,Y,Day Care,1190 rue Principale Beresford E8K 2J1 (506) 548-9324,Province of New Brunswick
+301,GARDERIE MAYA,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,50 chemin Pointe-De Pruches Pointe-Sapin E9A 1S4 (506) 876-3303,Province of New Brunswick
+302,Garderie Mlie 2020 Inc,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,2009 Route 322 Robertville E8K 2S4 (506) 783-7793,Province of New Brunswick
+303,Garderie Mlubulles 1 Inc.,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,45 avenue 31 ime Edmundston E3V 2R6 (506) 739-9264,Province of New Brunswick
+304,Garderie Mlubulles 2 Inc.,Full-time Centre,"Infant, Preschool",57.0,Y,Y,N,Day Care,45 avenue 31 ime Edmundston E3V 2R6 (506) 739-9264,Province of New Brunswick
+305,Garderie Mini-Sol,Part-time Centre,School-age,50.0,N,N,Y,Day Care,63 rue Laplante Est Petit-Rocher E8J 1H4 (506) 783-9814,Province of New Brunswick
+306,Garderie Mon autre maison,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,4 rue Jonathan Saint-Quentin E8A 2C8 (506) 504-0156,Province of New Brunswick
+307,Garderie Mon Doudou - Jeux de Lettres,Full-time Centre,"Infant, Preschool, School-age",15.0,Y,Y,Y,Day Care,176 Avenue Second Moncton E1C 7Y6 (506) 227-2722,Province of New Brunswick
+308,Garderie Mont Ste-Marie Inc.,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,641 rue St-Franois Edmundston E3V 1H6 (506) 735-9199,Province of New Brunswick
+309,Garderie Mont Ste-Marie Inc. prscolaire & aprs-classe,Full-time Centre,"Preschool, School-age",43.0,N,Y,Y,Day Care,641 rue St-Franois Edmundston E3V 1H6 (506) 735-9199,Province of New Brunswick
+310,GARDERIE MYRABEL,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,5418 Route 134 Cocagne E4R 3P1 (506) 744-0781,Province of New Brunswick
+311,GARDERIE PEEK-A-BOO DAYCARE,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,5 447 King George Highway Miramichi E1V 1L8 (506) 622-7070,Province of New Brunswick
+312,Garderie Petit Soleil,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,10 rue Patrick Saint-Jacques E7B 2Y1 (506) 253-9075,Province of New Brunswick
+313,Garderie Petit-Pied/Little Foot Daycare,Full-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,1197 rue Principale Nguac E9G 1T2 (506) 776-5043,Province of New Brunswick
+314,Garderie Polichinelle,Full-time Centre,"Infant, Preschool, School-age",24.0,Y,Y,Y,Day Care,87 Street Arran Campbellton E3N 1L5 (506) 753-4218,Province of New Brunswick
+315,GARDERIE POWER PLAY DAYCARE,Part-time Centre,School-age,49.0,N,N,Y,Day Care,257 rue des Erables Dieppe E1A 9B1 (506) 853-7529,Province of New Brunswick
+316,Garderie Prcieux Moments,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,21 avenue Des rables Clair E7A 2B4 (506) 821-2222,Province of New Brunswick
+317,Garderie Rose des vents,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1745 Route 355 A Sainte-Rose E1X 2W5 (506) 395-1514,Province of New Brunswick
+318,Garderie Tic Tac Toe Daycare Inc.,Full-time Centre,"Infant, Preschool",37.0,Y,Y,N,Day Care,357 Grey Street Dalhousie E8C 1W6 (506) 684-2700,Province of New Brunswick
+319,Garderie Tic Tac Toe Daycare Inc. (2),Part-time Centre,School-age,60.0,N,N,Y,Day Care,357 Grey Street Dalhousie E8C 1W6 (506) 684-2700,Province of New Brunswick
+320,Garderie Tina Mallet,Full-time Centre,"Infant, Preschool, School-age",57.0,Y,Y,Y,Day Care,140 chemin des Huitres Haut-Shippagan E8S 2N6 (506) 336-8516,Province of New Brunswick
+321,Garderie Tourbillon de Soleil Inc.,Full-time Centre,"Preschool, School-age",48.0,N,Y,Y,Day Care,464 avenue Des Pionniers Balmoral E8E 1E2 (506) 826-2796,Province of New Brunswick
+322,Garderie univers d'enfants I,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,329 rue Ryan Moncton E1G 2W2 (506) 864-8377,Province of New Brunswick
+323,Garderie univers d'enfants II,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,329 rue Ryan Moncton E1G 2W2 (506) 864-8377,Province of New Brunswick
+324,GBC CHILD CARE PROGRAMS,Full-time Centre,"Preschool, School-age",59.0,N,Y,Y,Day Care,160 Old Coach Road Riverview E1B 1N8 (506) 851-5520,Province of New Brunswick
+325,Geary Headstart Program,Part-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,16 Lauvina Bye Road Geary E2V 3Y1 (506) 449-2603,Province of New Brunswick
+326,Get Active After School,Part-time Centre,School-age,60.0,N,N,Y,Day Care,180 Main Street Fredericton E3A 1C8 (506) 472-9323,Province of New Brunswick
+327,Get Active Kids,Part-time Centre,School-age,60.0,N,N,Y,Day Care,180 Main Street Fredericton E3A 1C8 (506) 472-9323,Province of New Brunswick
+328,Gibson-Neill Memorial After School Program,Part-time Centre,School-age,29.0,N,N,Y,Day Care,67 Wyngate Drive Fredericton E3A 6G1 (506) 472-5112,Province of New Brunswick
+329,GO-GO AFTER SCHOOL ISLAND VIEW SCHOOL,Part-time Centre,School-age,30.0,N,N,Y,Day Care,496 Ridge Row Saint John E2M 4A1 (506) 455-5496,Province of New Brunswick
+330,Go-Go After School and Preschool Woodstock Road,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,A 861 Woodstock Road Fredericton E3B 7R7 (506) 455-5496,Province of New Brunswick
+331,Go-Go After School Canterbury,Part-time Centre,School-age,60.0,N,N,Y,Day Care,523 Canterbury Drive Fredericton E3B 4M4 (506) 455-5496,Province of New Brunswick
+332,Go-Go After School Connaught Street,Part-time Centre,School-age,60.0,N,N,Y,Day Care,536 Northumberland Street Fredericton E3E 1P1 (506) 455-5496,Province of New Brunswick
+333,GO-GO AFTER SCHOOL FAIRVALE ELEMENTARY,Part-time Centre,School-age,60.0,N,N,Y,Day Care,11 School Avenue Rothesay E2E 1Z9 (506) 846-6202,Province of New Brunswick
+334,Go-Go After School Hammond River Valley,Part-time Centre,School-age,30.0,N,N,Y,Day Care,1759 860 Route Hampton E5N 8H1 (506) 455-5496,Province of New Brunswick
+335,Go-Go After School Hanwell,Part-time Centre,"Preschool, School-age",50.0,N,Y,Y,Day Care,1717 640 Route Hanwell E3C 2B9 (506) 455-5496,Province of New Brunswick
+336,Go-Go After School High Point Plaza,Part-time Centre,School-age,45.0,N,N,Y,Day Care,283 New Maryland Highway New Maryland E3C 2H3 (506) 455-5496,Province of New Brunswick
+337,Go-Go After School Main Street,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,87 Main Street Fredericton E3A 1C2 (506) 455-5496,Province of New Brunswick
+338,Go-Go After School Nashwaaksis,Part-time Centre,School-age,60.0,N,N,Y,Day Care,104 Edgewood Drive Fredericton E3A 1T3 (506) 455-5496,Province of New Brunswick
+339,Go-Go After School Park Street,Part-time Centre,School-age,47.0,N,N,Y,Day Care,111 Park Street Fredericton E3A 2J6 (506) 454-5496,Province of New Brunswick
+340,Go-Go After School Saint Rose School,Part-time Centre,School-age,30.0,N,N,Y,Day Care,700 Manawagonish Road Saint John E2M 3W5 (506) 455-5496,Province of New Brunswick
+341,Go-Go After School Silverwood,Part-time Centre,School-age,41.0,N,N,Y,Day Care,2385 Woodstock Road Fredericton E3C 1L4 (506) 455-5496,Province of New Brunswick
+342,Go-Go After School Two Nations Crossing,Part-time Centre,"Preschool, School-age",48.0,N,Y,Y,Day Care,80 Two Nations Crossing Fredericton E3A 0H2 (506) 455-5496,Province of New Brunswick
+343,Go-Go After School UNB Main,Part-time Centre,School-age,56.0,N,N,Y,Day Care,2 Peter Kelly Drive Fredericton E3B 5A3 (506) 455-5496,Province of New Brunswick
+344,GO-GO AFTER SCHOOL-HAMPTON ELEMENTARY SCHOOL,Part-time Centre,School-age,30.0,N,N,Y,Day Care,82 School Street Hampton E5N 6B2 (506) 455-5496,Province of New Brunswick
+345,Go-Go Preschool and After School Maple Street,Full-time Centre,"Preschool, School-age",54.0,N,Y,Y,Day Care,318 Maple Street Fredericton E3A 3R4 (506) 455-5436,Province of New Brunswick
+346,Go-Go Preschool and Afterschool Main St. 2,Full-time Centre,"Preschool, School-age",35.0,N,Y,Y,Day Care,87 Main Street Fredericton E3A 1C2 (506) 455-5496,Province of New Brunswick
+347,Go-Go Preschool- Canterbury Drive,Full-time Centre,"Preschool, School-age",56.0,N,Y,Y,Day Care,105-106 523 Canterbury Drive Fredericton E3B 4M4 (506) 455-5496,Province of New Brunswick
+348,Go-Go Preschool High Point Plaza,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,283 New Maryland Highway New Maryland E3C 2H3 (506) 455-5496,Province of New Brunswick
+349,GRAND BAY AFTER SCHOOL 1,Part-time Centre,School-age,47.0,N,N,Y,Day Care,27 Inglewood Drive Grand Bay-Westfield E5K 2E1 (506) 738-8103,Province of New Brunswick
+350,GRAND BAY BLOSSOMS,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,749 River Valley Drive Grand Bay-Westfield E5K 1B6 (506) 738-3217,Province of New Brunswick
+351,Grand Bay Blossoms Afterschool Care,Part-time Centre,School-age,30.0,N,N,Y,Day Care,45 Ridge Way Grand Bay-Westfield E5K 1Y9 (506) 738-3217,Province of New Brunswick
+352,GRAND BAY TINY TREASURES LEARNING CENTRE,Full-time Centre,"Preschool, School-age",34.0,N,Y,Y,Day Care,77 Woolastook Drive Grand Bay-Westfield E5K 1S3 (506) 738-2766,Province of New Brunswick
+353,GRAND BAY TREASURED ADVENTURES,Part-time Centre,School-age,60.0,N,N,Y,Day Care,77 Woolastook Drive Grand Bay-Westfield E5K 1S3 (506) 654-2766,Province of New Brunswick
+354,Grand Manan Early Learning Centre,Full-time Centre,"Preschool, School-age",52.0,N,Y,Y,Day Care,1021 776 Route Grand Manan E5G 4E5 (506) 662-3653,Province of New Brunswick
+355,GREATER MONCTON SCHOOL OF DISCOVERY,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,135 MacBeath Avenue Moncton E1C 6Z8 (506) 857-5560,Province of New Brunswick
+356,GREATER MONCTON SCHOOL OF DISCOVERY AFTERSCHOOL,Part-time Centre,School-age,45.0,N,N,Y,Day Care,172 West Lane Moncton E1C 6V2 (506) 857-5560,Province of New Brunswick
+357,GREATER MONCTON SCHOOL OF DISCOVERY PRESCHOOL,Full-time Centre,Preschool,20.0,N,Y,N,Day Care,135 MacBeath Avenue Moncton E1C 6Z8 (506) 857-5560,Province of New Brunswick
+358,GROW WITH ME DAY CARE,Home,"Preschool, School-age",9.0,N,Y,Y,Home,35 McDowell Avenue Riverview E1B 4A3 (506) 378-0214,Province of New Brunswick
+359,HALL PLAYTIME LEARNERS PRESCHOOL,Part-time Centre,Preschool,15.0,N,Y,N,Day Care,82 School Street Hampton E5N 6B2 (506) 832-5665,Province of New Brunswick
+360,Halte Carrefour des amis,Part-time Centre,School-age,60.0,N,N,Y,Day Care,795 rue cole Beresford E8K 1V4 (506) 542-1907,Province of New Brunswick
+361,HALTE DE LA PASSERELLE,Part-time Centre,School-age,45.0,N,N,Y,Day Care,432 rue Centrale Memramcook E4K 3S5 (506) 863-4302,Province of New Brunswick
+362,Halte de l'tincelle,Part-time Centre,"Preschool, School-age",20.0,N,Y,Y,Day Care,70 rue De L'glise Sainte-Marie-Saint-Raphal E8T 1N8 (506) 344-3022,Province of New Brunswick
+363,Halte des Grands lutins,Full-time Centre,School-age,35.0,N,N,Y,Day Care,2 385 rue Principale Nigadoo E8K 3R6 (506) 480-0426,Province of New Brunswick
+364,Halte le Monde des Super Hros,Part-time Centre,School-age,15.0,N,N,Y,Day Care,1295 rue Principale Le Goulet E8S 2E9 (506) 336-4940,Province of New Brunswick
+365,Halte scolaire petit pas dans mon cole,Part-time Centre,School-age,43.0,N,N,Y,Day Care,1341 chemin Robertville Robertville E8K 2V9 (506) 542-2453,Province of New Brunswick
+366,Halte scolaire Bellefeuille,Part-time Centre,School-age,60.0,N,N,Y,Day Care,906 rue L.G. Daigle Tracadie-Sheila E1X 1G4 (506) 394-3559,Province of New Brunswick
+367,Halte scolaire Bimbo,Part-time Centre,School-age,60.0,N,N,Y,Day Care,1300 rue St-Joseph Bathurst E2A 3R5 (506) 548-8069,Province of New Brunswick
+368,Halte scolaire Carrefour de la jeunesse,Part-time Centre,School-age,60.0,N,N,Y,Day Care,54 avenue 21 Ime Edmundston E3V 2B9 (506) 263-5035,Province of New Brunswick
+369,Halte scolaire des grands amis,Part-time Centre,School-age,28.0,N,N,Y,Day Care,361 Route 280 Dundee E8E 1X6 (506) 987-4199,Province of New Brunswick
+370,Halte Scolaire du C.S.C. La fontaine,Part-time Centre,School-age,19.0,N,N,Y,Day Care,700 rue Principale Nguac E9G 1N4 (506) 776-3808,Province of New Brunswick
+371,Halte scolaire cole Saint-Jacques 4,Part-time Centre,School-age,60.0,N,N,Y,Day Care,10 avenue De L'cole Saint-Jacques Saint-Jacques E7B 1E7 (506) 739-6755,Province of New Brunswick
+372,Halte scolaire lmentaire Mgr-Lang,Part-time Centre,School-age,24.0,N,N,Y,Day Care,1365 chemin Tobique Drummond E3Y 2P4 (506) 473-4055,Province of New Brunswick
+373,Halte scolaire Entramis.inc,Part-time Centre,School-age,30.0,N,N,Y,Day Care,963 rue Principale Beresford E8K 1M7 (506) 544-1912,Province of New Brunswick
+374,Halte scolaire ESSA,Part-time Centre,School-age,60.0,N,N,Y,Day Care,65 rue De L'cole Lamque E8T 1B7 (506) 344-3064,Province of New Brunswick
+375,Halte Scolaire Happy Feet,Part-time Centre,School-age,60.0,N,N,Y,Day Care,689 boulevard verard H. Daigle Grand-Sault/Grand Falls E3Z 3C5 (506) 475-9309,Province of New Brunswick
+376,Halte scolaire Jade,Part-time Centre,School-age,16.0,N,N,Y,Day Care,225 rue Pointe-Brule Pointe-Brle E8S 2V9 (506) 601-4455,Province of New Brunswick
+377,Halte scolaire Krok Soleil,Part-time Centre,School-age,60.0,N,N,Y,Day Care,99 rue Martin Edmundston E3V 2M7 (506) 739-5455,Province of New Brunswick
+378,Halte Scolaire La Dcouverte,Part-time Centre,School-age,27.0,N,N,Y,Day Care,3120 rue Principale Tracadie-Sheila E1X 1A2 (506) 395-5420,Province of New Brunswick
+379,Halte scolaire La Girouette,Part-time Centre,School-age,45.0,N,N,Y,Day Care,3953 boulevard Des Fondateurs Saint-Isidore E8M 1C1 (506) 358-1183,Province of New Brunswick
+380,Halte scolaire la Ribambelle en Folie Lte,Part-time Centre,School-age,60.0,N,N,Y,Day Care,40 rue De L'cole Saint-Lonard E7E 1Y6 (506) 423-6401,Province of New Brunswick
+381,Halte Scolaire l'Arc-en-ciel,Part-time Centre,School-age,28.0,N,N,Y,Day Care,220 boulevard St-Pierre Ouest Caraquet E1W 1A5 (506) 727-6737,Province of New Brunswick
+382,Halte Scolaire Le Domaine,Part-time Centre,School-age,25.0,N,N,Y,Day Care,636 rue Principale Petit-Rocher E8J 1T7 (506) 544-5080,Province of New Brunswick
+383,Halte Scolaire Le Tremplin,Part-time Centre,School-age,60.0,N,N,Y,Day Care,520 rue De L'glise Tracadie-Sheila E1X 1B1 (506) 394-3494,Province of New Brunswick
+384,Halte scolaire l'Envole,Part-time Centre,School-age,25.0,N,N,Y,Day Care,135 rue de l'cole Shippagan E8S 3H1 (506) 336-3024,Province of New Brunswick
+385,Halte scolaire Les Abeilles,Part-time Centre,School-age,60.0,N,N,Y,Day Care,635 rue de l'glise Tracadie-Sheila E1X 1B1 (506) 394-5985,Province of New Brunswick
+386,Halte scolaire Les Amis de la Passerelle,Part-time Centre,School-age,30.0,N,N,Y,Day Care,5067 Route 160 Pont-Landry E1X 2V5 (506) 397-1984,Province of New Brunswick
+387,Halte Scolaire l'Escale des Jeunes,Part-time Centre,School-age,20.0,N,N,Y,Day Care,2930 rue Morais Bas-Caraquet E1W 6A8 (506) 727-7044,Province of New Brunswick
+388,Halte scolaire L'Univers des Petits,Part-time Centre,School-age,60.0,N,N,Y,Day Care,1191 rue des Fondateurs Paquetville E8R 1A9 (506) 764-2978,Province of New Brunswick
+389,Halte scolaire Rivire-Verte,Part-time Centre,"Preschool, School-age",23.0,N,Y,Y,Day Care,4 rue De L'Ecole Rivire-Verte E7C 2R5 (506) 263-5035,Province of New Brunswick
+390,Halte scolaire Saint-Joseph,Part-time Centre,School-age,25.0,N,N,Y,Day Care,562 chemin Toussaint Saint-Joseph-de-Madawaska E7B 2T8 (506) 263-5035,Province of New Brunswick
+391,Halte scolaire St-Basile,Part-time Centre,School-age,60.0,N,N,Y,Day Care,247 rue Principale Saint-Basile E7C 1H7 (506) 263-5035,Province of New Brunswick
+392,Halte-scolaire Les Futur(e)s Ados,Home,School-age,9.0,N,N,Y,Home,76 chemin St-Simon Caraquet E1W 1B3 (506) 727-6433,Province of New Brunswick
+393,HAMILTON HOMESTYLE CLUBHOUSE,Full-time Centre,Preschool,24.0,N,Y,N,Day Care,70 Gault Road Saint John E2M 5H2 (506) 652-9822,Province of New Brunswick
+394,HAMILTON HOMESTYLE DAYCARE,Full-time Centre,"Infant, Preschool, School-age",55.0,Y,Y,Y,Day Care,70 Gault Road Saint John E2M 5H2 (506) 652-9822,Province of New Brunswick
+395,HANDS ON LEARNING ACADEMY,Full-time Centre,"Infant, Preschool",44.0,Y,Y,N,Day Care,120 Trites Road Riverview E1B 2V7 (506) 857-4263,Province of New Brunswick
+396,Hands on Learning Center Moncton,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,15 Granville Drive Moncton E1C 3G5 (506) 859-4263,Province of New Brunswick
+397,HANDS ON LEARNING CENTER MONCTON PRESCHOOL,Full-time Centre,"Infant, Preschool",39.0,Y,Y,N,Day Care,2181 Mountain Road Moncton E1G 1B6 (506) 877-4263,Province of New Brunswick
+398,HANDS ON LEARNING CENTER MONCTON SCHOOL AGE,Part-time Centre,School-age,43.0,N,N,Y,Day Care,2181 Mountain Road Moncton E1G 1B6 (506) 877-4263,Province of New Brunswick
+399,HANDS ON LEARNING CENTER RIVERVIEW,Part-time Centre,School-age,49.0,N,N,Y,Day Care,330 Pine Glen Road Riverview E1B 1V6 (506) 383-4263,Province of New Brunswick
+400,HANDS ON LEARNING ENRICHMENT CENTRE,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,2282 Mountain Road Moncton E1G 1B4 (506) 878-4263,Province of New Brunswick
+401,HAPPY CLOWN AFTER SCHOOL CENTRE,Part-time Centre,School-age,55.0,N,N,Y,Day Care,21 Pettingill Road Quispamsis E2E 6B1 (506) 849-4396,Province of New Brunswick
+402,HAPPY CLOWN DAYCARE,Full-time Centre,"Infant, Preschool, School-age",55.0,Y,Y,Y,Day Care,21 Pettingill Road Quispamsis E2E 6B1 (506) 849-4386,Province of New Brunswick
+403,Happy Faces Home Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,282 Rainsford Lane Fredericton E3B 7T2 (506) 455-5469,Province of New Brunswick
+404,Happy little faces Preschool and Afterschool program,Part-time Centre,"Preschool, School-age",28.0,N,Y,Y,Day Care,807 Principale rue Beresford E8K 1V7 (506) 783-4825,Province of New Brunswick
+405,Henry Park Recreation Centre After School Program,Part-time Centre,School-age,60.0,N,N,Y,Day Care,248 Medley Street Fredericton E3A 3B3 (506) 472-5112,Province of New Brunswick
+406,HERE WE GROW EARLY LEARNING & CHILDCARE CENTER,Full-time Centre,Preschool,25.0,N,Y,N,Day Care,13 Chad Crescent Salisbury E4J 3N4 (506) 372-9459,Province of New Brunswick
+407,Here We Grow Little Learners,Full-time Centre,"Infant, Preschool",22.0,Y,Y,N,Day Care,57 Boyd Street Salisbury E4J 2A6 (506) 372-9459,Province of New Brunswick
+408,HERE WE GROW YOUTH CENTER,Part-time Centre,School-age,60.0,N,N,Y,Day Care,55 Douglas Street Salisbury E4J 2B4 (506) 372-9459,Province of New Brunswick
+409,HOME WITH A HEART DAY CARE,Full-time Centre,"Infant, Preschool",40.0,Y,Y,N,Day Care,2051 Mountain Road Moncton E1G 1B1 (506) 384-8682,Province of New Brunswick
+410,Inspired Learning Academy,Full-time Centre,"Preschool, School-age",20.0,N,Y,Y,Day Care,201 281 Restigouche Road Oromocto E2V 2H2 (506) 471-3421,Province of New Brunswick
+411,I-Play Athletic 2,Part-time Centre,School-age,15.0,N,N,Y,Day Care,77 Hildegard Drive Moncton E1G 0Z6 (506) 862-0910,Province of New Brunswick
+412,I-PLAY ATHLETICS,Part-time Centre,School-age,60.0,N,N,Y,Day Care,77 Hildegard Drive Moncton E1G 0Z6 (506) 381-7119,Province of New Brunswick
+413,ISLAND VIEW SCHOOL COMMUNITY CENTRE,Part-time Centre,School-age,51.0,N,N,Y,Day Care,496 Ridge Row Saint John E2M 4A1 (506) 674-2095,Province of New Brunswick
+414,JANIE'S AFTERSCHOOL PROGRAM,Part-time Centre,School-age,52.0,N,N,Y,Day Care,372 Hampton Road Quispamsis E2E 4T8 (506) 847-2646,Province of New Brunswick
+415,JANIE'S KID ZONE INC.,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,301 Hampton Road Quispamsis E2E 4N1 (506) 849-0123,Province of New Brunswick
+416,JD Tae Kwon Do,Part-time Centre,School-age,60.0,N,N,Y,Day Care,445 Elmwood Drive Moncton E1A 2X2 (506) 860-7215,Province of New Brunswick
+417,JENNY BEAR DAYCARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,50 Courteney Street Moncton E1C 9L2 (506) 232-4950,Province of New Brunswick
+418,Jilly Beans Day Care,Full-time Centre,"Preschool, School-age",45.0,N,Y,Y,Day Care,37 Michael Avenue Hanwell E3C 2A5 (506) 455-2231,Province of New Brunswick
+419,Jodi McArthurs Home Day Care,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,15 Grand Pass Court Douglas E3G 7X3,Province of New Brunswick
+420,JOY Preschool,Part-time Centre,Preschool,20.0,N,Y,N,Day Care,349 Main Street Hartland E7P 2N1 (506) 375-4302,Province of New Brunswick
+421,JUMPIN JAX DAYCARE,Home,"Preschool, School-age",6.0,N,Y,Y,Home,160 Shannon Drive Moncton E1G 2G6 (506) 204-2032,Province of New Brunswick
+422,Jungle Tales Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,208 Garden Grove Road Lincoln E3B 7G8 (506) 260-5246,Province of New Brunswick
+423,JUST FOR BIG KIDZ AFTER SCHOOL PROGRAM,Part-time Centre,"Preschool, School-age",35.0,N,Y,Y,Day Care,12 Princess Street Street St Stephen E3L 2E4 (506) 465-8484,Province of New Brunswick
+424,JUST FOR KIDZ CHILD DEVELOPMENT CENTRE,Full-time Centre,"Infant, Preschool, School-age",43.0,Y,Y,Y,Day Care,14 Porter Street St. Stephen E3L 2M7 (506) 465-8484,Province of New Brunswick
+425,JUST KIDS DAYCARE CENTRE,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,296 Radio Street Miramichi E1V 2W5 (506) 622-3041,Province of New Brunswick
+426,KACIE'S EARLY LEARNING CHILDCARE CENTRE INC,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,4 Chipman Street Miramichi E1V 7M6 (506) 773-5437,Province of New Brunswick
+427,Karabear's Childcare,Home,School-age,9.0,N,N,Y,Home,119 Gilbert Drive Burton E2V 0B2 (506) 292-9047,Province of New Brunswick
+428,KAREN'S LEARNING CENTER,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,91 Queen Mary Road Moncton E1A 3P4 (506) 859-2491,Province of New Brunswick
+429,KARLIE'S AFTER SCHOOL CLUB,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,285 Campbell Street Miramichi E1V 1R4 (506) 773-5437,Province of New Brunswick
+430,Katie Bee's Children's Center,Full-time Centre,"Infant, Preschool",33.0,Y,Y,N,Day Care,200 Crocks Point Road Keswick Ridge E6L 1T5 (506) 363-5537,Province of New Brunswick
+431,Katie Bee's Children's Center II,Full-time Centre,"Preschool, School-age",53.0,N,Y,Y,Day Care,18 616 Highway Keswick Ridge E6L 1R6 (506) 363-5537,Province of New Brunswick
+432,KID ZONE 3,Part-time Centre,School-age,55.0,N,N,Y,Day Care,187 Pettingill Road Quispamsis E2E 3S8 (506) 849-0123,Province of New Brunswick
+433,KID ZONE K-PARK AFTER SCHOOL PROGRAM,Part-time Centre,School-age,45.0,N,N,Y,Day Care,10 Broadway Street Rothesay E2H 1B2 (506) 849-0123,Province of New Brunswick
+434,KID ZONE LAKEFIELD AFTER SCHOOL PROGRAM,Part-time Centre,School-age,42.0,N,N,Y,Day Care,9 Kensington Avenue Quispamsis E2E 2T8 (506) 849-0123,Province of New Brunswick
+435,KID ZONE TOO!,Part-time Centre,"Preschool, School-age",47.0,N,Y,Y,Day Care,15 Sugarmaple Lane Quispamsis E2E 4N2 (506) 849-0123,Province of New Brunswick
+436,KIDDIE COVE PRESCHOOL AND DAYCARE,Full-time Centre,"Preschool, School-age",36.0,N,Y,Y,Day Care,1722 774 Route Wilsons Beach E5E 1K7 (506) 752-7000,Province of New Brunswick
+437,Kids Come 1st,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,49 Knowlton Crescent Oromocto E2V 4T1 (506) 357-5262,Province of New Brunswick
+438,Kids Kan Afterschool Program,Part-time Centre,School-age,30.0,N,N,Y,Day Care,66 Miramichi Road Oromocto E2V 1S2 (506) 357-5437,Province of New Brunswick
+439,Kids Korner/Au Coin Des Petits,Full-time Centre,"Preschool, School-age",41.0,N,Y,Y,Day Care,558 King Avenue Bathurst E2A 1P7 (506) 548-0440,Province of New Brunswick
+440,Kids Korral Day Care,Full-time Centre,"Infant, Preschool",49.0,Y,Y,N,Day Care,55 Corbett Avenue Fredericton E3A 3X3 (506) 472-1268,Province of New Brunswick
+441,Kids Korral Day Care After School Club,Part-time Centre,School-age,47.0,N,N,Y,Day Care,55 Corbett Avenue Fredericton E3A 3X3,Province of New Brunswick
+442,Kidz K'nect Afterschool,Part-time Centre,School-age,30.0,N,N,Y,Day Care,101 George Street Fredericton E3B 1J2 (506) 470-5241,Province of New Brunswick
+443,KIDZONE,Full-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,2051 Mountain Road Moncton E1G 1B1 (506) 383-8682,Province of New Brunswick
+444,Kinderland Daycare Centre,Full-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,170 Canada Street Fredericton E3A 3Z8 (506) 453-0193,Province of New Brunswick
+445,Kinderland Infant Care,Full-time Centre,Infant,9.0,Y,N,N,Day Care,168 Canada Street Fredericton E3A 3Z8 (506) 453-0193,Province of New Brunswick
+446,KINDERTOTS AFTER SCHOOL PROGRAM,Part-time Centre,School-age,45.0,N,N,Y,Day Care,24 Nordin Lane Miramichi E1V 5N2 (506) 622-4992,Province of New Brunswick
+447,KINDERTOTS AFTER SCHOOL TOO,Part-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,12 Howard Street Miramichi E1N 0C4 (506) 210-2442,Province of New Brunswick
+448,KINDERTOTS CHILDREN'S CENTRE,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,122 Hutchison Drive Miramichi E1V 6B2 (506) 778-3936,Province of New Brunswick
+449,KINGS VALLEY EARLY EDUCATION CENTRE I,Full-time Centre,"Infant, Preschool",56.0,Y,Y,N,Day Care,332 Hampton Road Quispamsis E2E 4S9 (506) 847-5343,Province of New Brunswick
+450,KINGS VALLEY EARLY EDUCATION CENTRE II,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,332 Hampton Road Quispamsis E2E 4S9 (506) 847-5343,Province of New Brunswick
+451,Kingsclear First Nation Daycare,Full-time Centre,"Infant, Preschool",33.0,Y,Y,N,Day Care,712 Church Street Kingsclear First Nation E3E 1K8 (506) 363-4047,Province of New Brunswick
+452,KINGSWOOD ACADEMY 1,Full-time Centre,Preschool,31.0,N,Y,N,Day Care,1535 Ryan Street Moncton E1G 2V4 (506) 869-8980,Province of New Brunswick
+453,KINGSWOOD ACADEMY 2,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,1535 Ryan Street Moncton E1G 2V4 (506) 869-8980,Province of New Brunswick
+454,KINGSWOOD ACADEMY 3,Full-time Centre,"Infant, Preschool",48.0,Y,Y,N,Day Care,1535 Ryan Street Moncton E1G 2V4 (506) 869-8980,Province of New Brunswick
+455,KINGSWOOD ACADEMY 4,Part-time Centre,School-age,30.0,N,N,Y,Day Care,1530 Ryan Street Moncton E1G 2V3 (506) 869-8980,Province of New Brunswick
+456,KINGSWOOD ACADEMY 5,Full-time Centre,"Preschool, School-age",52.0,N,Y,Y,Day Care,1535 Ryan Street Moncton E1G 2V4 (506) 869-8980,Province of New Brunswick
+457,Kountry Kids Clubhouse,Part-time Centre,"Preschool, School-age",15.0,N,Y,Y,Day Care,30 Alcorn avenue Blackville E9E 1Y2 (506) 625-3388,Province of New Brunswick
+458,KOUNTRY KIDS EARLY LEARNING AND CARE,Full-time Centre,"Infant, Preschool, School-age",15.0,Y,Y,Y,Day Care,236 Northwest Road Sunny Corner E9E 1K8 (506) 836-7722,Province of New Brunswick
+459,KREATIVE KIDS,Full-time Centre,"Preschool, School-age",38.0,N,Y,Y,Day Care,2041 Mountain Road Moncton E1G 1B1 (506) 384-1904,Province of New Brunswick
+460,KROK SOLEIL '' MAISON'' Enr.,Part-time Centre,School-age,60.0,N,N,Y,Day Care,34 avenue 37 Ime Edmundston E3V 2W7 (506) 739-5455,Province of New Brunswick
+461,La Boussole I,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,45 rue Morgan Richibucto E4W 4E8 (506) 523-7724,Province of New Brunswick
+462,LA BOUSSOLE II,Full-time Centre,Preschool,40.0,N,Y,N,Day Care,3 49 rue du Collge Saint-Louis-De-Kent E4X 1C2 (506) 876-9185,Province of New Brunswick
+463,LA BOUSSOLE III,Full-time Centre,"Infant, Preschool",25.0,Y,Y,N,Day Care,52 rue High Richibucto E4W 5M8 (506) 524-9088,Province of New Brunswick
+464,LA BOUSSOLE IV,Part-time Centre,School-age,30.0,N,N,Y,Day Care,3 49 rue du Collge Saint-Louis-De-Kent E4X 1C2 (506) 523-7724,Province of New Brunswick
+465,La Boussole V,Part-time Centre,School-age,30.0,N,N,Y,Day Care,149 rue Acadie Richibucto E4W 4E8 (506) 521-1705,Province of New Brunswick
+466,LA GARDERIE CHEZ ANNIE ET SES AMIS,Home,School-age,9.0,N,N,Y,Home,121 avenue Smith Shediac E4P 2S8 (506) 351-0394,Province of New Brunswick
+467,LA GARDERIE CHEZ MARTINE,Full-time Centre,"Infant, Preschool, School-age",15.0,Y,Y,Y,Day Care,78 rue Mathilde Dieppe E1A 7V2 (506) 855-6988,Province of New Brunswick
+468,La Garderie Chouette,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,138 Street Willis Fredericton E3A 5H3 (506) 457-5517,Province of New Brunswick
+469,LA GARDERIE JE JOUE ET J'APPRENDS,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,172 Street Main Shediac E4P 2C9 (506) 532-1444,Province of New Brunswick
+470,La Garderie la Sagouine et ses p'tits acadien Inc.,Full-time Centre,"Infant, Preschool, School-age",32.0,Y,Y,Y,Day Care,73 rue Mclaughlin Bouctouche E4S 3P3 (506) 743-5099,Province of New Brunswick
+471,La garderie Les Chatouilles,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,859 rue Ste-Marie Sainte-Marie-Saint-Raphal E8T 1S9 (506) 888-4742,Province of New Brunswick
+472,LA GARDERINADE,Part-time Centre,School-age,15.0,N,N,Y,Day Care,158 rue Albini Dieppe E1A 1T7 (506) 855-4947,Province of New Brunswick
+473,La Garde'rire-Centre ducatif de Cocagne,Full-time Centre,"Infant, Preschool, School-age",58.0,Y,Y,Y,Day Care,4783 route 134 Cocagne E4R 2Y2 (506) 345-1800,Province of New Brunswick
+474,LA P'TITE ECOLE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,102 Avenue Confederation New Maryland E3C 1E5 (506) 474-1034,Province of New Brunswick
+475,LA P'TITE GARDERIE DE STE. ANNE,Full-time Centre,"Infant, Preschool, School-age",25.0,Y,Y,Y,Day Care,7554 Route 134 Sainte-Anne-de-Kent E4S 1H2 (506) 743-6038,Province of New Brunswick
+476,LA P'TITE GARDERIE D'EN HAUT,Part-time Centre,School-age,24.0,N,N,Y,Day Care,7554 Route 134 Sainte-Anne-de-Kent E4S 1H2 (506) 743-6038,Province of New Brunswick
+477,La Valle des Dcouvreurs,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,Road Quispamsis Quispamsis E2E 0R7 (506) 847-6283,Province of New Brunswick
+478,LADY BUG PLAY CENTER,Part-time Centre,School-age,15.0,N,N,Y,Day Care,260 Crowley Farm Road Moncton E1A 7P8 (506) 381-1411,Province of New Brunswick
+479,LANEY'S PLAYSCHOOL,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,125 Hillview Avenue Riverview E1B 1M1 (506) 871-6806,Province of New Brunswick
+480,Laura's Learning Garden,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,5 Meadow Green Court Fredericton E3B 5L8 (506) 260-5147,Province of New Brunswick
+481,Le Centre ducatif des aventuriers limite,Full-time Centre,"Infant, Preschool, School-age",37.0,Y,Y,Y,Day Care,531 chemin La Montain Memramcook E4K 1H1 (506) 758-9611,Province of New Brunswick
+482,LE CENTRE PARASCOLAIRE LA GARDRISSON,Part-time Centre,School-age,58.0,N,N,Y,Day Care,421 chemin Melanson Dieppe E1A 1A5 (506) 859-4010,Province of New Brunswick
+483,LE CENTRE PRSCOLAIRE LA GARDRISSON INC.,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,705 chemin Melanson Dieppe E1A 7N8 (506) 859-4010,Province of New Brunswick
+484,LE CHTEAU DES BOUTS CHOUX,Full-time Centre,"Preschool, School-age",18.0,N,Y,Y,Day Care,469 Street Main Shediac E4P 2C2 (506) 532-9286,Province of New Brunswick
+485,LE CLUB ANNA MALENFANT 2,Part-time Centre,School-age,30.0,N,N,Y,Day Care,500 rue Centrale Dieppe E1A 6V7 (506) 383-8470,Province of New Brunswick
+486,LE CLUB STE THRSE,Part-time Centre,School-age,54.0,N,N,Y,Day Care,500 rue Notre-Dame Dieppe E1A 5C2 (506) 855-7417,Province of New Brunswick
+487,LE COIN DES PETITES SOURIS,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,9573 rue Main Richibucto E4W 4C3 (506) 523-7477,Province of New Brunswick
+488,LE GARDE AMIS,Part-time Centre,School-age,60.0,N,N,Y,Day Care,401 chemin Melanson Dieppe E1A 1A5 (506) 857-1098,Province of New Brunswick
+489,LE GAROUSSI,Part-time Centre,School-age,60.0,N,N,Y,Day Care,101 Avenue Gross Moncton E1C 7H3 (506) 858-0185,Province of New Brunswick
+490,LE JARDIN DU SOLEIL 2016,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,3894 Route 134 Shediac Bridge E4R 1T7 (506) 532-1337,Province of New Brunswick
+491,LE JOUGARDI INC.,Part-time Centre,School-age,56.0,N,N,Y,Day Care,210 Drive Erinvale Moncton E1A 9T4 (506) 856-5950,Province of New Brunswick
+492,LE PAVILLON DU SOMMET,Part-time Centre,School-age,60.0,N,N,Y,Day Care,701 Street Ryan Moncton E1G 5R2 (506) 382-3282,Province of New Brunswick
+493,LE PAVILLON DU SOMMET 2,Part-time Centre,School-age,30.0,N,N,Y,Day Care,701 Street Ryan Moncton E1G 5R2 (506) 382-3282,Province of New Brunswick
+494,Learn With Me Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,257 Sunbury Drive Fredericton Junction E5L 1S3 (506) 368-1091,Province of New Brunswick
+495,Learning Ladder Afterschoolers,Part-time Centre,School-age,13.0,N,N,Y,Day Care,9 361 Wiliam Bell Drive Hampton E5N 6B4 (506) 832-9091,Province of New Brunswick
+496,LEARNING LADDER EARLY EDUCATION CENTRE,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,361 William Bell Drive Hampton E5N 6B4 (506) 832-9091,Province of New Brunswick
+497,L'colo-Halte,Part-time Centre,School-age,25.0,N,N,Y,Day Care,261 rue Acadie Grande-Anse E8N 1B1 (506) 732-3295,Province of New Brunswick
+498,L'nergicentre,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,1 rue de l'Ecole Val-d'Amour E3N 5E1 (506) 753-3596,Province of New Brunswick
+499,Les 30 Watts,Part-time Centre,School-age,60.0,N,N,Y,Day Care,715 Street Priestman Fredericton E3B 5W7 (506) 458-9915,Province of New Brunswick
+500,LES AMI(E)S NANETTE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,5337 Route 134 Cocagne E4R 2Z1 (506) 576-2580,Province of New Brunswick
+501,Les amis Julie,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,2567 Road Sainte-Anne Sainte-Anne Gloucester Co E2A 6Z5 (506) 546-5699,Province of New Brunswick
+502,Les Aventuriers de la Valle,Part-time Centre,School-age,60.0,N,N,Y,Day Care,Road Quispamsis Quispamsis E2E 0R7 (506) 847-6283,Province of New Brunswick
+503,Les Beaux Soleils,Full-time Centre,Infant,20.0,Y,N,N,Day Care,300 Road Beaverbrook Miramichi E1V 1A1 (506) 622-7870,Province of New Brunswick
+504,Les Etoiles de Marguerite-Bourgeoys,Part-time Centre,School-age,60.0,N,N,Y,Day Care,238 rue Marguerite-Bourgeoys Caraquet E1W 1B7,Province of New Brunswick
+505,Les Flots,Full-time Centre,"Preschool, School-age",45.0,N,Y,Y,Day Care,300 Road Beaverbrook Miramichi E1V 1A1 (506) 627-4223,Province of New Brunswick
+506,Les Mini-Michis,Full-time Centre,"Infant, Preschool",50.0,Y,Y,N,Day Care,300 Road Beaverbrook Miramichi E1V 1A1 (506) 622-7870,Province of New Brunswick
+507,LES PETITES SAUTERELLES,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,405 rue Vanier Dieppe E1A 6J6 (506) 233-4700,Province of New Brunswick
+508,LES PETITS CURIEUX,Full-time Centre,"Infant, Preschool, School-age",27.0,Y,Y,Y,Day Care,101 rue Alphonse Shediac E4P 1C9 (506) 351-1119,Province of New Brunswick
+509,LES PETITS FLOCONS,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,341 rue Gasp Dieppe E1A 6C6 (506) 384-3324,Province of New Brunswick
+510,Les P'tits Baie Marins,Full-time Centre,"Infant, Preschool, School-age",56.0,Y,Y,Y,Day Care,5362 route 117 Baie-Sainte-Anne E9A 1V9 (506) 228-4563,Province of New Brunswick
+511,Les P'tits Coeurs Mamie,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,77 chemin Paulin Rivire--La-Truite E1X 3L5 (506) 395-9840,Province of New Brunswick
+512,Les p'tits trsors de Steph,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,160 chemin Desjardins DSL de Drummond E3Y 1V3 (506) 473-6387,Province of New Brunswick
+513,Les Soleils Enchants,Full-time Centre,"Infant, Preschool",57.0,Y,Y,N,Day Care,Road Quispamsis Quispamsis E2E 0R7 (506) 847-6283,Province of New Brunswick
+514,Les Vortex de la Valle,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,Road Quispamsis Quispamsis E2E 0R7 (506) 847-6283,Province of New Brunswick
+515,Les Voyageurs,Part-time Centre,School-age,47.0,N,N,Y,Day Care,300 Road Beaverbrook Miramichi E1V 1A1 (506) 627-4125,Province of New Brunswick
+516,Letourneau's Early Learning Centre,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,31 Prince William Street Campbellton E3N 1X5 (506) 753-7778,Province of New Brunswick
+517,L'Eveil Enfantin,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,715 Street Priestman Fredericton E3B 5W7 (506) 458-9915,Province of New Brunswick
+518,Liddle Skiddle's Club,Full-time Centre,Preschool,15.0,N,Y,N,Day Care,116 Connell Park Road Woodstock E7M 1M4 (506) 328-3136,Province of New Brunswick
+519,L'IL CRITTERS EARLY LEARNING AND CARE,Full-time Centre,"Preschool, School-age",34.0,N,Y,Y,Day Care,227 Wellington Street Miramichi E1N 1N1 (506) 622-3200,Province of New Brunswick
+520,LI'L SAND PEEPS CO-OPERATIVE DAYCARE,Full-time Centre,"Infant, Preschool, School-age",20.0,Y,Y,Y,Day Care,A 18 Harrop Avenue Dorchester E4K 2X9 (506) 688-4463,Province of New Brunswick
+521,Lil Whooo's Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,31 Concorde Drive Lincoln E3B 7G8 (506) 474-8110,Province of New Brunswick
+522,Lincoln After School Program,Part-time Centre,School-age,19.0,N,N,Y,Day Care,5 Maple Leaf Drive Lincoln E3B 7G9 (506) 458-9144,Province of New Brunswick
+523,Lincoln Curious Kids Child Care,Part-time Centre,"Preschool, School-age",27.0,N,Y,Y,Day Care,2475 Lincoln Road Lincoln E3B 7E6 (506) 451-5342,Province of New Brunswick
+524,Lincoln Day Care Centre,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,5 Maple Leaf Drive Lincoln E3B 7G9 (506) 458-9144,Province of New Brunswick
+525,LISA ASTLE'S KOUNTRY KIDS AFTER SCHOOL CLUB IN NSEE,Part-time Centre,School-age,20.0,N,N,Y,Day Care,36 Northwest Road Sunny Corner E9E 1J4,Province of New Brunswick
+526,LISA'S PLAYHOUSE,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,14 Ballymaginthy Way Roachville E4G 2X1 (506) 433-2273,Province of New Brunswick
+527,Little Adventures Big Learning Academy,Home,"Preschool, School-age",6.0,N,Y,Y,Home,25 Doherty Street New Maryland E3C 1C3 (506) 454-2516,Province of New Brunswick
+528,LITTLE ANGELS DAYCARE,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,815 Loch Lomond Road Saint John E2J 1Y9 (506) 696-5155,Province of New Brunswick
+529,Little Bits Early Learning and Care 2,Full-time Centre,"Infant, Preschool, School-age",15.0,Y,Y,Y,Day Care,107 Henderson Street Miramichi E1N 2R8 (506) 625-0045,Province of New Brunswick
+530,LITTLE BLESSINGS AFTER SCHOOL CARE,Part-time Centre,School-age,44.0,N,N,Y,Day Care,30 Vincent Road Rothesay E2E 1A2 (506) 848-6373,Province of New Brunswick
+531,LITTLE BLESSINGS DAYCARE AND PRESCHOOL,Full-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,30 Vincent Road Quispamsis E2E 1A2 (506) 848-6373,Province of New Brunswick
+532,Little Blossoms Learning Centre,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,86 Meenans Cove Road Quispamsis E2E 1M7 (506) 647-4969,Province of New Brunswick
+533,Little Caterpillars Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,22 Abel rue Dieppe E1A 7X2 (506) 380-0996,Province of New Brunswick
+534,Little Dreamers Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,Oromocto (506) 261-3310,Province of New Brunswick
+535,Little Feathers Early Learning Centre,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,14 Okisu Trail Madawaska Maliseet First Nation E7C 0C6 (506) 739-5669,Province of New Brunswick
+536,Little Geniuses Afterschool Program,Part-time Centre,School-age,30.0,N,N,Y,Day Care,25 Main Street Fredericton E3A 1B7 (506) 453-7759,Province of New Brunswick
+537,Little Geniuses Day Care Centre,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,41 Royal Parkway Road Fredericton E3G 0J9 (506) 453-7759,Province of New Brunswick
+538,LITTLE HARVARD AFTER SCHOOL HAVELOCK CAMPUS,Part-time Centre,School-age,60.0,N,N,Y,Day Care,576 Havelock Street Saint John E2M 2Y2 (506) 632-1300,Province of New Brunswick
+539,LITTLE HARVARD EARLY LEARNING CENTRE,Full-time Centre,"Infant, Preschool",45.0,Y,Y,N,Day Care,531 Dunn Avenue Saint John E2M 2W6 (506) 632-1300,Province of New Brunswick
+540,Little Harvard Early Learning Centre-Gondola Point Campus,Full-time Centre,"Infant, Preschool, School-age",28.0,Y,Y,Y,Day Care,259 Gondola Point Road Rothesay E2E 1Z9 (506) 632-1300,Province of New Brunswick
+541,LITTLE HUMMINGBIRDS DAYCARE,Part-time Centre,School-age,15.0,N,N,Y,Day Care,287 Storey Road Moncton E1A 7P4 (506) 229-2102,Province of New Brunswick
+542,Little Ladybugs Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,3051 104 Route Middle Hainesville E6E 1H9 (506) 260-1400,Province of New Brunswick
+543,Little Land Learning Centre,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,435 Brookside Drive Fredericton E3A 8V4 (506) 458-5552,Province of New Brunswick
+544,LITTLE LEADERS,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,23 Maple Grove Terrace Saint John E2K 2H9 (506) 639-4968,Province of New Brunswick
+545,LITTLE MIRACLES DAY CARE/LA GARDERIE DES PETITS MIRACLES,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,11 Fleur-De-Lis rue Richibucto E4W 3Z7 (506) 523-1817,Province of New Brunswick
+546,Little Munchkins Preschool Center 2017,Full-time Centre,"Infant, Preschool",40.0,Y,Y,N,Day Care,2288 640 Highway Hanwell E3E 2E8 (506) 474-1843,Province of New Brunswick
+547,Little Rascals Daycare,Full-time Centre,"Infant, Preschool, School-age",42.0,Y,Y,Y,Day Care,145 Smith Road Waterville-Sunbury E2V 3V3 (506) 208-1328,Province of New Brunswick
+548,LITTLE SPROUTS DAY CARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,517 Pierre rue Dieppe E1A 7H5 (506) 380-5338,Province of New Brunswick
+549,LITTLE STEPS CHILD CARE,Full-time Centre,"Infant, Preschool, School-age",29.0,Y,Y,Y,Day Care,85 Renfrew Street Petitcodiac E4Z 4S6 (506) 756-3660,Province of New Brunswick
+550,LITTLE STEPS HAVELOCK,Full-time Centre,"Infant, Preschool, School-age",38.0,Y,Y,Y,Day Care,13 Cross Road Havelock E4Z 5E8 (506) 534-2325,Province of New Brunswick
+551,Little Tater Tots Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,129 Debec Road Debec E7N 2B9 (506) 324-4074,Province of New Brunswick
+552,LITTLE TREASURES CHILD CARE,Full-time Centre,"Infant, Preschool",65.0,Y,Y,N,Day Care,15 Everett Street Moncton E1C 3Z6 (506) 387-8044,Province of New Brunswick
+553,Little Treasures Future Leaders,Part-time Centre,School-age,33.0,N,N,Y,Day Care,15 Everett Street Moncton E1C 3Z6 (506) 387-8044,Province of New Brunswick
+554,Little Treehouse on Killarney,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,258 Route 148 Killarney Road Nashwaak Village E3G 9E2 (506) 472-6262,Province of New Brunswick
+555,LITTLE TYKES LEARNING CENTER,Full-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,120 Lorne Street Moncton E1C 0J3 (506) 384-7513,Province of New Brunswick
+556,LIVING WATERS AFTER SCHOOL PROGRAM,Part-time Centre,School-age,30.0,N,N,Y,Day Care,36 Mountain Road Saint John E2J 2X1 (506) 652-4696,Province of New Brunswick
+557,LIVING WATERS CHILD DEVELOPMENT CENTRE,Full-time Centre,"Infant, Preschool",40.0,Y,Y,N,Day Care,36 Mountain Road Saint John E2J 2X1 (506) 652-4696,Province of New Brunswick
+558,Look at us Grow Daycare,Full-time Centre,"Infant, Preschool",15.0,Y,Y,N,Day Care,110 Snow Avenue Moncton E1C 8B2 (506) 384-8010,Province of New Brunswick
+559,LOVE AND LEARN CHILD CARE CENTER,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,85 Old Coach Road Riverview E1B 1N9 (506) 386-3149,Province of New Brunswick
+560,Madi's Friends Daycare Ltd.,Full-time Centre,"Preschool, School-age",39.0,N,Y,Y,Day Care,714 boulevard Everard Daigle Grand-Sault/Grand Falls E3Z 3C6 (506) 426-1532,Province of New Brunswick
+561,MAGNETIC HILL ACADEMY,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,777 Front Mountain Road Moncton E1G 3H2 (506) 961-6494,Province of New Brunswick
+562,Mama Bears Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,68 Lansdown Avenue Oromocto E2V 4S1 (506) 208-3008,Province of New Brunswick
+563,MAMA'S TREE HOUSE DAY CARE,Full-time Centre,"Preschool, School-age",32.0,N,Y,Y,Day Care,182 Purdy Avenue Moncton E1C 7W4 (506) 384-1464,Province of New Brunswick
+564,Maude & Dot Preschool,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,1496 105 Route Mactaquac E6L 1B8 (506) 363-4640,Province of New Brunswick
+565,MEGAN'S MUNCHKINS,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,430 776 Route Grand Manan E5G 2C1 (506) 662-4242,Province of New Brunswick
+566,Mel's Toddler Town,Full-time Centre,"Preschool, School-age",15.0,N,Y,Y,Day Care,42 Craig Crescent Saint John E2K 4J4 (506) 609-4070,Province of New Brunswick
+567,MILLIDGE AVENUE TOT SPOT CHILDCARE,Full-time Centre,Preschool,24.0,N,Y,N,Day Care,312 Millidge Avenue Saint John E2K 2N1 (506) 635-8549,Province of New Brunswick
+568,Mini Blossoms Learning Centre,Full-time Centre,Preschool,15.0,N,Y,N,Day Care,12 Greystone Drive Quispamsis E2G 0J1 (506) 647-4969,Province of New Brunswick
+569,Mini Miracles Children's Center,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,6 Lapointe Street Fredericton E3A 4Y5 (506) 459-0242,Province of New Brunswick
+570,Miracles at First Child Care Centre,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,157 Queen Street Moncton E1C 1K9 (506) 852-9105,Province of New Brunswick
+571,MON ECOLE MY SCHOOL CHILD CARE,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,3800 Route 115 Notre-Dame E4V 2H9 (506) 533-0859,Province of New Brunswick
+572,MONCTON HEADSTART EARLY FAMILY INTERVENTION,Full-time Centre,Preschool,36.0,N,Y,N,Day Care,1111 Mountain Road Moncton E1C 2S9 (506) 858-8252,Province of New Brunswick
+573,MONTESSORI DIEPPE,Full-time Centre,Preschool,46.0,N,Y,N,Day Care,3 299 rue Champlain Dieppe E1A 1P2 (506) 855-1234,Province of New Brunswick
+574,Mosaic Early Learning Centre,Home,"Preschool, School-age",9.0,N,Y,Y,Home,14 St. Croix Street St.Stephen E3L 2A3 (514) 706-2602,Province of New Brunswick
+575,Mrs. Sandra's,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,24 Birchwood Crescent New Maryland E3C 1C9 (506) 455-1815,Province of New Brunswick
+576,Mrs. Sylvia's Preschool,Home,"Preschool, School-age",9.0,N,Y,Y,Home,34 McMurtrie Avenue New Maryland E3C 1G7 (506) 453-1853,Province of New Brunswick
+577,Mud Pies & Butterflies Family Childcare,Full-time Centre,"Preschool, School-age",15.0,N,Y,Y,Day Care,24 Remi Court Dieppe E1A 6V7 (506) 874-9922,Province of New Brunswick
+578,Munchkins Clubhouse 2017,Part-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,2288 640 Route Hanwell E3E 2E8 (506) 474-1843,Province of New Brunswick
+579,Nackawic Childcare,Full-time Centre,"Infant, Preschool, School-age",52.0,Y,Y,Y,Day Care,8 McLaren Crescent Nackawic E6G 1C7 (506) 575-2950,Province of New Brunswick
+580,NBMFRC After School Program,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,A 45 St Lawrence Avenue Oromocto E2V 4J5 (506) 422-4407,Province of New Brunswick
+581,NBMFRC Casual Child Care Program,Full-time Centre,"Infant, Preschool",28.0,Y,Y,N,Day Care,A 45 St Lawrence Avenue Oromocto E2V 4J5 (506) 422-4407,Province of New Brunswick
+582,NBMFRC Child Care Service,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,A 45 St Lawrence Avenue Oromocto E2V 4J5 (506) 422-4407,Province of New Brunswick
+583,New Maryland Children's Centre,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,328 New Maryland Highway New Maryland E3C 2H4 (506) 457-1551,Province of New Brunswick
+584,New Maryland Kids Klub,Part-time Centre,School-age,60.0,N,N,Y,Day Care,525 New Maryland Highway New Maryland E3C 1K1 (506) 472-0060,Province of New Brunswick
+585,Next to Home Early Learning and Afterschool Center,Full-time Centre,"Preschool, School-age",31.0,N,Y,Y,Day Care,234 Reade Street Moncton E1C 6S8 (506) 853-0893,Province of New Brunswick
+586,Noonan Rascals,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,199 Watters Road Noonan E3A 6Y8 (506) 460-5418,Province of New Brunswick
+587,NORTHEND LEARNING CENTER,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,96 Gorge Road Moncton E1G 1E6 (506) 384-5437,Province of New Brunswick
+588,NORTHEND LEARNING CENTER 2,Part-time Centre,School-age,15.0,N,N,Y,Day Care,96 Gorge Road Moncton E1G 1E6 (506) 384-5437,Province of New Brunswick
+589,NORTHEND LEARNING CENTER 3,Part-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,96 Gorge Road Moncton E1G 1E6 (506) 384-5437,Province of New Brunswick
+590,Northside Daycare Center,Full-time Centre,"Infant, Preschool, School-age",79.0,Y,Y,Y,Day Care,262 St. Mary's Street Fredericton E3A 2S4 (506) 458-9470,Province of New Brunswick
+591,NOS PETITS CAMARADES,Full-time Centre,Preschool,30.0,N,Y,N,Day Care,386 rue Amirault Dieppe E1A 1G3 (506) 854-7412,Province of New Brunswick
+592,Once Upon a Time Daycare/Garderie Il tait une fois,Full-time Centre,"Infant, Preschool, School-age",48.0,Y,Y,Y,Day Care,177 Route La Vallee Memramcook E4K 3E5 (506) 334-4000,Province of New Brunswick
+593,ORIGINS NLC 104,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,99 Burpee Avenue Saint John E2K 3V9 (506) 634-1979,Province of New Brunswick
+594,ORIGINS NLC 132,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,99 Burpee Avenue Saint John E2K 3V9 (506) 634-1979,Province of New Brunswick
+595,ORIGINS NLC 184,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,99 Burpee Avenue Saint John E2K 3V9 (506) 634-1979,Province of New Brunswick
+596,ORIGINS NLC 215,Full-time Centre,"Infant, Preschool",40.0,Y,Y,N,Day Care,567 Millidge Avenue Saint John E2K 2N5 (506) 634-0088,Province of New Brunswick
+597,ORIGINS NLC 364,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,99 Burpee Avenue Saint John E2K 3V9 (506) 634-1979,Province of New Brunswick
+598,Origins NLC 627,Full-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,4 Landing Court Quispamsis E2E 4R2 (506) 634-1979,Province of New Brunswick
+599,ORIGINS NLC 635,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,4 Landing Court Quispamsis E2E 4R2 (506) 634-1979,Province of New Brunswick
+600,ORIGINS NLC 712,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,4 Landing Court Quispamsis E2E 4R2 (506) 634-1979,Province of New Brunswick
+601,ORIGINS NLC 745,Part-time Centre,School-age,43.0,N,N,Y,Day Care,487 Woodward Avenue Saint John E2K 4N1 (506) 644-8044,Province of New Brunswick
+602,Oromocto Day Care Centre,Full-time Centre,"Infant, Preschool",55.0,Y,Y,N,Day Care,38 Iroqouis Avenue Oromocto E2V 2A1 (506) 357-8428,Province of New Brunswick
+603,Oromocto West Child Care Centre,Part-time Centre,School-age,60.0,N,N,Y,Day Care,855 Waasis Road Oromocto E2V 2N5 (506) 446-3010,Province of New Brunswick
+604,Our Happy Place,Home,School-age,9.0,N,N,Y,Home,102 Mathilde Street Dieppe E1A 7V2 (506) 383-5037,Province of New Brunswick
+605,Owls and Friends Learning Tree,Full-time Centre,"Infant, Preschool, School-age",37.0,Y,Y,Y,Day Care,15 Karen Drive Moncton E1C 9B1 (506) 857-1346,Province of New Brunswick
+606,PASSAMAQUODDY DAY CARE CENTRE,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,390 Montague Street Saint Andrews E5B 1J8 (506) 529-3072,Province of New Brunswick
+607,Passe-Port 5-12,Part-time Centre,School-age,60.0,N,N,Y,Day Care,10 avenue De L'cole Saint-Jacques Saint-Jacques E7B 1E7 (506) 739-6755,Province of New Brunswick
+608,PCS Afterschoolers on Main,Part-time Centre,School-age,30.0,N,N,Y,Day Care,121 Main Street Fredericton E3A 1C6 (506) 458-8980,Province of New Brunswick
+609,PENINSULA PRESCHOOL ASSOCIATION,Part-time Centre,Preschool,23.0,N,Y,N,Day Care,3950 845 Route Kingston E5N 1E9 (506) 763-3228,Province of New Brunswick
+610,PENNFIELD DAYCARE,Full-time Centre,"Infant, Preschool, School-age",33.0,Y,Y,Y,Day Care,81 176 Route Pennfield E5H 1V3 (506) 456-2676,Province of New Brunswick
+611,PETITCODIAC BOYS & GIRLS CLUB AFTERSCHOOL KIDS KLUB,Part-time Centre,School-age,36.0,N,N,Y,Day Care,45 Corey Avenue Petitcodiac E4Z 4G3 (506) 756-2841,Province of New Brunswick
+612,Petitcodiac Boys & Girls Club's Early Learning Centre,Full-time Centre,"Infant, Preschool",44.0,Y,Y,N,Day Care,45 Corey Avenue Petitcodiac E4Z 4G3 (506) 756-2841,Province of New Brunswick
+613,Petite cole Marika,Part-time Centre,Preschool,18.0,N,Y,N,Day Care,1365 chemin Tobique Drummond E3Y 2P4 (506) 473-7760,Province of New Brunswick
+614,PIROUETTE-CACAHOUETE,Home,School-age,9.0,N,N,Y,Home,24 Street Lady Russell Moncton E1E 0C2 (506) 855-9328,Province of New Brunswick
+615,Pitter Patter Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,102 Traynor Street Riverview E1B 3B2 (506) 232-1099,Province of New Brunswick
+616,Play Learn Grow: Early Learning Childcare Home,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,25 Richard Street Perth-Andover E7H 3W7 (506) 426-0506,Province of New Brunswick
+617,Play With Purpose Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,87 Burnham Court Fredericton E3B 5T8 (506) 470-0337,Province of New Brunswick
+618,"Play, Laugh, Grow Learning Centre",Part-time Centre,School-age,60.0,N,N,Y,Day Care,76 Emmanuel rue Dieppe E1A 2J5 (506) 857-3807,Province of New Brunswick
+619,"Play, Laugh, Grow Learning Centre 2",Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,76 Emmanuel rue Dieppe E1A 2J5 (506) 857-3807,Province of New Brunswick
+620,PLAYSCHOOL,Full-time Centre,Preschool,25.0,N,Y,N,Day Care,A 223 Main Street Sackville E4L 3A7 (506) 536-1837,Province of New Brunswick
+621,POLKADOTS THE KIDS SPOT,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,15 Marr Road Rothesay E2E 2R5 (506) 849-0252,Province of New Brunswick
+622,POLKADOTS THE KIDS SPOT PRESCHOOL AND AFTERSCHOOL,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,15 Marr Road Rothesay E2E 2R5 (506) 849-0252,Province of New Brunswick
+623,PORTER STREET PRESCHOOL AND AFTER SCHOOL PROGRAM,Full-time Centre,School-age,15.0,N,N,Y,Day Care,197 Porter Street Saint John E2M 0A4 (506) 672-2683,Province of New Brunswick
+624,Powerplay Academy Moncton 5,Full-time Centre,"Infant, School-age",54.0,Y,N,Y,Day Care,1220 Ryan Street Moncton E1G 2V6 (506) 854-7529,Province of New Brunswick
+625,Powerplay Academy Moncton 6,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,1220 Ryan Street Moncton E1G 2V6 (506) 854-7529,Province of New Brunswick
+626,PRECIOUS LITTLE ONES DAYCARE,Full-time Centre,"Preschool, School-age",35.0,N,Y,Y,Day Care,97 Vincent Road Quispamsis E2E 1S9 (506) 847-2327,Province of New Brunswick
+627,PRECIOUS LITTLE ONES PRESCHOOL AND AFTERSCHOOL CENTRE,Part-time Centre,"Preschool, School-age",34.0,N,Y,Y,Day Care,97 Vincent Road Quispamsis E2E 1S9 (506) 847-2327,Province of New Brunswick
+628,Preschool in the Park,Full-time Centre,"Infant, Preschool",57.0,Y,Y,N,Day Care,200 30 Knowledge Park Drive Fredericton E3C 2R2 (506) 454-7235,Province of New Brunswick
+629,PSC Barker's Point After School Program & Preschool,Part-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,2 85 Melissa Street Richibucto Road E3A 6V9 (506) 476-3442,Province of New Brunswick
+630,Pure Learning,Full-time Centre,"Preschool, School-age",56.0,N,Y,Y,Day Care,Onondaga Street Oromocto E2V 2P4 (506) 478-8958,Province of New Brunswick
+631,Pure Learning - The Early Years,Full-time Centre,"Infant, Preschool",50.0,Y,Y,N,Day Care,Onondaga Street Oromocto E2V 2P4 (506) 357-2323,Province of New Brunswick
+632,QUISPAMSIS AFTER SCHOOL PROGRAM,Part-time Centre,School-age,38.0,N,N,Y,Day Care,290 Hampton Road Quispamsis E2E 4N1 (506) 646-0679,Province of New Brunswick
+633,RAINBOWS AND DREAMS,Home,School-age,9.0,N,N,Y,Home,30 Red Oak Drive Irishtown E1H 2K3 (506) 383-9183,Province of New Brunswick
+634,RAINBOWS AND STARS DAY CARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,261 Reade Street Moncton E1C 6S9 (506) 855-0573,Province of New Brunswick
+635,REACH FOR THE STARS PRESCHOOL,Part-time Centre,Preschool,14.0,N,Y,N,Day Care,951 Main Street Hampton E5N 6E4 (506) 832-1949,Province of New Brunswick
+636,Reaching for Rainbows,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,145 Lakeside Drive Riverview E1B 4K7 (506) 389-1442,Province of New Brunswick
+637,Reaching for Rainbows After School Program,Part-time Centre,School-age,30.0,N,N,Y,Day Care,600 Coverdale Road Riverview E1B 3K6 (506) 389-1442,Province of New Brunswick
+638,Ready For School FRFRC,Full-time Centre,"Preschool, School-age",46.0,N,Y,Y,Day Care,60 Veterans Drive Fredericton E3A 4C3 (506) 474-0252,Province of New Brunswick
+639,RHYMES AND CHYMES DAYCARE,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,130 Golden Grove Road Saint John E2H 1W8 (506) 648-1106,Province of New Brunswick
+640,Rising Stars Daycare,Full-time Centre,"Infant, Preschool, School-age",41.0,Y,Y,Y,Day Care,6 Kay Street Petitcodiac E4Z 4K6 (506) 331-1000,Province of New Brunswick
+641,Rita's Fun Place 2B,Home,School-age,9.0,N,N,Y,Home,440 555 Route Bedell E7M 4R2 (506) 328-3017,Province of New Brunswick
+642,RIVER VALLEY PRESCHOOL & DAYCARE,Full-time Centre,Preschool,30.0,N,Y,N,Day Care,24 Epworth Park Grand Bay-Westfield E5K 1W3 (506) 738-8103,Province of New Brunswick
+643,RIVERSIDE MONTESSORI LEARNING CENTRE INC,Full-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,717 Woodstock Road Fredericton E3B 5N8 (506) 454-2052,Province of New Brunswick
+644,RIVERVIEW RIDDLES AND RHYMES CHILDCARE,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,567 Coverdale Road Riverview E1B 3K7 (506) 387-4989,Province of New Brunswick
+645,RIVERVIEW YOUTH CONNECTION,Part-time Centre,School-age,60.0,N,N,Y,Day Care,567 Coverdale Road Riverview E1B 3K7 (506) 387-4989,Province of New Brunswick
+646,ROCHE PAPIER CISEAUX,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,85 Street Bonaccord Moncton E1C 5K8 (506) 854-0230,Province of New Brunswick
+647,ROCHE PAPIER STUDIO 1,Part-time Centre,School-age,60.0,N,N,Y,Day Care,98 Street Bonaccord Moncton E1C 5L1 (506) 874-0944,Province of New Brunswick
+648,ROCHE PAPIER STUDIO 2,Part-time Centre,School-age,30.0,N,N,Y,Day Care,98 Street Bonaccord Moncton E1C 5L1 (506) 874-0944,Province of New Brunswick
+649,ROCHE PAPIER STYLO - MONCTON,Full-time Centre,"Preschool, School-age",55.0,N,Y,Y,Day Care,85 Street Bonaccord Moncton E1C 5K8 (506) 854-0230,Province of New Brunswick
+650,Roche Papier Stylo 2,Full-time Centre,Preschool,10.0,N,Y,N,Day Care,85 Street Bonaccord Moncton E1C 5K8 (506) 854-0230,Province of New Brunswick
+651,ROCK A BYE DAYCARE,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,1 Baxter Road Saint John E2H 2V5 (506) 214-2333,Province of New Brunswick
+652,ROTHESAY NURSERY SCHOOL,Part-time Centre,Preschool,24.0,N,Y,N,Day Care,7 Gondola Point Road Rothesay E2E 5J6 (506) 847-1810,Province of New Brunswick
+653,Rugrats Childcare Centre,Full-time Centre,"Infant, Preschool",53.0,Y,Y,N,Day Care,1666 Lincoln Road Fredericton E3B 8J6 (506) 459-7529,Province of New Brunswick
+654,Runts N' Rascals,Full-time Centre,"Infant, Preschool, School-age",59.0,Y,Y,Y,Day Care,206 429 New Maryland Highway New Maryland E3C 2H6 (506) 206-5437,Province of New Brunswick
+655,S.K. Lee's Tae Kwon Do Academy and Afterschool Program,Part-time Centre,School-age,30.0,N,N,Y,Day Care,5 440 Kimble Drive Fredericton E3B 0K5 (506) 206-0595,Province of New Brunswick
+656,SAFARI SOCIAL,Full-time Centre,Preschool,46.0,N,Y,N,Day Care,55 rue Englehart Dieppe E1A 8K2 (506) 386-2262,Province of New Brunswick
+657,SAFARI SOCIAL 2,Full-time Centre,Preschool,56.0,N,Y,N,Day Care,55 rue Englehart Dieppe E1A 8K2 (506) 386-2262,Province of New Brunswick
+658,SALISBURY BOYS AND GIRLS CLUB,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,2699 Fredericton Road Salisbury E4J 2E1 (506) 372-5873,Province of New Brunswick
+659,SANDBOX MEMORIES CHILDCARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,110 Doncaster Drive Quispamsis E2E 1R2 (506) 607-3041,Province of New Brunswick
+660,School Street Child Care,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,201 School Street Woodstock E7M 0G7 (506) 324-3526,Province of New Brunswick
+661,Seaside Park After School Care,Part-time Centre,School-age,60.0,N,N,Y,Day Care,627 Havelock Street Saint John E2M 2V4 (506) 634-2011,Province of New Brunswick
+662,Seawood Early Childcare Centre,Full-time Centre,"Infant, Preschool",50.0,Y,Y,N,Day Care,859 Sand Cove Road Saint John E2M 3E5 (506) 640-2463,Province of New Brunswick
+663,Seawood Early Childcare Centre #2,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,859 Sand Cove Road Saint John E2M 3E5 (506) 640-2463,Province of New Brunswick
+664,SEEDS AFTER SCHOOL CENTRE,Part-time Centre,School-age,55.0,N,N,Y,Day Care,776 Main Street Hampton E5N 6E1 (506) 609-7766,Province of New Brunswick
+665,Serious Fun Childcare,Full-time Centre,"Preschool, School-age",54.0,N,Y,Y,Day Care,98 New Maryland Highway New Maryland E3C 1H6 (506) 999-7474,Province of New Brunswick
+666,Serious Fun Infant and Toddler,Full-time Centre,"Infant, Preschool",22.0,Y,Y,N,Day Care,96 New Maryland Highway New Maryland E3C 1H6 (506) 455-0160,Province of New Brunswick
+667,SERVICE APRES-CLASSE DE LA MAISON DES JEUNES L'ACADO,Part-time Centre,School-age,60.0,N,N,Y,Day Care,715 Street Priestman Fredericton E3B 5W7 (506) 453-5929,Province of New Brunswick
+668,SERVICE DE GARDE CHEZ TIAGO CHILDCARE SERVICES,Full-time Centre,"Infant, Preschool, School-age",45.0,Y,Y,Y,Day Care,47 Street Drummond Moncton E1A 2Z3 (506) 204-2123,Province of New Brunswick
+669,Service de garde du Phare familial,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,46 rue Upton Moncton E1E 3Z1 (506) 856-4943,Province of New Brunswick
+670,Service de garde du Phare familial 2,Part-time Centre,School-age,25.0,N,N,Y,Day Care,46 rue Upton Moncton E1E 3Z1 (506) 856-4943,Province of New Brunswick
+671,SERVICE DE GARDE LES TOUTOUS,Full-time Centre,"Preschool, School-age",14.0,N,Y,Y,Day Care,22 Drive Glencoe Moncton E1A 4W6 (506) 383-9462,Province of New Brunswick
+672,SERVICES DE GARDE CHEZ TIAGO CHILDCARE SERVICES,Part-time Centre,School-age,24.0,N,N,Y,Day Care,100 rue Sunset Dieppe E1A 1T5 (506) 204-8088,Province of New Brunswick
+673,SHARE A SMILE PRESCHOOL AND AFTERSCHOOL,Home,"Preschool, School-age",9.0,N,Y,Y,Home,105 Mealey Road Pennfield E5H 0A9 (506) 456-2376,Province of New Brunswick
+674,Shooting Stars Afterschool Program,Part-time Centre,School-age,28.0,N,N,Y,Day Care,101 281 Restigouche Road Oromocto E2V 2H2 (506) 357-7988,Province of New Brunswick
+675,Shooting Stars Daycare,Full-time Centre,"Preschool, School-age",53.0,N,Y,Y,Day Care,220 281 Restigouche Road Oromocto E2V 2H2 (506) 357-7894,Province of New Brunswick
+676,Silver Birch Montessori,Home,"Preschool, School-age",6.0,N,Y,Y,Home,60 Elizabeth Parkway Rothesay E2H 1E9 (506) 847-3367,Province of New Brunswick
+677,SIMPSON DRIVE EARLY CHILDHOOD CENTRE,Full-time Centre,"Preschool, School-age",19.0,N,Y,Y,Day Care,69 Simpson Drive Saint John E2H 2C1 (506) 636-8005,Province of New Brunswick
+678,Skyline Acres Recreation After School Program,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,499 Canterbury Drive Fredericton E3B 4M4 (506) 472-5112,Province of New Brunswick
+679,Small Blessings Childcare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,81 Waugh Road Riverbank E7L 4H7 (506) 612-1543,Province of New Brunswick
+680,Smiling Faces,Home,"Infant, Preschool",6.0,Y,Y,N,Home,9 Spiro Drive Fredericton E3B 9N4 (506) 261-8345,Province of New Brunswick
+681,Smiling Flowers Childcare,Part-time Centre,School-age,14.0,N,N,Y,Day Care,11 Wilfred Avenue Fredericton E3B 9R9 (506) 470-1771,Province of New Brunswick
+682,SOMERSET PRESCHOOL CENTRE,Full-time Centre,Preschool,53.0,N,Y,N,Day Care,84 Ropewalk Road Saint John E2K 2R1 (506) 652-3524,Province of New Brunswick
+683,Sonshine Kids,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,2290 Mountain Road Moncton E1G 1B4 (506) 204-7587,Province of New Brunswick
+684,SONSHINE KIDS ACADEMY,Part-time Centre,School-age,60.0,N,N,Y,Day Care,2290 Mountain Road Moncton E1G 1B4 (506) 857-0832,Province of New Brunswick
+685,SOUTH END DAY CARE CENTRE,Full-time Centre,Preschool,26.0,N,Y,N,Day Care,310 Prince William Street Saint John E2L 2C2 (506) 642-2222,Province of New Brunswick
+686,Spring Roots Early Learning & Childcare Centre,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,143 Douglas Avenue Fredericton E3A 2N8 (506) 455-3222,Province of New Brunswick
+687,SPROUTS EARLY EDUCATION CENTRE,Full-time Centre,"Preschool, School-age",15.0,N,Y,Y,Day Care,26 Gorham Road Quispamsis E2E 4V8 (506) 848-0193,Province of New Brunswick
+688,ST. JOSEPH'S COMMUNITY PRESCHOOL AND AFTERSCHOOL PROGRAM,Part-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,4347 Loch Lomond Road Saint John E2N 1C8 (506) 653-6971,Province of New Brunswick
+689,ST. MARTIN'S DAY CARE AND AFTER SCHOOL KIDS KLUB,Full-time Centre,"Preschool, School-age",31.0,N,Y,Y,Day Care,3400 134 Route Shediac Cape E4P 3J2 (506) 532-0036,Province of New Brunswick
+690,ST. PAUL'S AFTER SCHOOL PROGRAM,Part-time Centre,School-age,27.0,N,N,Y,Day Care,4 Church Avenue Rothesay E2E 5G4 (506) 847-1812,Province of New Brunswick
+691,ST. PAUL'S PLAYSCHOOL,Part-time Centre,Preschool,19.0,N,Y,N,Day Care,4 Morrison Avenue Sussex E4E 1P5 (506) 432-1114,Province of New Brunswick
+692,STACEY'S PLAY AND LEARN PRESCHOOL,Home,"Infant, Preschool, School-age",9.0,Y,Y,Y,Home,127 Douglasfield Road Miramichi E1N 4S2 (506) 773-1098,Province of New Brunswick
+693,Start Smart Family Learning Centre,Full-time Centre,"Preschool, School-age",50.0,N,Y,Y,Day Care,20 617 Route Burtts Corner E6L 2X3 (506) 363-3765,Province of New Brunswick
+694,Step Ahead - Bath Family Learning Center,Full-time Centre,"Preschool, School-age",41.0,N,Y,Y,Day Care,118 School Street Bath E7J 1C4 (506) 278-3959,Province of New Brunswick
+695,Stoney Creek Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,419 Stoney Creek Road Pine Glen E1J 0E2 (506) 830-1162,Province of New Brunswick
+696,Sunbury West Headstart,Part-time Centre,Preschool,20.0,N,Y,N,Day Care,5 Pride's Landing Road Fredericton Junction E5L 1Y1 (506) 368-2900,Province of New Brunswick
+697,SUNFLOWER DAY CARE,Part-time Centre,School-age,15.0,N,N,Y,Day Care,6 LYNCH Street Moncton E1C 3L4 (506) 388-1979,Province of New Brunswick
+698,Sunny Day's and Nights Children's Center,Full-time Centre,"Infant, Preschool",30.0,Y,Y,N,Day Care,D 520 Brookside Drive Fredericton E3A 8V2 (506) 472-3297,Province of New Brunswick
+699,Sunny Days Crew,Full-time Centre,Preschool,36.0,N,Y,N,Day Care,E 520 Brookside Drive Fredericton E3A 8V2 (506) 472-3297,Province of New Brunswick
+700,Sunny Days Family Centre Afterschool Program,Part-time Centre,School-age,38.0,N,N,Y,Day Care,F 510 Brookside Drive Fredericton E3A 8V2 (506) 472-3297,Province of New Brunswick
+701,SUNNY SMILES CHILDCARE CENTER INC.,Full-time Centre,"Infant, Preschool, School-age",41.0,Y,Y,Y,Day Care,382 Harold rue Dieppe E1A 1Z1 (506) 384-0765,Province of New Brunswick
+702,Sussex Christian School Little Lights Early Learning Centre,Part-time Centre,Preschool,20.0,N,Y,N,Day Care,45 Chapman Drive Sussex E4E 1M4 (506) 433-4005,Province of New Brunswick
+703,SUSSEX EARLY LEARNING CENTRE,Full-time Centre,"Preschool, School-age",38.0,N,Y,Y,Day Care,126 Maple Avenue Sussex E4E 2N3 (506) 433-2524,Province of New Brunswick
+704,TEDDY BEAR DAY CARE,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,217 Randall Drive Riverview E1B 2V1 (506) 854-2721,Province of New Brunswick
+705,TENDER TOTS CHILDCARE DOWNSTAIRS,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,114 Hampton Road Rothesay E2E 2P8 (506) 849-3331,Province of New Brunswick
+706,TENDER TOTS CHILDCARE FACILITY,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,114 Hampton Road Rothesay E2E 2P8 (506) 849-3333,Province of New Brunswick
+707,THE APOHAQUI VILLAGE CLUBHOUSE AFTER SCHOOL PROGRAM,Part-time Centre,School-age,30.0,N,N,Y,Day Care,23 Foster Avenue Apohaqui E5P 3M9 (506) 434-3497,Province of New Brunswick
+708,The Boys & Girls Club of Saint John After School,Part-time Centre,School-age,60.0,N,N,Y,Day Care,1 Paul Harris Street Saint John E2L 3V9 (506) 634-2011,Province of New Brunswick
+709,The Boys & Girls Club of Saint John Funday After School,Part-time Centre,School-age,60.0,N,N,Y,Day Care,1 Paul Harris Street Saint John E2L 3V9 (506) 634-0201,Province of New Brunswick
+710,The Children's Academy 2019,Full-time Centre,"Infant, Preschool, School-age",49.0,Y,Y,Y,Day Care,4 440 Kimble Drive Fredericton E3B 7G6 (506) 206-4010,Province of New Brunswick
+711,The Children's Academy Pepper Creek,Full-time Centre,"Infant, Preschool, School-age",60.0,Y,Y,Y,Day Care,7 336 10 Route Richibucto Road E3A 7E1 (506) 454-2477,Province of New Brunswick
+712,The Children's Academy Two Nations Crossing 2019,Full-time Centre,"Infant, Preschool, School-age",58.0,Y,Y,Y,Day Care,570 Two Nations Crossing Fredericton E3A 5V9 (506) 450-5841,Province of New Brunswick
+713,The Gagetown Eagle's Nest,Part-time Centre,School-age,15.0,N,N,Y,Day Care,6 Loomcroft Lane Gagetown E5M 1H2 (506) 261-3247,Province of New Brunswick
+714,The Oasis-Kindernastics Daycare,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,180 Preston Drive Fredericton E3A 2L4 (506) 457-8653,Province of New Brunswick
+715,The Preschool Centre,Full-time Centre,"Preschool, School-age",126.0,N,Y,Y,Day Care,717 Windsor Street Fredericton E3B 4G3 (506) 458-8982,Province of New Brunswick
+716,The Preschool Centre on Clark Street,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,125 Clark Street Fredericton E3A 2W8 (506) 458-8981,Province of New Brunswick
+717,The Preschool Centre on Main St 1,Full-time Centre,Infant,25.0,Y,N,N,Day Care,115 Main Street Fredericton E3A 1C6 (506) 458-8980,Province of New Brunswick
+718,The Preschool Centre on Main St 2,Full-time Centre,Preschool,47.0,N,Y,N,Day Care,115 Main Street Fredericton E3A 1C6 (506) 458-8980,Province of New Brunswick
+719,The Preschool Centre on Main St 3,Part-time Centre,School-age,24.0,N,N,Y,Day Care,115 Main Street Fredericton E3A 1C6 (506) 458-8980,Province of New Brunswick
+720,The Salvation Army Small Blessings 3 Early Childhood Development Center,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,20 Centennial Drive Moncton E1E 4E4 (506) 857-0588,Province of New Brunswick
+721,THE SALVATION ARMY SMALL BLESSINGS EARLY CHILDHOOD DEVELOPMENT CENTRE 1,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,20 Centennial Drive Moncton E1E 4E4 (506) 857-0588,Province of New Brunswick
+722,THE SALVATION ARMY SMALL BLESSINGS TOO EARLY CHILDHOOD DEVELOPMENT CENTRE,Part-time Centre,School-age,30.0,N,N,Y,Day Care,20 Centennial Drive Moncton E1E 4E4 (506) 857-0588,Province of New Brunswick
+723,THE SCHOOL OF ATLANTIC BALLET ARTS AFTER SCHOOL PROGRAM 1,Part-time Centre,School-age,60.0,N,N,Y,Day Care,200 68 Highfield Street Moncton E1C 5N3 (506) 383-5951,Province of New Brunswick
+724,THE SCHOOL OF ATLANTIC BALLET ARTS AFTER SCHOOL PROGRAM 2,Part-time Centre,School-age,54.0,N,N,Y,Day Care,200 68 Highfield Street Moncton E1C 5N3 (506) 383-5951,Province of New Brunswick
+725,THE SKY IS THE LIMIT EARLY LEARNING,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,34 Warren Avenue Miramichi E1N 2J5 (506) 625-6701,Province of New Brunswick
+726,THE SPOTTED TOAD DAY CARE,Full-time Centre,"Preschool, School-age",25.0,N,Y,Y,Day Care,19 Charlotte Street Sackville E4L 3T2 (506) 536-1498,Province of New Brunswick
+727,The Tree House Preschool and Discovery Centre 2016,Full-time Centre,"Preschool, School-age",46.0,N,Y,Y,Day Care,137 Houlton Street Woodstock E7M 1Y4 (506) 328-5042,Province of New Brunswick
+728,The Ville Afterschool Program,Part-time Centre,School-age,60.0,N,N,Y,Day Care,241 Canada Street Fredericton E3A 4A1 (506) 472-7799,Province of New Brunswick
+729,The Woods 034,Part-time Centre,School-age,30.0,N,N,Y,Day Care,193 Pettingill Road Quispamsis E2E 3S8 (506) 608-8333,Province of New Brunswick
+730,Tiny Bubbles Early Learning Center of Excellence,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,1290 Hanwell Road Fredericton E3C 1A7 (506) 206-1944,Province of New Brunswick
+731,Tiny Stars,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,13 Morning Gate Drive Fredericton E3B 0G5 (506) 261-1106,Province of New Brunswick
+732,TINY TOTS DAYCARE,Full-time Centre,"Preschool, School-age",39.0,N,Y,Y,Day Care,26 Park Avenue Blacks Harbour E5H 1E4 (506) 456-2087,Province of New Brunswick
+733,Tippy Toes,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,2488 640 Route Hanwell E3E 2C2 (506) 260-9878,Province of New Brunswick
+734,TIR NA NOG - SAINT JOHN FOREST SCHOOL,Full-time Centre,Preschool,18.0,N,Y,N,Day Care,259 Foster Thurston Drive Saint John E2K 5J4 (506) 333-6603,Province of New Brunswick
+735,Totally Kids Daycare,Full-time Centre,"Infant, Preschool, School-age",40.0,Y,Y,Y,Day Care,136 Main Street Hartland E7P 2M5 (506) 375-8000,Province of New Brunswick
+736,TOUCHSTONE ACADEMY,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,A 68 Hampton Road Rothesay E2E 5L5 (506) 847-2673,Province of New Brunswick
+737,Touchstone Academy Preschool,Full-time Centre,Preschool,25.0,N,Y,N,Day Care,A 68 Hampton Road Rothesay E2E 5L5 (506) 847-0336,Province of New Brunswick
+738,Townsview Curious Kids Child Care,Part-time Centre,"Preschool, School-age",24.0,N,Y,Y,Day Care,122 Lewis P. Fisher Lane Woodstock E7M 0G6 (506) 450-0104,Province of New Brunswick
+739,Treasured Beginnings,Full-time Centre,Infant,6.0,Y,N,N,Day Care,77 Woolastook Drive Grand Bay-Westfield E5K 1S3 (506) 738-2766,Province of New Brunswick
+740,Tree of Friends,Full-time Centre,"Infant, Preschool",50.0,Y,Y,N,Day Care,285 Restigouche Road Oromocto E2V 2H2 (506) 208-0389,Province of New Brunswick
+741,Tree of Friends II,Part-time Centre,School-age,57.0,N,N,Y,Day Care,285 Restigouche Road Oromocto E2V 2H2 (506) 208-0389,Province of New Brunswick
+742,Twila's Tots,Home,School-age,9.0,N,N,Y,Home,106 Jarvis Street Plaster Rock E7G 1W1 (506) 356-0097,Province of New Brunswick
+743,UNB Children's Centre,Full-time Centre,Preschool,20.0,N,Y,N,Day Care,209 10 Mackay Drive Fredericton E3B 5A3 (506) 453-5024,Province of New Brunswick
+744,Under One Sky,Part-time Centre,Preschool,9.0,N,Y,N,Day Care,303 Union Street Fredericton E3A 3M1 (506) 458-9269,Province of New Brunswick
+745,UNICORN CHILDREN'S CENTER,Full-time Centre,Preschool,55.0,N,Y,N,Day Care,500 CLEVELAND Avenue Riverview E1B 1Y2 (506) 387-4160,Province of New Brunswick
+746,UNICORN TOO,Part-time Centre,"Preschool, School-age",56.0,N,Y,Y,Day Care,404 Cleveland Avenue Riverview E1B 1Y2 (506) 387-8508,Province of New Brunswick
+747,Union Street Preschool Centre,Part-time Centre,"Preschool, School-age",42.0,N,Y,Y,Day Care,579 Union Street Fredericton E3A 3N5 (506) 455-3187,Province of New Brunswick
+748,Valley View Kids Care Inc. 2019 (1),Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,335 rue Chapel Grand-Sault/Grand Falls E3Z 2M5 (506) 582-5437,Province of New Brunswick
+749,Valley View Kids Care Inc. 2019 (2),Part-time Centre,School-age,60.0,N,N,Y,Day Care,335 rue Chapel Grand-Sault/Grand Falls E3Z 2M5 (506) 582-5437,Province of New Brunswick
+750,Valley View Kids Care Inc. 2019 (3),Part-time Centre,"Preschool, School-age",34.0,N,Y,Y,Day Care,335 rue Chapel Grand-Sault/Grand Falls E3Z 2M5 (506) 582-5437,Province of New Brunswick
+751,Victoria Street Adventureland Day Care,Full-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,210 Victoria Street Fredericton E3B 1W4 (506) 455-1863,Province of New Brunswick
+752,Waddle In After School Learning Centre,Part-time Centre,School-age,15.0,N,N,Y,Day Care,3946 845 Route Kingston E5N 1E9 (506) 608-1580,Province of New Brunswick
+753,WADDLE IN DAYCARE,Full-time Centre,"Infant, Preschool, School-age",23.0,Y,Y,Y,Day Care,1022 845 Route Kingston E5N 1K4 (506) 608-1580,Province of New Brunswick
+754,Wee Care 2,Full-time Centre,"Preschool, School-age",51.0,N,Y,Y,Day Care,113 Arran Street Campbellton E3N 1M1 (506) 789-1802,Province of New Brunswick
+755,Wee College Amirault 1,Part-time Centre,"Preschool, School-age",46.0,N,Y,Y,Day Care,281 Amirault Street Dieppe E1A 1G1 (506) 899-4558,Province of New Brunswick
+756,Wee College Amirault 2,Part-time Centre,"Preschool, School-age",30.0,N,Y,Y,Day Care,281 Amirault Street Dieppe E1A 1G1 (506) 899-4558,Province of New Brunswick
+757,WEE COLLEGE BESSBOROUGH 1,Part-time Centre,School-age,58.0,N,N,Y,Day Care,110 Athlone Avenue Moncton E1E 1S5 (506) 830-1802,Province of New Brunswick
+758,WEE COLLEGE BESSBOROUGH 2,Part-time Centre,School-age,42.0,N,N,Y,Day Care,110 Athlone Avenue Moncton E1E 1S5 (506) 830-1802,Province of New Brunswick
+759,WEE COLLEGE CORNER,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,10 Evergreen Drive Moncton E1G 1N1 (506) 854-1600,Province of New Brunswick
+760,WEE COLLEGE CORNER YOUTH,Part-time Centre,School-age,24.0,N,N,Y,Day Care,10 Evergreen Drive Moncton E1G 1N1 (506) 854-1600,Province of New Brunswick
+761,WEE COLLEGE CRANDALL,Part-time Centre,School-age,60.0,N,N,Y,Day Care,333 Gorge Road Moncton E1G 3H9 (506) 233-1600,Province of New Brunswick
+762,Wee College Downtown Early Learning Campus 1,Full-time Centre,"Infant, Preschool, School-age",53.0,Y,Y,Y,Day Care,465 Main Street Moncton E1C 1C2 (506) 899-4558,Province of New Brunswick
+763,Wee College Downtown Early Learning Campus 2,Full-time Centre,"Infant, Preschool",51.0,Y,Y,N,Day Care,465 Main Street Moncton E1C 1C2 (506) 899-4558,Province of New Brunswick
+764,WEE COLLEGE HILDEGARD CAMPUS 1,Full-time Centre,"Infant, Preschool",34.0,Y,Y,N,Day Care,31 Hildegard Drive Moncton E1G 2G5 (506) 830-2400,Province of New Brunswick
+765,WEE COLLEGE HILDEGARD CAMPUS 2,Full-time Centre,"Preschool, School-age",42.0,N,Y,Y,Day Care,31 Hildegard Drive Moncton E1G 2G5 (506) 830-2400,Province of New Brunswick
+766,Wee College Homestead,Full-time Centre,"Infant, Preschool, School-age",55.0,Y,Y,Y,Day Care,47529 Homestead Road Steeves Mountain E1G 4P6 (506) 204-2500,Province of New Brunswick
+767,Wee College Pine Glen,Part-time Centre,School-age,36.0,N,N,Y,Day Care,213 Pine Glen Road Riverview E1B 4V1 (506) 381-8511,Province of New Brunswick
+768,Wee College Pine Glen Too,Part-time Centre,School-age,56.0,N,N,Y,Day Care,213 Pine Glen Road Riverview E1B 4V1 (506) 381-8511,Province of New Brunswick
+769,Wee College Salisbury,Full-time Centre,"Infant, Preschool, School-age",58.0,Y,Y,Y,Day Care,3118 Main Street Salisbury E4J 2L6 (506) 875-4009,Province of New Brunswick
+770,WEE COLLEGE TRITES,Full-time Centre,"Infant, Preschool, School-age",37.0,Y,Y,Y,Day Care,1 Trites Road Riverview E1B 2V5 (506) 388-1800,Province of New Brunswick
+771,WEE COLLEGE TRITES TOO,Full-time Centre,Preschool,59.0,N,Y,N,Day Care,1 Trites Road Riverview E1B 2V5 (506) 388-1800,Province of New Brunswick
+772,WEE COLLEGE YOUTH CONNECTION,Part-time Centre,School-age,45.0,N,N,Y,Day Care,153 Canusa Drive Riverview E1B 2W6 (506) 863-1800,Province of New Brunswick
+773,WEE COLLEGE YOUTH CONNECTION TOO,Part-time Centre,School-age,45.0,N,N,Y,Day Care,153 Canusa Drive Riverview E1B 2W6 (506) 863-1800,Province of New Brunswick
+774,Welamukotuk Early Learning Centre,Full-time Centre,Preschool,36.0,N,Y,N,Day Care,33 Hiawatha Avenue Oromocto E2V 2W2 (506) 357-3570,Province of New Brunswick
+775,WEST SIDE COOP PRESCHOOL,Full-time Centre,"Infant, Preschool",40.0,Y,Y,N,Day Care,50 Dexter Drive Saint John E2M 4M4 (506) 635-8294,Province of New Brunswick
+776,WESTFIELD AFTER SCHOOL 1,Part-time Centre,School-age,30.0,N,N,Y,Day Care,147 Nerepis Road Grand Bay-Westfield E5K 2Z5 (506) 738-8103,Province of New Brunswick
+777,WESTON'S WEE ONES,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,51 Weston Street Moncton E1A 7B8 (506) 388-4133,Province of New Brunswick
+778,WIGGLES AND GIGGLES EARLY LEARNING CENTER,Full-time Centre,"Infant, Preschool, School-age",52.0,Y,Y,Y,Day Care,55 King Street Sackville E4L 3G4 (506) 939-2274,Province of New Brunswick
+779,Willow Bend Early Learning Centre,Full-time Centre,"Infant, Preschool",31.0,Y,Y,N,Day Care,1097 Salisbury Road Moncton E1E 3V9 (506) 863-4251,Province of New Brunswick
+780,WONDERLAND AFTER SCHOOL PROGRAM,Full-time Centre,"Preschool, School-age",46.0,N,Y,Y,Day Care,1903 121 Route Norton E5T 1B4 (506) 839-1918,Province of New Brunswick
+781,WONDERLAND CHILD CARE,Full-time Centre,Preschool,49.0,N,Y,N,Day Care,1903 121 Route Norton E5T 1B4 (506) 839-1918,Province of New Brunswick
+782,WONDERLAND CUB CLUB AFTER SCHOOL PROGRAM - BELLEISLE,Part-time Centre,School-age,21.0,N,N,Y,Day Care,4 Upper Midland Road Norton E5T 1Z6 (506) 434-1875,Province of New Brunswick
+783,WONDERLAND INFANT CARE CENTRE,Full-time Centre,Infant,18.0,Y,N,N,Day Care,1903 121 Route Norton E5T 1B4 (506) 839-1918,Province of New Brunswick
+784,Woodstock After School Program,Part-time Centre,School-age,43.0,N,N,Y,Day Care,1 145 Connell Park Road Woodstock E7M 1M5 (506) 328-9722,Province of New Brunswick
+785,Woodstock Child Care,Full-time Centre,"Infant, Preschool",41.0,Y,Y,N,Day Care,1 145 Connell Park Road Woodstock E7M 1M5,Province of New Brunswick
+786,Woodstock Christian Academy,Full-time Centre,"Infant, Preschool, School-age",36.0,Y,Y,Y,Day Care,192 Broadway Street Woodstock E7M 6B3 (506) 328-8619,Province of New Brunswick
+787,Y of Greater Saint John--St. George Afterschool Program,Part-time Centre,School-age,60.0,N,N,Y,Day Care,11 J.O. Spinney Drive St. George E5C 3H7 (506) 849-5784,Province of New Brunswick
+788,YMCA AFTERSCHOOL - MONCTON,Part-time Centre,School-age,60.0,N,N,Y,Day Care,30 War Veterans Avenue Moncton E1C 0B3 (506) 857-0606,Province of New Brunswick
+789,YMCA Afterschool Youth Program and Preschool,Part-time Centre,"Preschool, School-age",40.0,N,Y,Y,Day Care,570 York Street Fredericton E3B 3R2 (506) 462-3000,Province of New Brunswick
+790,YMCA CHILDCARE,Full-time Centre,Preschool,60.0,N,Y,N,Day Care,30 War Veterans Avenue Moncton E1C 0B3 (506) 862-0899,Province of New Brunswick
+791,YMCA Day Care and Kiddies Kollege,Full-time Centre,Preschool,46.0,N,Y,N,Day Care,570 York Street Fredericton E3B 3R2 (506) 462-3000,Province of New Brunswick
+792,YMCA Early Learning Centre Preschool and After School,Full-time Centre,"Preschool, School-age",44.0,N,Y,Y,Day Care,223 St. James Street Saint John E2L 1W3 (506) 646-2106,Province of New Brunswick
+793,YMCA J.D. Irving Room ASP,Part-time Centre,School-age,40.0,N,N,Y,Day Care,570 York Street Fredericton E3B 3R2 (506) 462-3000,Province of New Brunswick
+794,YMCA Nashwaaksis After School Program,Part-time Centre,School-age,60.0,N,N,Y,Day Care,46 Main Street Fredericton E3A 1C1 (506) 462-3000,Province of New Brunswick
+795,YMCA of Greater Moncton - North End,Part-time Centre,School-age,60.0,N,N,Y,Day Care,70 Twin Oak Drive Moncton E1G 0A1 (506) 862-0899,Province of New Brunswick
+796,YMCA OF GREATER SAINT JOHN ROTHESAY AFTER SCHOOL PROGRAM,Part-time Centre,School-age,45.0,N,N,Y,Day Care,230 Eriskay Drive Rothesay E2E 5G7 (506) 847-7584,Province of New Brunswick
+797,YMCA of Greater Saint John After School and Pre-School Program,Full-time Centre,"Preschool, School-age",53.0,N,Y,Y,Day Care,191 Churchill Boulevard Saint John E2K 3E2 (506) 646-2102,Province of New Brunswick
+798,YMCA OF GREATER SAINT JOHN EARLY LEARNING CENTRE,Full-time Centre,"Infant, Preschool",54.0,Y,Y,N,Day Care,223 St. James Street Saint John E2L 1W3 (506) 693-9057,Province of New Brunswick
+799,YMCA OF GREATER SAINT JOHN HAZEN WHITE-ST. FRANCIS,Full-time Centre,Preschool,18.0,N,Y,N,Day Care,538 Sandy Point Road Saint John E2K 3S2,Province of New Brunswick
+800,YMCA OF GREATER SAINT JOHN INC.,Full-time Centre,"Preschool, School-age",39.0,N,Y,Y,Day Care,129 McAllister Drive Saint John E2J 2S6 (506) 646-2102,Province of New Brunswick
+801,YMCA OF GREATER SAINT JOHN INC.,Full-time Centre,"Infant, Preschool",52.0,Y,Y,N,Day Care,129 McAllister Drive Saint John E2J 2S6 (506) 646-2102,Province of New Brunswick
+802,YMCA OF GREATER SAINT JOHN INC.,Part-time Centre,School-age,29.0,N,N,Y,Day Care,25 Evergreen Avenue Saint John E2N 1H3 (506) 646-2102,Province of New Brunswick
+803,YMCA OF GREATER SAINT JOHN LAKEWOOD HEIGHTS AFTER SCHOOL PROGRAM,Part-time Centre,School-age,45.0,N,N,Y,Day Care,56 Lensdale Crescent Saint John E2J 3P3 (506) 658-2816,Province of New Brunswick
+804,YMCA OF GREATER SAINT JOHN REGIONAL CHILD CARE,Full-time Centre,Preschool,53.0,N,Y,N,Day Care,191 Churchill Boulevard Saint John E2K 3E2 (506) 646-2384,Province of New Brunswick
+805,YMCA OF GREATER SAINT JOHN REGIONAL INFANT AND TODDLER CARE,Full-time Centre,"Infant, Preschool",37.0,Y,Y,N,Day Care,191 Churchill Boulevard Saint John E2K 3E2 (506) 646-2384,Province of New Brunswick
+806,YMCA OF GREATER SAINT JOHN ST. MARK'S AFTER SCHOOL PROGRAM,Part-time Centre,School-age,40.0,N,N,Y,Day Care,50 Dexter Drive Saint John E2M 4M4 (506) 693-9057,Province of New Brunswick
+807,YMCA OF GREATER SJ Q-PLEX AFTER SCHOOL PROGRAM - DOWNSTAIRS,Part-time Centre,School-age,29.0,N,N,Y,Day Care,20 Randy Jones Way Quispamsis E2E 0P1 (506) 849-5784,Province of New Brunswick
+808,YMCA of Greater SJ Forest Glen After School Program,Part-time Centre,School-age,60.0,N,N,Y,Day Care,651 Westmorland Road Saint John E2J 2H3 (506) 658-2816,Province of New Brunswick
+809,YMCA OF GREATER SJ MCC AFTER SCHOOL PROGRAM,Part-time Centre,School-age,60.0,N,N,Y,Day Care,99 Daniel Avenue Saint John E2K 4P3 (506) 632-6157,Province of New Brunswick
+810,YMCA OF GREATER SJ MCC CHILDCARE AND AFTER SCHOOL PROGRAM,Full-time Centre,"Preschool, School-age",60.0,N,Y,Y,Day Care,99 Daniel Avenue Saint John E2K 4P3 (506) 632-6157,Province of New Brunswick
+811,YMCA OF GREATER SJ PRINCE CHARLES AFTER SCHOOL PROGRAM,Part-time Centre,School-age,23.0,N,N,Y,Day Care,319 Union Street Saint John E2L 1B3 (506) 646-2106,Province of New Brunswick
+812,YMCA OF GREATER SJ Q-PLEX AFTER SCHOOL PROGRAM - UPSTAIRS,Part-time Centre,School-age,60.0,N,N,Y,Day Care,20 Randy Jones Way Quispamsis E2E 0P1 (506) 849-5784,Province of New Brunswick
+813,YMCA Park St ASP,Part-time Centre,School-age,30.0,N,N,Y,Day Care,111 Park Street Fredericton E3A 2J6 (506) 462-3000,Province of New Brunswick
+814,YMCA Preschool and Afterschool Adventurers,Part-time Centre,"Preschool, School-age",38.0,N,Y,Y,Day Care,570 York Street Fredericton E3B 3R2 (506) 462-3000,Province of New Brunswick
+815,YMCA Royal Rd. ASP,Part-time Centre,School-age,30.0,N,N,Y,Day Care,340 Royal Road Fredericton E3G 6J9 (506) 462-3000,Province of New Brunswick
+816,YORK STREET CHILDREN'S CENTRE INC.,Full-time Centre,"Infant, Preschool, School-age",39.0,Y,Y,Y,Day Care,40 York Street Sackville E4L 4R4 (506) 536-4325,Province of New Brunswick
+817,YOUNG EXPLORERS LEARNING CENTER,Full-time Centre,"Preschool, School-age",46.0,N,Y,Y,Day Care,122 McClellan Avenue Riverview E1B 1X2 (506) 878-7545,Province of New Brunswick
+818,YOUTH DISCOVERY CENTER,Part-time Centre,"Preschool, School-age",45.0,N,Y,Y,Day Care,A 150 Trites Road Riverview E1B 3L9 (506) 387-4989,Province of New Brunswick
+819,Youth In Action Centre Jeunes en Action,Part-time Centre,School-age,60.0,N,N,Y,Day Care,44 Boulevard Salmon Campbellton E3N 3T7 (506) 753-4570,Province of New Brunswick
+820,YW Margie's Early Learning Centre,Full-time Centre,"Infant, Preschool",60.0,Y,Y,N,Day Care,135 Kendra Street Moncton E1C 9V9 (506) 855-4349,Province of New Brunswick
+821,YW/ACADEMIE DES AMIS / FRIENDS ACADEMY,Part-time Centre,School-age,20.0,N,N,Y,Day Care,135 Kendra Street Moncton E1C 9V9 (506) 855-4349,Province of New Brunswick
+822,Garderie La Villa des Amis Lte,Full-time Centre,"Preschool, School-age",36.0,N,Y,Y,Day Care,6830 Route 11 Tracadie Beach E1X 4P4 (506) 394-3573,Province of New Brunswick
+823,Garderie Les amis de Madi,Full-time Centre,"Infant, Preschool, School-age",47.0,Y,Y,Y,Day Care,255 rue Main Grand-Sault/Grand Falls E3Z 2W1 (506) 426-1532,Province of New Brunswick
+824,Garderie les Farfelues,Home,"Infant, Preschool, School-age",6.0,Y,Y,Y,Home,154 rue Canada Saint-Quentin E8A 1G7 (506) 235-2196,Province of New Brunswick
+825,Garderie Les Lucioles,Part-time Centre,School-age,60.0,N,N,Y,Day Care,Drive Eco Terra Fredericton E3A 9M1 (506) 453-7700,Province of New Brunswick

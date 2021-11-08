@@ -1,0 +1,289 @@
+SCHOOL_DISTRICT_NUMBER,SCHOOL_DISTRICT_NAME,PROGRAM_NUMBER,PROGRAM_TYPE,FACILITY_NAME,FACILITY_ADDRESS,FACILITY_CITY,FACILITY_POSTAL_CODE,PROGRAM_PHONE_NUMBER,PROGRAM_FAX_NUMBER,LATITUDE,LONGITUDE
+62,Sooke,6225163,Early Learning Program,John Muir StrongStart Centre,7179 West Coast Rd,Sooke,,250 642-5472,,48.3707152,-123.7493308
+61,Greater Victoria,6125160,Early Learning Program,James Bay StrongStart Centre,140 Oswego St,Victoria,,250 984-7184,,48.4169264,-123.3797007
+61,Greater Victoria,6125161,Early Learning Program,Macaulay StrongStart Centre,1010 Wychbury Ave,Victoria,,250 385-3441,,48.42569953,-123.4058081
+62,Sooke,6225164,Early Learning Program,Colwood StrongStart Centre,3000 Wishart Rd,Victoria,,250 478-2332,,48.4355824,-123.4859781
+62,Sooke,6225064,Early Learning Program,Ruth King StrongStart Centre,2764 Jacklin Rd,Victoria,,250 478-8368,,48.45185831,-123.5052315
+61,Greater Victoria,6125287,Early Learning Program,Craigflower StrongStart Centre,2766 Admirals Rd,Victoria,,250 384-8157,,48.45365402,-123.4209289
+61,Greater Victoria,6125162,Early Learning Program,View Royal StrongStart Centre,218 Helmcken Rd,Victoria,,250 479-1671,250 744-2389,48.45680523,-123.4368323
+62,Sooke,6225289,Early Learning Program,Willway StrongStart Centre,2939 Mt. Wells Dr,Victoria,,250 478-1213,,48.4569408,-123.5485369
+62,Sooke,6225288,Early Learning Program,Millstream StrongStart Centre,626 Hoylake Ave,Victoria,,250 478-8348,,48.4659937,-123.496331
+61,Greater Victoria,6125062,Early Learning Program,McKenzie StrongStart Centre,4005 Raymond St N,Victoria,,250 386-1408,,48.467218,-123.3917757
+63,Saanich,6325291,Early Learning Program,Lochside StrongStart Centre,1145 Royal Oak Dr,Victoria,,250 658-5238,,48.5012461,-123.3606569
+63,Saanich,6325165,Early Learning Program,Brentwood StrongStart Centre,7085 Wallace Dr,Brentwood Bay,,250 652-3996,,48.5742041,-123.4467528
+63,Saanich,6325065,Early Learning Program,Sidney StrongStart Centre,2281 Henry Ave,Sidney,,250 656-3958,,48.65273065,-123.404997
+79,Cowichan Valley,7925305,Early Learning Program,George Bonner StrongStart Centre,3060 Cobble Hill Rd,Mill Bay,,250 743-5571,,48.66743946,-123.5648247
+64,Gulf Islands,6425166,Early Learning Program,Fulford StrongStart Centre,203 South Ridge Dr,Salt Spring Island,,250 653-9223,,48.77644035,-123.4474007
+79,Cowichan Valley,7925182,Early Learning Program,Khowhemun StrongStart Centre,2918 Cliffs Rd,Duncan,,250 746-7845,,48.77912353,-123.7166817
+79,Cowichan Valley,7925074,Early Learning Program,Alexander StrongStart Centre,2471 Beverly St,Duncan,,250 748-3936,,48.78532202,-123.6930599
+79,Cowichan Valley,7925026,Early Learning Program,Drinkwater StrongStart Centre,6236 Lane Rd,Duncan,,250 748-9232,,48.79625627,-123.726235
+64,Gulf Islands,6425066,Early Learning Program,Salt Spring StrongStart Centre,112 Rainbow Rd,Salt Spring Island,,250 537-9928,,48.85543657,-123.5030303
+79,Cowichan Valley,7925205,Early Learning Program,Chemainus StrongStart Centre,3172 Garner St RR 2,Chemainus,,250 246-3522,,48.93045718,-123.7331645
+70,Alberni,7025013,Early Learning Program,Ucluelet Community StrongStart Centre,500 Matterson Dr,Ucluelet,,250 726-7793,,48.9376731,-125.5430837
+68,Nanaimo-Ladysmith,6825169,Early Learning Program,Ladysmith StrongStart Centre,510 6th Ave,Ladysmith,,250 245-3912,,48.9892065,-123.8252253
+51,Boundary,5125054,Early Learning Program,John A. Hutton StrongStart Centre,2575 - 75th Avenue,Grand Forks,,250 442-8275,250 442-5388,49.026,-118.47
+53,Southern Okanagan,5325057,Early Learning Program,Osoyoos StrongStart Centre,8507 68 Ave,Osoyoos,,250 495-7248,250 495-2855,49.02891217,-119.4669679
+51,Boundary,5125277,Early Learning Program,Dr. D. A. Perley StrongStart Centre,1200 Central Ave,Grand Forks,,250 442-2135,,49.02978409,-118.4501613
+34,Abbotsford,3425103,Early Learning Program,Jackson StrongStart Centre,33165 King Rd,Abbotsford,,604 859-5826,,49.0315725,-122.3056471
+36,Surrey,3625232,Early Learning Program,Jessie Lee StrongStart Centre,2064 154 St,Surrey,,604 531-8833,,49.03966266,-122.7946006
+34,Abbotsford,3425100,Early Learning Program,Godson StongStart Centre,33130 Bevan Ave,Abbotsford,,604 853-8374,604 850-7631,49.04146712,-122.3065724
+34,Abbotsford,3425019,Early Learning Program,Alexander StrongStart Centre,2250 Lobban Rd,Abbotsford,,604 859-3107,,49.04270135,-122.2874159
+34,Abbotsford,3425102,Early Learning Program,Dormick Park StrongStart Centre,32161 Dormick Ave,Abbotsford,,604 859-3712,604 850-7693,49.04428149,-122.332296
+34,Abbotsford,3425225,Early Learning Program,Ten Broeck StrongStart Centre,2580 Stanley St,Abbotsford,,604 850-6657,,49.04973496,-122.3452101
+34,Abbotsford,3425101,Early Learning Program,John MacLure StrongStart Centre,2990 Oriole Cres,Abbotsford,,604 853-6450,,49.05645355,-122.3200612
+34,Abbotsford,3425226,Early Learning Program,Margaret Stenersen StrongStart Centre,3060 Old Clayburn Rd,Abbotsford,,604 859-3151,604 850-1845,49.0576629,-122.2691363
+34,Abbotsford,3425099,Early Learning Program,Terry Fox StrongStart Centre,3071 Babich St,Abbotsford,,604 859-8403,,49.05792263,-122.3013473
+35,Langley,3525038,Early Learning Program,Parkside Centennial StrongStart Centre,3300 270 St,Aldergrove,,604 856-7775,,49.0623449,-122.4751392
+34,Abbotsford,3425227,Early Learning Program,Dr Thomas A Swift StrongStart Centre,34800 Mierau St,Abbotsford,,604 853-7730,,49.06639568,-122.2601365
+34,Abbotsford,3425037,Early Learning Program,Clearbrook StrongStart Centre,3614 Clearbrook Rd,Abbotsford,,604 859-5348,,49.0679343,-122.3365184
+34,Abbotsford,3425224,Early Learning Program,Harry Sayers StrongStart Centre,31321 Blueridge Dr,Abbotsford,,604 852-9665,,49.06823222,-122.3560369
+93,Conseil scolaire francophone,9325452,Early Learning Program,Franc Depart Sept-sommets StrongStart,2160 St Paul St,Rossland,,250 362-3395,250 362-3374,49.0787415,-117.7956266
+20,Trail,2025092,Early Learning Program,Rossland StrongStart Centre,2390 Jubilee St,Rossland,,250 362-7388,,49.0807562,-117.7992667
+37,Delta,3725116,Early Learning Program,Port Guichon StrongStart Centre,4381 46A St,Delta,,604 946-0321,,49.0833643,-123.098376
+35,Langley,3525230,Early Learning Program,James Hill StrongStart Centre,22144 Old Yale Rd,Langley,,604 530-0251,,49.0841809,-122.6100785
+35,Langley,3525106,Early Learning Program,Simonds StrongStart Centre,20190 48 Ave,Langley,,604 530-2361,,49.08911183,-122.6643191
+68,Nanaimo-Ladysmith,6825170,Early Learning Program,Cedar StrongStart Centre,2215 Gould Road,Nanaimo,,250 722-2722,250 722-2055,49.0951006,-123.8532511
+35,Langley,3525020,Early Learning Program,Nicomekl StrongStart Centre,20050 53 Ave,Langley,,604 533-1468,,49.0979805,-122.6670399
+35,Langley,3525229,Early Learning Program,North Otter StrongStart Centre,5370 248 St,Aldergrove,,604 856-3355,,49.09985255,-122.5363721
+35,Langley,3525107,Early Learning Program,Douglas Park StrongStart Centre,5409 206 St,Langley,,604 533-4491,,49.1010285,-122.6525768
+33,Chilliwack,3325222,Early Learning Program,Unsworth StrongStart Centre,5685 Unsworth Rd,Chilliwack,,604 858-4510,,49.10508001,-121.9990639
+36,Surrey,3625233,Early Learning Program,Martha Currie StrongStart Centre,5811 184 St,Surrey,,604 576-8551,,49.10808859,-122.7136052
+20,Trail,2025032,Early Learning Program,Fruitvale StrongStart Centre,1867 W Columiba Gdns Rd B580,Fruitvale,,250 367-7541,,49.1119,-117.546
+33,Chilliwack,3325036,Early Learning Program,Watson StrongStart Centre,45305 Watson Rd,Chilliwack,,604 703-1738,,49.11216282,-121.9705868
+36,Surrey,3625234,Early Learning Program,George Greenaway StrongStart Centre,17285 61A Ave,Surrey,,604 576-1136,604 576-7952,49.11425511,-122.7430891
+36,Surrey,3625239,Early Learning Program,Panorama Park StrongStart Centre,12878 62 Ave,Surrey,,604 596-0963,,49.11490476,-122.8657351
+35,Langley,3525104,Early Learning Program,Langley Meadows StrongStart Centre,2244 Willoughby Way,Langley,,604 530-4101,,49.1211058,-122.672134
+93,Conseil scolaire francophone,9325451,Early Learning Program,Franc Depart La-Verendrye StrongStart,6610 Lickman Rd,Chilliwack,,604 858-2666,604 858-5773,49.12235526,-122.0062456
+36,Surrey,3625235,Early Learning Program,Georges Vanier StrongStart Centre,6985 142 St,Surrey,,604 596-1030,604 596-0331,49.12965525,-122.8297984
+36,Surrey,3625039,Early Learning Program,Cougar Creek StrongStart Centre,12236 70A Ave,Surrey,,604 591-9098,604 590-9127,49.13051395,-122.8832083
+36,Surrey,3625108,Early Learning Program,W E Kinvig StrongStart Centre,13266 70B Ave,Surrey,,604 594-1135,,49.13057771,-122.8544638
+37,Delta,3725241,Early Learning Program,Heath StrongStart Centre,11364 72 Ave,Delta,,604 596-1508,,49.13343595,-122.908012
+36,Surrey,3625113,Early Learning Program,M B Sanford StrongStart Centre,7318 143 St,Surrey,,604 596-7517,,49.13580728,-122.8254577
+75,Mission,7525179,Early Learning Program,Mission Central StrongStart Centre,7466 Welton St,Mission,,604 826-1414,,49.13741684,-122.3039267
+38,Richmond,3825120,Early Learning Program,Daniel Woodward StrongStart Centre,10300 Seacote Rd,Richmond,,604 295-6432,,49.1379686,-123.0971288
+37,Delta,3725118,Early Learning Program,Chalmers StrongStart Centre,11315 75 Ave,Delta,,604 594-5437,,49.1403198,-122.9093076
+93,Conseil scolaire francophone,9325450,Early Learning Program,Franc Depart Deux-rives StrongStart,7674 Stave Lake St,Mission,,604 820-5710,604 820-1313,49.14150236,-122.2918851
+36,Surrey,3625438,Early Learning Program,Strawberry Hill StrongStart Centre,7633 124 St,Surrey,,604 596-5533,604 596-9184,49.1416582,-122.8795092
+36,Surrey,3625236,Early Learning Program,Westerman StrongStart Centre,7626 122 St,Surrey,,604 572-4054,,49.14170165,-122.8833878
+75,Mission,7525016,Early Learning Program,West Heights StrongStart Centre,32065 Van Velzen Ave,Mission,,604 826-6401,,49.1424571,-122.3368237
+37,Delta,3725117,Early Learning Program,Jarvis StrongStart Centre,7670 118 St,Delta,,604 594-3484,,49.14309911,-122.8944134
+75,Mission,7525304,Early Learning Program,Windebank StrongStart Centre,33570 11th Ave,Mission,,604 826-2213,604 826-7381,49.14415833,-122.2938521
+38,Richmond,3825246,Early Learning Program,Walter Lee StrongStart Centre,9491 Ash St,Richmond,,604 668-6269,604 668-6142,49.14481686,-123.120354
+36,Surrey,3625112,Early Learning Program,Bear Creek StrongStart Centre,13780 80 Ave,Surrey,,604 594-7501,,49.14696125,-122.8404311
+35,Langley,3525228,Early Learning Program,Willoughby StrongStart Centre,20766 80 Ave,Langley,,604 888-6033,,49.1475992,-122.6471164
+37,Delta,3725040,Early Learning Program,McCloskey Elementary AM StrongStart Centre,11531 80 Ave,Delta,,604 596-9554,,49.14950431,-122.9039653
+70,Alberni,7025377,Early Learning Program,Wickaninnish Community StrongStart Centre,431 Gibson St,Tofino,,250 725-3254,,49.15023149,-125.9044603
+75,Mission,7525180,Early Learning Program,Cherry Hill StrongStart Centre,32557 Best Ave,Mission,,604 826-9239,,49.15178769,-122.3224964
+68,Nanaimo-Ladysmith,6825296,Early Learning Program,Bayview StrongStart Centre,140 View St,Nanaimo,,250 754-3231,,49.15252659,-123.9383286
+68,Nanaimo-Ladysmith,6825025,Early Learning Program,Georgia Ave StrongStart Centre,625 Georgia Ave,Nanaimo,,250 753-1044,,49.15373636,-123.9539482
+38,Richmond,3825119,Early Learning Program,R M Grauer StrongStart Centre,4440 Blundell Rd,Richmond,,604 295-6429,,49.1549492,-123.1747455
+37,Delta,3725041,Early Learning Program,Hellings StrongStart Centre,11655 86 Ave,Delta,,604 596-1701,,49.160759,-122.8985274
+93,Conseil scolaire francophone,9325449,Early Learning Program,Franc Depart Voyageurs StrongStart,8736 216 St,Langley,,604 881-0222,604 881-0333,49.16118996,-122.6234718
+33,Chilliwack,3325221,Early Learning Program,Bernard StrongStart Centre,45465 Bernard Ave,Chilliwack,,604 795-7840,,49.16437115,-121.9658744
+68,Nanaimo-Ladysmith,6825067,Early Learning Program,Fairview StrongStart Centre,205 Howard Ave,Nanaimo,,250 753-3418,,49.166314,-123.956209
+36,Surrey,3625240,Early Learning Program,Cindrich StrongStart Centre,13455 90 Ave,Surrey,,604 590-3211,,49.16711827,-122.8506362
+38,Richmond,3825245,Early Learning Program,James Thompson StrongStart Centre,6211 Forsyth Cres,Richmond,,604 295-6428,,49.16798829,-123.1790016
+36,Surrey,3625414,Early Learning Program,Senator Reid StrongStart Centre,9341 126 St,Surrey,,,,49.17272689,-122.8742756
+36,Surrey,3625110,Early Learning Program,Betty Huff StrongStart Centre,13055 Huntley Ave,Surrey,,604 585-3104,604 585-1524,49.17293347,-122.8605046
+35,Langley,3525105,Early Learning Program,West Langley StrongStart Centre,9403 212 St,Langley,,604 888-6444,,49.1743,-122.636
+33,Chilliwack,3325098,Early Learning Program,McCammon StrongStart Centre,9601 Hamilton St,Chilliwack,,604 795-7000,,49.17677274,-121.9682718
+53,Southern Okanagan,5325152,Early Learning Program,Cawston StrongStart Centre,517 School Rd,Cawston,,250 485-4434,250 499-5288,49.17986526,-119.7612567
+36,Surrey,3625237,Early Learning Program,Cedar Hills StrongStart Centre,12370 98 Ave,Surrey,,604 581-0407,,49.18000353,-122.8797416
+68,Nanaimo-Ladysmith,6825168,Early Learning Program,Quarterway StrongStart Centre,1632 Bowen Rd,Nanaimo,,250 754-6845,,49.18035361,-123.9757544
+33,Chilliwack,3325003,Early Learning Program,Little Mountain StrongStart Centre,9900 Carleton St,Chilliwack,,604 793-0789,,49.18115828,-121.9293536
+36,Surrey,3625111,Early Learning Program,Lena Shaw StrongStart Centre,14250 100A Ave,Surrey,,604 581-1363,,49.18471705,-122.8274856
+36,Surrey,3625115,Early Learning Program,Old Yale Road StrongStart Centre,10135 132 St,Surrey,,604 588-5468,,49.18684941,-122.8573334
+36,Surrey,3625231,Early Learning Program,Hjorth Road StrongStart Centre,14781 104 Ave,Surrey,,604 581-2327,,49.19188744,-122.8132707
+36,Surrey,3625238,Early Learning Program,Mary Jane Shannon StrongStart Centre,10682 144 St,Surrey,,604 588-5991,604 581-3763,49.19671673,-122.8222145
+36,Surrey,3625109,Early Learning Program,Holly StrongStart Centre,10719 150 St,Surrey,,604 585-2566,,49.19712687,-122.8073099
+36,Surrey,3625114,Early Learning Program,Forsyth Road StrongStart Centre,10730 139 St,Surrey,,604 588-8394,,49.19737108,-122.8361021
+40,New Westminster,4025408,Early Learning Program,Connaught Heights StrongStart Centre,2201 London St,New Westminster,,604 517-6010,604 517-6011,49.2026355,-122.955656
+36,Surrey,3625415,Early Learning Program,James Ardiel StrongStart Centre,13751 112 Ave,Surrey,,604 713-4630,,49.206609,-122.8411124
+41,Burnaby,4125131,Early Learning Program,Stride Avenue Community StongStart Centre,7014 Stride Ave,Burnaby,,604 296-9032,,49.2110018,-122.9542705
+42,Maple Ridge,4225134,Early Learning Program,Hammond StrongStart Centre,11520 203 St,Maple Ridge,,604 460-1136,,49.21244875,-122.657639
+39,Vancouver,3925251,Early Learning Program,Champlain Heights Annex StrongStart Centre,7835 Champlain Cres,Vancouver,,604 713-4880,,49.21373351,-123.0309152
+39,Vancouver,3925121,Early Learning Program,Sir James Douglas StrongStart Centre,2150 Brigadoon Ave,Vancouver,,604 713-4817,,49.2150136,-123.0730518
+39,Vancouver,3925043,Early Learning Program,Walter Moberly StrongStart Centre,1000 59th Ave E,Vancouver,,604 325-5213,,49.2157606,-123.084327
+41,Burnaby,4125130,Early Learning Program,Twelfth Avenue StrongStart Centre,7622 12th Ave,Burnaby,,604 296-9035,,49.21704,-122.9343294
+93,Conseil scolaire francophone,9325187,Early Learning Program,Anne Hebert StrongStart Centre,7051 Killarney St,Vancouver,,604 736-5056,,49.21923821,-123.0458532
+39,Vancouver,3925252,Early Learning Program,Captain James Cook StrongStart Centre,3340 54 Ave,Vancouver,,604 713-4828,,49.21935071,-123.0362627
+42,Maple Ridge,4225133,Early Learning Program,Davie Jones StrongStart Centre,12030 Blakely Rd,Pitt Meadows,,604 465-9908,,49.22089419,-122.6831088
+41,Burnaby,4125007,Early Learning Program,Edmonds Community StrongStart Centre,7651 18th Ave,Burnaby,,604 296-9012,,49.22236436,-122.9410388
+41,Burnaby,4125132,Early Learning Program,Maywood Community StrongStart Centre,4567 Imperial St,Burnaby,,604 296-9022,,49.22313696,-123.0000499
+42,Maple Ridge,4225045,Early Learning Program,Eric Langton StrongStart Centre,12138 Edge St,Maple Ridge,,604 463-3810,,49.22326246,-122.5966707
+42,Maple Ridge,4225262,Early Learning Program,Fairview StrongStart Centre,12209 206 St,Maple Ridge,,604 465-9331,,49.22429841,-122.6509888
+42,Maple Ridge,4225261,Early Learning Program,Harry Hooge StrongStart Centre,12280 230 St,Maple Ridge,,250 546-8723,,49.22518408,-122.5839587
+41,Burnaby,4125006,Early Learning Program,Morley StrongStart Centre,7355 Morley St,Burnaby,,604 296-9024,,49.22643515,-122.9578992
+40,New Westminster,4025194,Early Learning Program,Richard McBride StrongStart Centre,331 Richmond St,New Westminster,,604 517-6090,604 517-6091,49.22656979,-122.899499
+42,Maple Ridge,4225260,Early Learning Program,Highland Park StrongStart Centre,18961 Advent Rd,Pitt Meadows,,604 465-6737,,49.22677055,-122.6960761
+39,Vancouver,3925254,Early Learning Program,Waverley StrongStart Centre,6111 Elliott St,Vancouver,,604 713-4752,,49.2276642,-123.0556301
+41,Burnaby,4125128,Early Learning Program,Second Street Community StrongStart Centre,7502 2nd St,Burnaby,,604 296-9029,,49.22814747,-122.9259779
+41,Burnaby,4125259,Early Learning Program,Chaffey-Burke StrongStart Centre,4404 Sardis St,Burnaby,,604 296-9008,,49.23398044,-123.0053628
+70,Alberni,7025298,Early Learning Program,Eric J Dunn StrongStart Centre,3500 Argyle St,Port Alberni,,250 723-7631,,49.2339966,-124.7856241
+78,Fraser-Cascade,7825181,Early Learning Program,Kent StrongStart Centre,7285 McCullough Rd RR 2,Agassiz,,604 796-2161,,49.2341366,-121.7584008
+39,Vancouver,3925123,Early Learning Program,Sir Alexander Mackenzie StrongStart Centre,960 39th Ave E,Vancouver,,604 713-4799,,49.23422362,-123.0860441
+68,Nanaimo-Ladysmith,6825297,Early Learning Program,Frank J. Ney StrongStart Centre,5301 Williamson Rd,Nanaimo,,250 729-8045,,49.2349309,-123.9908283
+39,Vancouver,3925127,Early Learning Program,Collingwood AM StrongStart Centre,3417 Euclid Ave,Vancouver,,604 713-5340,604 713-5339,49.2363748,-123.0322852
+39,Vancouver,3925248,Early Learning Program,Collingwood PM StrongStart Centre,3417 Euclid Ave,Vancouver,,604 713-4595,604 713-5339,49.2363748,-123.0322852
+43,Coquitlam,4325139,Early Learning Program,Hazel Trembath StrongStart Centre,1278 Confederation Dr,Port Coquitlam,,604 464-9422,,49.23831661,-122.7804267
+68,Nanaimo-Ladysmith,6825295,Early Learning Program,McGirr StrongStart Centre,6199 McGirr Rd,Nanaimo,,250 758-8946,,49.24070278,-124.033173
+39,Vancouver,3925250,Early Learning Program,Sir Wilfred Grenfell StrongStart Centre,3323 Wellington Ave,Vancouver,,604 713-4844,,49.24275746,-123.0345395
+41,Burnaby,4125129,Early Learning Program,Cascade Heights StrongStart Centre,4343 Smith Ave,Burnaby,,604 296-9007,,49.24625305,-123.0203808
+43,Coquitlam,4325264,Early Learning Program,Mundy Road StrongStart Centre,2200 Austin Ave,Coquitlam,,604 936-4271,,49.24872141,-122.8333686
+39,Vancouver,3925042,Early Learning Program,Lord Selkirk StrongStart Centre,1750 22nd Ave E,Vancouver,,604 713-4650,604 713-4657,49.24968731,-123.0690232
+85,Vancouver Island North,8525080,Early Learning Program,Robert Scott StrongStart Centre,6855 Market St,Port Hardy,,250 949-6362,,49.25015254,-124.0769666
+39,Vancouver,3925125,Early Learning Program,Renfrew Community StrongStart Centre,3315 22nd Ave E,Vancouver,,604 713-4851,604 713-4854,49.25121147,-123.032903
+43,Coquitlam,4325008,Early Learning Program,Roy Stibbs StrongStart Centre,600 Fairview St,Coquitlam,,604 939-2486,,49.25380031,-122.8834025
+43,Coquitlam,4325263,Early Learning Program,Central StrongStart Centre,2260 Central Ave,Port Coquitlam,,604 941-0355,,49.2555599,-122.7808767
+43,Coquitlam,4325009,Early Learning Program,Riverview StrongStart Centre,700 Clearwater Way,Coquitlam,,604 945-7004,,49.2569546,-122.8059765
+41,Burnaby,4125258,Early Learning Program,Stoney Creek Community StrongStart Centre,2740 Beaverbrook Cres,Burnaby,,604 296-9031,,49.2590863,-122.9036561
+39,Vancouver,3925122,Early Learning Program,Florence Nightingale StrongStart Centre,2740 Guelph St,Vancouver,,604 713-5290,,49.26022459,-123.0944211
+39,Vancouver,3925255,Early Learning Program,Queen Alexandra StrongStart Centre,1300 Broadway E,Vancouver,,604 713-4599,,49.26189081,-123.0769977
+39,Vancouver,3925249,Early Learning Program,Thunderbird StrongStart Centre,2325 Cassiar St,Vancouver,,604 713-4611,,49.26342782,-123.0315461
+39,Vancouver,3925253,Early Learning Program,Mount Pleasant StrongStart Centre,2300 Guelph St,Vancouver,,604 713-4617,,49.26393339,-123.0943456
+41,Burnaby,4125005,Early Learning Program,Forest Grove StrongStart Centre,8525 Forest Grove Dr,Burnaby,,604 296-9026,,49.26484234,-122.9179593
+43,Coquitlam,4325265,Early Learning Program,Cedar Drive StrongStart Centre,3150 Cedar Dr,Port Coquitlam,,604 941-3481,,49.2691945,-122.7398848
+43,Coquitlam,4325137,Early Learning Program,Birchland StrongStart Centre,1331 Fraser Ave,Port Coquitlam,,604 942-6658,,49.2692642,-122.751671
+41,Burnaby,4125257,Early Learning Program,Kitchener StrongStart Centre,1351 Gilmore Ave,Burnaby,,604 296-9017,,49.2729736,-123.0152813
+41,Burnaby,4125256,Early Learning Program,Lochdale Community StrongStart Centre,6990 Aubrey St,Burnaby,,604 296-9019,,49.27305427,-122.9608079
+39,Vancouver,3925416,Early Learning Program,Admiral Seymour StrongStart Centre,1130 Keefer St,Vancouver,,604 713-4641,,49.2786789,-123.0802888
+43,Coquitlam,4325268,Early Learning Program,Seaview StrongStart Centre,1215 Cecile Dr,Port Moody,,604 936-9991,,49.280187,-122.8771578
+39,Vancouver,3925315,Early Learning Program,Xpey' StrongStart Centre,1950 Hastings St E,Vancouver,,604 713-4696,,49.28055384,-123.0647057
+39,Vancouver,3925247,Early Learning Program,Tillicum Annex StrongStart Centre,2450 Cambridge St,Vancouver,,604 713-4716,,49.2864098,-123.055495
+43,Coquitlam,4325141,Early Learning Program,Coquitlam River StrongStart Centre,4250 Shaughnessy St,Port Coquitlam,,604 942-0241,,49.288373,-122.7665142
+43,Coquitlam,4325267,Early Learning Program,Meadowbrook StrongStart Centre,195 Barber St,Port Moody,,604 469-9288,,49.2953364,-122.8550299
+44,North Vancouver,4425143,Early Learning Program,Lynnmour StrongStart Centre,800 Forsman Ave,North Vancouver,,604 903-3590,604 903-3591,49.31433122,-123.0305828
+44,North Vancouver,4425269,Early Learning Program,Seymour Heights StrongStart Centre,2640 Carnation St,North Vancouver,,604 903-3760,604 903-3761,49.31863657,-123.0008545
+44,North Vancouver,4425144,Early Learning Program,Norgate StrongStart Centre,1295 Sowden St,North Vancouver,,604 903-3680,604 903-3681,49.32110439,-123.1103507
+44,North Vancouver,4425142,Early Learning Program,Eastview StrongStart Centre,1801 Mountain Hwy,North Vancouver,,604 903-3520,604 903-3521,49.3249295,-123.0398737
+69,Qualicum,6925087,Early Learning Program,MDC StrongStart Partnership,499 W Island Hwy,Parksville,,250 947-8252,,49.325335,-124.327847
+45,West Vancouver,4525047,Early Learning Program,Hollyburn StrongStart Centre,1329 Duchess Ave,West Vancouver,,604 981-1220,,49.3298891,-123.1521542
+44,North Vancouver,4425270,Early Learning Program,Boundary StrongStart Centre,750 E 26th St,North Vancouver,,604 903-3260,604 903-3261,49.33365897,-123.052541
+20,Trail,2025211,Early Learning Program,Robson StrongStart Centre,3131 Waldie Ave,Robson,,250 365-5922,,49.3354425,-117.6985053
+53,Southern Okanagan,5325011,Early Learning Program,Okanagan Falls StrongStart Centre,1141 Cedar St,Okanagan Falls,,250 497-5414,250 597-8279,49.3421,-119.575
+69,Qualicum,6925171,Early Learning Program,Qualicum Beach StrongStart Centre,744 Primrose St,Qualicum Beach,,250 752-5176,,49.34503133,-124.4438178
+45,West Vancouver,4525145,Early Learning Program,Eagle Harbour StrongStart Centre,5575 Marine Dr,West Vancouver,,604 981-1380,,49.35365469,-123.2597197
+44,North Vancouver,4425271,Early Learning Program,Montroyal StrongStart Centre,5310 Sonora Dr,North Vancouver,,604 903-3650,604 903-3651,49.36110857,-123.0976618
+78,Fraser-Cascade,7825072,Early Learning Program,Coquihalla StrongStart Centre,455 6 AVE,Hope,,604 826-9239,,49.38710931,-121.4383733
+46,Sunshine Coast,4625086,Early Learning Program,Gibsons StrongStart Centre,783 School Rd,Gibsons,,604 741-5787,,49.40595325,-123.5140692
+46,Sunshine Coast,4625274,Early Learning Program,Roberts Creek StrongStart Centre,1088 Roberts Creek Rd,Roberts Creek,,604 741-5787,604 885-2617,49.4233587,-123.6438959
+58,Nicola-Similkameen,5825058,Early Learning Program,John Allison StrongStart Centre,499 Corina Ave,Princeton,,250 295-6727,,49.45712065,-120.5293862
+46,Sunshine Coast,4625048,Early Learning Program,Sechelt StrongStart Centre,5538 Shorncliffe Ave,Sechelt,,604 741-5787,604 885-2617,49.47295905,-123.7644054
+46,Sunshine Coast,4625273,Early Learning Program,Halfmoon Bay StrongStart Centre,8086 Northwood Rd RR 1,Halfmoon Bay,,604 741-5787,604 885-2617,49.48227983,-123.8849309
+67,Okanagan-Skaha,6725293,Early Learning Program,Carmi StrongStart Centre,400 Carmi Ave,Penticton,,250 770-7697,250 770-7619,49.4824,-119.581
+67,Okanagan-Skaha,6725294,Early Learning Program,Columbia StrongStart Centre,1437 Allison St,Penticton,,250 770-7676,250 770-7677,49.486,-119.557
+67,Okanagan-Skaha,6725024,Early Learning Program,Queens Park StrongStart Centre,330 Power St,Penticton,,250 770-7680,250 770-7681,49.4961433,-119.6028152
+5,Southeast Kootenay,525017,Early Learning Program,Amy Woodland StrongStart Centre,911 6th St S,Cranbrook,,250 426-7258,250 426-1815,49.5025578,-115.7677916
+5,Southeast Kootenay,525088,Early Learning Program,Isabella Dicken StrongStart Centre,1302 Second Ave,Fernie,,250 423-4651,250 423-7661,49.51045198,-115.0550843
+5,Southeast Kootenay,525028,Early Learning Program,Steeples StrongStart Centre,700 24th Ave N,Cranbrook,,250 426-3352,250 426-0620,49.5181,-115.747
+67,Okanagan-Skaha,6725167,Early Learning Program,Giant's Head StrongStart Centre,10503 Prairie Valley Rd,Summerland,,250 770-7671,250 770-7672,49.59684036,-119.684753
+46,Sunshine Coast,4625146,Early Learning Program,Madeira Park StrongStart Centre,5012 Gonzales Rd,Madeira Park,,604 741-5787,604 885-2617,49.62106213,-124.0259147
+6,Rocky Mountain,625089,Early Learning Program,Blarchmont Learning Centre,1850 Warren Ave,Kimberley,,250 427-5309,250 342-6966,49.67132997,-115.9794335
+71,Comox Valley,7125068,Early Learning Program,Courtenay StrongStart Centre,1540 McPhee Ave,Courtenay,,250 338-5396,,49.68225916,-124.9982367
+71,Comox Valley,7125173,Early Learning Program,Brooklyn StrongStart Centre,1475 Noel Ave,Comox,,250 339-4866,,49.6869996,-124.9048033
+48,Sea to Sky,4825275,Early Learning Program,Valleycliffe StrongStart Centre,38430 Westway Ave,Squamish,,604 892-9394,,49.7032708,-123.1229528
+48,Sea to Sky,4825051,Early Learning Program,Sea to Sky StrongStart Centre,38370 Buckley Ave,Squamish,,604 892-5796,,49.70472025,-123.1494693
+71,Comox Valley,7125014,Early Learning Program,Queneesh StrongStart Centre,2345 Mission Rd,Courtenay,,250 334-4089,,49.71349337,-124.9734494
+5,Southeast Kootenay,525204,Early Learning Program,Frank J Mitchell StrongStart Centre,101 Blue Spruce Cres.,Sparwood,,250 425-7818,250 425-2426,49.7361573,-114.8928227
+47,Powell River,4725147,Early Learning Program,Kelly Creek StrongStart Centre,2341 Zilinsky Rd RR 3,Powell River,,604 487-9022,,49.77891341,-124.3765874
+84,Vancouver Island West,8425078,Early Learning Program,Ray Watkins StrongStart Centre,500 Trumpeter Dr,Gold River,,250 283-2241,250 283-7352,49.78318018,-126.0516858
+23,Central Okanagan,2325413,Early Learning Program,Peachland StrongStart Centre,5486 Clements Cres,Peachland,,250 870-5122,250 870-5051,49.78650472,-119.7176836
+23,Central Okanagan,2325094,Early Learning Program,George Pringle StrongStart Centre,3770 Elliot Rd,Westbank,,250 870-5103,,49.8272,-119.632
+78,Fraser-Cascade,7825073,Early Learning Program,Boston Bar StrongStart Centre,47632 Old Boston Bar Rd,Boston Bar,,604 867-9222,,49.86130922,-121.4417303
+23,Central Okanagan,2325214,Early Learning Program,Hudson Road StrongStart Centre,1221 Hudson Rd,Kelowna,,250 870-5141,250 870-5037,49.8614,-119.565
+23,Central Okanagan,2325216,Early Learning Program,Raymer StrongStart Centre,657 Raymer Ave,Kelowna,,250 870-5125,,49.8651826,-119.4890325
+47,Powell River,4725049,Early Learning Program,Henderson StrongStart Centre,5506 Willow Ave,Powell River,,604 483-9162,,49.8655,-124.544
+23,Central Okanagan,2325033,Early Learning Program,A S Matheson StrongStart Centre,2090 Gordon Dr,Kelowna,,250 870-5112,,49.8760059,-119.4779193
+23,Central Okanagan,2325213,Early Learning Program,South Rutland StrongStart Centre,200 Mallach Rd,Kelowna,,250 870-5113,,49.8874659,-119.3818469
+23,Central Okanagan,2325093,Early Learning Program,Pearson Road StrongStart Centre,700 Pearson Rd,Kelowna,,250 870-5118,250 870-5049,49.8988556,-119.3994835
+72,Campbell River,7225070,Early Learning Program,Georgia Park StrongStart Centre,678 Hudson Rd,Campbell River,,250 923-0735,,49.96428806,-125.2296909
+72,Campbell River,7225300,Early Learning Program,Sandowne StrongStart Centre,699 Sandowne Dr,Campbell River,,250 923-4248,,49.99034265,-125.243571
+10,Arrow Lakes,1025091,Early Learning Program,Lucerne StrongStart Centre,604 7th Avenue,New Denver,,250 265-3638,250 358-2533,49.9926095,-117.3702659
+72,Campbell River,7225069,Early Learning Program,Cedar StrongStart Centre,261 Cedar St,Campbell River,,250 287-8335,,50.01245764,-125.2447193
+23,Central Okanagan,2325215,Early Learning Program,Peter Greer StrongStart Centre,10300 Sherman Dr,Winfield,,250 870-5129,,50.0317533,-119.3891771
+58,Nicola-Similkameen,5825023,Early Learning Program,Diamond Vale StrongStart Centre,2675 Coldwater Ave,Merritt,,250 378-2514,,50.10352316,-120.7754088
+58,Nicola-Similkameen,5825282,Early Learning Program,Merritt Central StrongStart Centre,1501 Voght St,Merritt,,250 378-9931,250 378-6804,50.10742195,-120.7927386
+58,Nicola-Similkameen,5825157,Early Learning Program,Nicola Canford StrongStart Centre,2311 Postell Rd SS 2,Lower Nicola,,250 378-2172,250 378-5270,50.152,-120.883
+22,Vernon,2225313,Early Learning Program,Okanagan Landing StrongStart Centre,7322 Grant Rd,Vernon,,250 542-1181,250 542-5047,50.2369,-119.344
+10,Arrow Lakes,1025031,Early Learning Program,Nakusp StrongStart Centre,619 A 4th St NW,Nakusp,,250 256-3638,250 265-3081,50.2442064,-117.803489
+22,Vernon,2225279,Early Learning Program,Alexis Park AM StrongStart Centre,4205 35 St,Vernon,,250 545-7289,250 558-3610,50.2738,-119.279
+22,Vernon,2225018,Early Learning Program,Alexis Park PM StrongStart Centre,4205 35 St,Vernon,,250 545-7289,250 558-3610,50.27721417,-119.2612638
+48,Sea to Sky,4825148,Early Learning Program,Signal Hill StrongStart Centre,1410 Portage Rd,Pemberton,,604 894-6378,,50.31904952,-122.8044544
+83,North Okanagan-Shuswap,8325309,Early Learning Program,Highland Park StrongStart Centre,3200 Wood Ave,Armstrong,,250 546-8723,250 804-7788,50.44984451,-119.2015086
+85,Vancouver Island North,8525081,Early Learning Program,Cheslakees StrongStart Centre,2853 Mine Rd,Port Mcneill,,250 956-3411,,50.5802,-127.065
+73,Kamloops-Thompson,7325302,Early Learning Program,Beattie StrongStart Centre,492 McGill Rd,Kamloops,,250 374-0608,250 377-2242,50.67018569,-120.3523116
+73,Kamloops-Thompson,7325177,Early Learning Program,Marion Schilling StrongStart Centre,2200 Park Dr,Kamloops,,250 372-7795,,50.67615243,-120.2553362
+83,North Okanagan-Shuswap,8325185,Early Learning Program,South Broadview StrongStart Centre,4750 10 Ave SW,Salmon Arm,,250 832-2167,250 832-7003,50.69227818,-119.3400111
+74,Gold Trail,7425071,Early Learning Program,Cayoosh StrongStart Centre,351 6th Ave West,Lillooet,,250 256-4212,250 256-7953,50.69237399,-121.939703
+73,Kamloops-Thompson,7325015,Early Learning Program,Arthur Hatton StrongStart Centre,315 Chestnut Ave,Kamloops,,250 376-7231,,50.69516024,-120.3516108
+83,North Okanagan-Shuswap,8325206,Early Learning Program,District Education Support Centre (DESC) StrongStart Centre,341 Shuswap St S,Salmon Arm,,250 832-2157,250 832-9428,50.697855,-119.286048
+73,Kamloops-Thompson,7325427,Early Learning Program,A E Perry StrongStart Centre,1380 Sherbrooke Ave,Kamloops,,250 376-6224,,50.70491522,-120.3769395
+73,Kamloops-Thompson,7325301,Early Learning Program,Haldane StrongStart Centre,530 Cottonwood St,Chase,,250 679-3269,,50.81518848,-119.6885156
+83,North Okanagan-Shuswap,8325077,Early Learning Program,Parkview StrongStart Centre,605 Parksville St,Sicamous,,250 836-2781,250 804-7792,50.8348,-118.976
+74,Gold Trail,7425178,Early Learning Program,Clinton StrongStart Centre,1203 Cariboo Ave,Clinton,,250 459-2219,250 459-7949,51.08566491,-121.5900778
+73,Kamloops-Thompson,7325176,Early Learning Program,Barriere StrongStart Centre,4475 Airfield Rd,Barriere,,250 672-9916,,51.1786,-120.129
+6,Rocky Mountain,625029,Early Learning Program,Alexander Park StrongStart Centre,1000  14th St. South,Golden,,250 344-5513,250 342-6966,51.29548491,-116.9535451
+27,Cariboo-Chilcotin,2725035,Early Learning Program,100 Mile StrongStart Centre,97 Birch Ave,100 Mile House,,250 395-2258,,51.64717374,-121.2933565
+73,Kamloops-Thompson,7325175,Early Learning Program,Raft River StrongStart Centre,801 Clearwater Village Rd,Clearwater,,250 674-2218,,51.64755485,-120.0095722
+27,Cariboo-Chilcotin,2725217,Early Learning Program,Mountview StrongStart Centre,1222 Dog Creek Rd,Williams Lake,,250 392-7344,,52.0998637,-122.1234469
+27,Cariboo-Chilcotin,2725034,Early Learning Program,Cataline Strong Start Centre,1175 Blair St,Williams Lake,,250 392-7154,250 392-2989,52.13365166,-122.1448055
+27,Cariboo-Chilcotin,2725095,Early Learning Program,Marie Sharpe StrongStart Centre,260 Cameron St,Williams Lake,,250 392-4104,,52.13365166,-122.1448055
+49,Central Coast,4925052,Early Learning Program,Nusatsum StrongStart Centre,1963 Hwy 20,Hagensborg,,250 982-2355,,52.388737,-126.538529
+28,Quesnel,2825219,Early Learning Program,Ecole Baker StrongStart Centre,610 Wade Ave,Quesnel,,250 992-8383,,52.9697,-122.516
+28,Quesnel,2825002,Early Learning Program,Dragon Lake StrongStart Centre,2671 Hydraulic Rd,Quesnel,,250 747-2142,250 747-2498,52.97265543,-122.4325424
+28,Quesnel,2825344,Early Learning Program,Bouchie Lake StrongStart Centre,2074 Blackwater Rd,Quesnel,,250 249-5913,,53.02678406,-122.5954817
+50,Queen Charlotte,5025149,Early Learning Program,Agnes L Mathers StrongStart Centre,403 School Rd,Sandspit,,250 637-5454,,53.24398081,-131.8256697
+57,Prince George,5725156,Early Learning Program,SD57 StrongStart Centre 05,3500 Westwood Dr,Prince George,,250 562-5822,,53.88578944,-122.7789193
+57,Prince George,5725057,Early Learning Program,SD57 StrongStart Centre 02,2579 Victoria St,Prince George,,250 567-7201,,53.89857498,-122.756708
+57,Prince George,5725154,Early Learning Program,SD57 StrongStart Centre 03,1401 17th Ave,Prince George,,250 562-2737,,53.907636,-122.7520322
+57,Prince George,5725155,Early Learning Program,SD57 StrongStart Centre 04,1193 Harper St,Prince George,,250 562-1773,,53.91373369,-122.7777879
+57,Prince George,5725280,Early Learning Program,SD57 StrongStart Centre 06,251 Ogilvie St S,Prince George,,250 964-4334,,53.9228984,-122.7893936
+57,Prince George,5725314,Early Learning Program,SD57 StrongStart Centre 08,7151 Heather Park Rd,Prince George,,250 962-6966,,53.9948315,-122.8089614
+50,Queen Charlotte,5025053,Early Learning Program,Tahayghen StrongStart Centre,2151 Tahayghen Dr,Masset,,250 626-5572,,54.015028,-132.1491875
+91,Nechako Lakes,9125310,Early Learning Program,W L Mcleod StrongStart Centre,187 E Victoria,Vanderhoof,,250 567-2267,,54.01954994,-124.0071089
+82,Coast Mountains,8225184,Early Learning Program,Kildala StrongStart Centre,803 Columbia Ave E,Kitimat,,250 632-9194,,54.050307,-128.6600545
+52,Prince Rupert,5225055,Early Learning Program,Pineridge StrongStart Centre,1700 Sloan Ave,Prince Rupert,,250 627-7054,250 627-7054,54.2987741,-130.3366571
+52,Prince Rupert,5225421,Early Learning Program,Lax Kxeen StrongStart Centre,601 William Booth Way,Prince Rupert,,250 624-6218,,54.318046,-130.309636
+52,Prince Rupert,5225010,Early Learning Program,Conrad StrongStart Centre,825 Conrad St,Prince Rupert,,250 624-4935,250 627-4164,54.3209013,-130.3002244
+54,Bulkley Valley,5425153,Early Learning Program,Silverthorne StrongStart Centre,3455 13th St,Houston,,250 845-2228,250 845-3553,54.3976,-126.645
+91,Nechako Lakes,9125186,Early Learning Program,David Hoy StrongStart Centre,733 W 4 Ave,Fort St. James,,250 886-8237,,54.44800261,-124.2577652
+82,Coast Mountains,8225386,Early Learning Program,Cassie Hall StrongStart Centre,2620 Eby St,Terrace,,250 635-5646,,54.50890515,-128.5985443
+82,Coast Mountains,8225307,Early Learning Program,Thornhill StrongStart Centre,3860 Paquette Ave,Terrace,,250 635-7066,,54.5111094,-128.5382809
+54,Bulkley Valley,5425022,Early Learning Program,Muheim Memorial StrongStart Centre,3569 3rd Ave,Smithers,,250 847-2688,250 847-4734,54.7781195,-127.1673682
+57,Prince George,5725281,Early Learning Program,SD57 StrongStart Centre 07,310 Nechako Dr,Mackenzie,,250 997-6340,,55.34084118,-123.1035243
+59,Peace River South,5925283,Early Learning Program,Don Titus StrongStart Centre,5304 47 Ave,Chetwynd,,250 788-2531,,55.69882295,-121.6375479
+59,Peace River South,5925060,Early Learning Program,Tremblay StrongStart Centre,11311 13A St,Dawson Creek,,250 782-8147,250 782-7043,55.7466022,-120.2398245
+60,Peace River North,6025285,Early Learning Program,Hudson's Hope StrongStart Centre,10441 Holland St,Hudson's Hope,,250 783-9994,,56.02602412,-121.9222536
+60,Peace River North,6025061,Early Learning Program,Duncan Cran StrongStart Centre,8130 89 Ave,Fort St John,,250 787-0417,,56.23583443,-120.8144913
+60,Peace River North,6025159,Early Learning Program,Robert Ogilvie StrongStart Centre,9907 86 St,Fort St John,,250 785-3704,,56.2459145,-120.820421
+19,Revelstoke,1925001,Early Learning Program,Begbie View StrongStart Centre,1001 Mackenzie Avenue,Revelstoke,,250 805-2306,,50.9921652,-118.202174
+33,Chilliwack,3325097,Early Learning Program,Rosedale StrongStart Centre,50850 Yale Road,Rosedale,,604 794-7124,,49.17397911,-121.8180265
+34,Abbotsford,3425455,Early Learning Program,Blue Jay Elementary StrongStart,30995 Southern Dr,Abbotsford,,604 854-4316,,49.05834581,-122.3662141
+37,Delta,3725242,Early Learning Program,McCloskey Elementary PM StrongStart Centre,11531 80 Ave,Delta,,604 596-9554,,49.14950431,-122.9039653
+38,Richmond,3825021,Early Learning Program,McNeely StrongStart Centre,12440 Woodhead Rd,Richmond,,604 295-6431,,49.1824211,-123.0850197
+39,Vancouver,3925436,Early Learning Program,John Henderson StrongStart Centre,451 53rd Ave E,Vancouver,,604 713-4837,,49.2227349,-123.0950757
+40,New Westminster,4025044,Early Learning Program,Queen Elizabeth StrongStart Centre,833 Salter St,New Westminster,,604 517-6040,604 517-6041,49.18633078,-122.9409197
+42,Maple Ridge,4225135,Early Learning Program,Blue Mountain StrongStart Centre,24789 Dewdney Trunk Rd,Maple Ridge,,604 463-6287,604 463-0896,49.22149454,-122.5364037
+42,Maple Ridge,4225136,Early Learning Program,c`usqunela StrongStart Centre,24093 104 Ave,Maple Ridge,,,,49.191652,-122.554492
+43,Coquitlam,4325140,Early Learning Program,Bramblewood StrongStart Centre,2960 Walton Ave,Coquitlam,,604 941-1962,,49.28932037,-122.797489
+43,Coquitlam,4325266,Early Learning Program,Moody StrongStart Centre,3115 St Johns St,Port Moody,,604 461-7384,604 937-8047,49.2749656,-122.8387789
+43,Coquitlam,4325138,Early Learning Program,Rochester StrongStart Centre,1300 Rochester Ave,Coquitlam,,604 931-3574,,49.24445877,-122.8557679
+44,North Vancouver,4425046,Early Learning Program,Westview StrongStart Centre,1660 Bewicke Ave,North Vancouver,,604 903-3840,604 903-3841,49.3237923,-123.0895232
+45,West Vancouver,4525272,Early Learning Program,Bowen Island StrongStart Centre,1041 Mount Gardner Rd,Bowen Island,,604 947-9337,,49.38136207,-123.3420533
+51,Boundary,5125150,Early Learning Program,Greenwood StrongStart Centre,785 Copper Road,Greenwood,,250 445-6616,,49.10593682,-118.6777997
+53,Southern Okanagan,5325056,Early Learning Program,Oliver StrongStart Centre,809 School Avenue,Oliver,,250 498-3468,250 498-0339,49.18279269,-119.5571801
+57,Prince George,5725012,Early Learning Program,SD57 StrongStart Centre 01,3455 13th Avenue,Prince George,,250 563-4208,,53.91543335,-122.7930928
+59,Peace River South,5925059,Early Learning Program,Dawson Creek StrongStart Centre,10701 10th St,Dawson Creek,,250 782-5585,,55.75434797,-120.2342533
+59,Peace River South,5925439,Early Learning Program,Tumbler Ridge StrongStart Centre,180 Southgate St,Tumbler Ridge,,250 242-4227,250 242-3600,55.1238717,-121.0015171
+61,Greater Victoria,6125063,Early Learning Program,George Jay Community StrongStart Centre,2260 Victor St,Victoria,,250 385-3381,250 360-0952,48.43214366,-123.3375227
+70,Alberni,7025172,Early Learning Program,A W Neill StrongStart Centre,5055 Compton Rd,Port Alberni,,250 723-8151,,49.26975848,-124.8160681
+71,Comox Valley,7125299,Early Learning Program,Cumberland StrongStart Centre,2674 Windermere Ave,Cumberland,,250 336-8521,,49.62154095,-125.0333844
+72,Campbell River,7225174,Early Learning Program,Sayward StrongStart Centre,690 Kelsey Way,Sayward,,250 282-3314,,50.37726071,-125.9578524
+74,Gold Trail,7425444,Early Learning Program,Desert Sands StrongStart Centre,435 Ranch Road,Ashcroft,,250 453-9144,250 453-2368,50.73415592,-121.2677641
+81,Fort Nelson,8125075,Early Learning Program,G W Carlson StrongStart Centre,5617 51 St,Fort Nelson,,250 774-6941,250 774-6988,58.81331643,-122.6977011
+81,Fort Nelson,8125183,Early Learning Program,J S Clark StrongStart Centre,5209 45 St,Fort Nelson,,250 774-3145,250 774-2598,58.80799643,-122.6886038
+82,Coast Mountains,8225076,Early Learning Program,Suwilaawks StrongStart Centre,3430 Sparks St,Terrace,,250 638-0306,,54.52250478,-128.592018
+83,North Okanagan-Shuswap,8325027,Early Learning Program,M.V. Beattie StrongStart Centre,1308 Sicamous Rd,Enderby,,250 838-6434,250 804-7790,50.55482137,-119.1426959
+84,Vancouver Island West,8425079,Early Learning Program,Zeballos StrongStart Centre,675 Keno Crescent,Zeballos,,250 761-4227,250 761-4234,49.98965439,-126.8504429
+91,Nechako Lakes,9125084,Early Learning Program,William Konkin StrongStart Centre,750 Carroll St,Burns Lake,,250 692-7505,,54.23590349,-125.7525899
+93,Conseil scolaire francophone,9325085,Early Learning Program,Franc Depart Pionners,1618 Patricia Ave,Port Coquitlam,,604 552-7915,604 552-7916,49.2758518,-122.7610044

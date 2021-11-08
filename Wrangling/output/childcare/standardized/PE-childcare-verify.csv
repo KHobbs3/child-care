@@ -1,0 +1,18 @@
+,,,,Unnamed: 0,Unnamed: 0,Unnamed: 0,Unnamed: 0,Unnamed: 0,Unnamed: 0,Unnamed: 0,Unnamed: 0
+,,,,count,mean,std,min,25%,50%,75%,max
+Centre Accepts,infant,toddler,school_age,,,,,,,,
+2 Years,N,Y,N,2.0,58.5,13.435028842544403,49.0,53.75,58.5,63.25,68.0
+"2 Years, 3 Years, 4 Years",N,Y,N,4.0,45.25,29.227555491350966,14.0,27.5,42.5,60.25,82.0
+"2 Years, 3 Years, 4 Years, 5 Years",N,Y,N,2.0,67.5,16.263455967290593,56.0,61.75,67.5,73.25,79.0
+"2 Years, 3 Years, 4 Years, 5 Years, School Age",N,Y,Y,4.0,28.0,31.379398762032817,0.0,14.25,19.5,33.25,73.0
+3 Years,N,Y,N,4.0,45.25,11.236102527122116,30.0,42.0,47.0,50.25,57.0
+"3 Years, 4 Years",N,Y,N,2.0,73.5,3.5355339059327378,71.0,72.25,73.5,74.75,76.0
+"4 Years, 5 Years, School Age",N,Y,Y,3.0,31.333333333333332,36.610563138708116,1.0,11.0,21.0,46.5,72.0
+"5 Years, School Age",N,Y,Y,1.0,36.0,,36.0,36.0,36.0,36.0,36.0
+School Age,N,N,Y,10.0,34.8,18.0357669337594,5.0,27.0,34.5,44.75,64.0
+Under 2 Years,Y,N,N,1.0,74.0,,74.0,74.0,74.0,74.0,74.0
+"Under 2 Years, 2 Years, 3 Years, 4 Years",Y,Y,N,3.0,33.666666666666664,37.5410886008029,11.0,12.0,13.0,45.0,77.0
+"Under 2 Years, 2 Years, 3 Years, 4 Years, 5 Years",Y,Y,N,2.0,72.0,16.97056274847714,60.0,66.0,72.0,78.0,84.0
+"Under 2 Years, 2 Years, 3 Years, 4 Years, 5 Years, School Age",Y,Y,Y,9.0,32.666666666666664,28.151376520518493,4.0,7.0,26.0,54.0,85.0
+"Under 2 Years, 3 Years, 4 Years, 5 Years",Y,Y,N,1.0,78.0,,78.0,78.0,78.0,78.0,78.0
+"Under 2 Years, 4 Years, 5 Years",Y,Y,N,1.0,18.0,,18.0,18.0,18.0,18.0,18.0

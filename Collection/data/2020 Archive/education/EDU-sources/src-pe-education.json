@@ -1,0 +1,22 @@
+{
+  "localfile": "PE-education.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://www.canada.ca/en/employment-social-development/programs/designated-schools.html",
+  "provider": "Employment and Social Development Canada",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "EI Name",
+          "source_facility_type": "EI Type",
+          "source_id": "EI Code"
+      },
+      "address" : {
+          "full_address": "Address"
+      }
+  }
+}

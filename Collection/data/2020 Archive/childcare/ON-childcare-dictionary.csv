@@ -1,0 +1,20 @@
+,Title or Field Heading - EN,Definition - EN,Title or Field Heading - FR,Definition - FR
+0,Child Care Facilities ,It refers to the title of the open data set,Services de garde d’enfants ,Fait référence au titre de l’ensemble de données ouvert
+1,Report Snapshot Date,"It refers to the last day in previous month, last day generating report data in current month.",Date de l’instantané du rapport,"Fait référence au dernier jour du mois antérieur, dernier jour de production des données du rapport dans le mois en cours."
+2,Licensee Name,Name for a Child Care Licensee,Nom du titulaire de permis,Nom du titulaire de permis pour la garde d’enfants
+3,Program Type Desc,Name given to the Licence program  i.e. child care center or home child care agency,Description du type de programme,"Nom donné au programme du permis, p. ex. centre de garde d’enfants, agence de services de garde en milieu familial"
+4,Region Display Name,Name of an EDU region,Nom d’affichage de la région,Nom du ministère de l’Éducation pour la région
+5,CMSM DSSAB Name,Name representing either an Consolidated Municipal Service Manager (CMSM) or District Social Service Administrion Board (DSSAB) service area,Nom du GSMR/CADSS,Nom représentant soit le gestionnaire des services municipaux regroupés (GSMR) ou le conseil d’administration de district des services sociaux (CADSS) pour la zone de service
+6,Child Care Center Name,Name for child care center or home child care agency for the current licence,Nom du centre de garde d’enfants,Nom du centre de garde d’enfants ou de l’agence de garde en milieu familial pour le permis actuel
+7,Licence Number,Unique number associated with each licence,Numéro de permis,Numéro unique associé à chaque permis
+8,Program Option,Concatenation of all descriptions for program option flags at a given child care site,Option du programme,Concaténation de toutes les descriptions du programme pour les signalements de l’option de programme dans un centre de garde d’enfants donné
+9,Original Issue Date,Licence first issue date when the application was granted with a licence,Date d’émission initiale,Première date d’émission du permis lors de l’agrément de la demande
+10,Licence Status,A status description to identify whether a licence is active or inactive,Statut du permis,Une description du statut pour indiquer si le permis est actif ou inactif
+11,Closure or Termination Date,Date a licence was closed or terminated,Date de révocation ou de résiliation,Date à laquelle le permis a été révoqué ou résilié
+12,Language of Service Desc,A list of languages spoken at a site ,Langue de la description des services,Liste des langues parlées dans un centre 
+13,Street Number ,Street number for child care site civic address,Numéro de rue ,Numéro de rue pour l’adresse municipale du service de garde d’enfants
+14,Street Name ,Street name for child care site civic address,Nom de rue ,Nom de rue pour l’adresse municipale du service de garde d’enfants
+15,Street Type ,Street Type for child care site civic address,Type de rue ,Type de rue pour l’adresse municipale du service de garde d’enfants
+16,City Name ,City name for child care site civic address,Nom de la ville ,Nom de la ville pour l’adresse municipale du service de garde d’enfants
+17,Province ,Province for child care site civic address,Province,Province pour l’adresse municipale du service de garde d’enfants
+18,Postal Code ,Postal code for child care site civic address,Code postal ,Code postal pour l’adresse municipale du service de garde d’enfants
