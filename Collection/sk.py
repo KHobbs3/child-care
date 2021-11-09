@@ -15,7 +15,6 @@ import requests
 from bs4 import BeautifulSoup
 from requests.auth import AuthBase
 import time
-import random
 from datetime import datetime
 
 headers = {'User-Agent': 'Statistics Canada bot created by Kaitlyn Hobbs (kaitlyn.hobbs@statcan.gc.ca)'}
@@ -57,7 +56,7 @@ for i in range(1,59):
     
     # Log & Sleep
     logfile.write('    {} Collected information.\n'.format(datetime.now()))
-    time.sleep(random.uniform(10,15))
+    time.sleep(5)
 
 # %% [markdown]
 # ##### Consolidate, Clean & Export:

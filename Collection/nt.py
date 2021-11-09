@@ -17,7 +17,6 @@ import requests
 from bs4 import BeautifulSoup
 from requests.auth import AuthBase
 import time
-import random
 from datetime import datetime
 
 headers = {'User-Agent': 'Statistics Canada bot created by Kaitlyn Hobbs (kaitlyn.hobbs@statcan.gc.ca)'}
@@ -105,7 +104,7 @@ for l in links:
         phone.append("none")
         
     # Log & Sleep
-    time.sleep(random.uniform(10,15))
+    time.sleep(5)
     logfile.write('{} Collected information.\n'.format(datetime.now()))
     
     counter +=1
@@ -171,7 +170,7 @@ for i in range(1,5):
         counter +=1
             
         # Log & Sleep
-        time.sleep(random.uniform(10,15))
+        time.sleep(5)
         logfile.write('    {} Collected information.\n'.format(datetime.now()))
 
 # %% [markdown]

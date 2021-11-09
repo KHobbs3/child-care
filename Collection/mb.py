@@ -17,7 +17,6 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 import time
-import random
 from datetime import datetime
 
 
@@ -115,7 +114,7 @@ for l in links:
     schoolage.append(driver.find_element_by_class_name("allow6to12").text)
     
     # Wait between urls
-    time.sleep(random.randint(5,15))
+    time.sleep(5)
 
 
 # %%

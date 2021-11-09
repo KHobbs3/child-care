@@ -17,7 +17,6 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 import time
-import random
 from tqdm import tqdm_notebook as tqdmn
 import folium
 from datetime import datetime
@@ -82,7 +81,7 @@ for i in range(1,9):
                     pass
                 
         # Sleep
-        time.sleep(random.randint(5,15))
+        time.sleep(5)
 
     if i == 8:
         # Last page

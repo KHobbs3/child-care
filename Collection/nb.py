@@ -18,7 +18,6 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 import time
-import random
 from datetime import datetime
 
 
@@ -86,7 +85,7 @@ elem1.click()
 
 # Log & sleep
 logfile.write('{} Element clicked.\n'.format(datetime.now()))
-time.sleep(random.randint(5,10))
+time.sleep(5)
 
 for i in range(0, 95):
     # Click through elements
@@ -95,7 +94,7 @@ for i in range(0, 95):
     
     # Log & sleep
     logfile.write('{} Element clicked.\n'.format(datetime.now()))
-    time.sleep(random.randint(5,10))
+    time.sleep(5)
 
 
 # %%
@@ -119,7 +118,7 @@ for i in range(2,15):
         
         # Log & sleep
         logfile.write('{} Table content collected.\n'.format(datetime.now()))
-        time.sleep(random.randint(5,15))
+        time.sleep(5)
 
 
 # %%
@@ -141,7 +140,7 @@ for i in range(1, 11):
     
     # Log & sleep
     logfile.write('{} Table content collected.\n'.format(datetime.now()))
-    time.sleep(random.randint(5,15))
+    time.sleep(5)
 
 
 # %%
@@ -188,7 +187,7 @@ for i in range(16,84):
             break
 
         # Sleep
-        time.sleep(random.randint(5,10))
+        time.sleep(5)
 
 
 # %% [markdown]

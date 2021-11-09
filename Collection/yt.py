@@ -16,7 +16,6 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import time
-import random
 from datetime import datetime
 
 headers = {'User-Agent': 'Statistics Canada bot created by Kaitlyn Hobbs (kaitlyn.hobbs@statcan.gc.ca)'}
