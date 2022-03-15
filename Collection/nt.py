@@ -46,7 +46,7 @@ links = set()
 
 # Connection
 url = 'https://www.ece.gov.nt.ca/en/childcare'
-r = requests.get(url)
+r = requests.get(url, headers=headers)
 s = BeautifulSoup(r.text)
 
 # Log
