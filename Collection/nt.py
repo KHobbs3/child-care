@@ -104,7 +104,7 @@ for l in links:
         phone.append("none")
         
     # Log & Sleep
-    time.sleep(5)
+    time.sleep(10)
     logfile.write('{} Collected information.\n'.format(datetime.now()))
     
     counter +=1
@@ -170,7 +170,7 @@ for i in range(1,5):
         counter +=1
             
         # Log & Sleep
-        time.sleep(5)
+        time.sleep(10)
         logfile.write('    {} Collected information.\n'.format(datetime.now()))
 
 # %% [markdown]
